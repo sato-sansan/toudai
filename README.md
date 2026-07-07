@@ -70,6 +70,9 @@ toudai/
    Settings → Secrets and variables → Actions → New repository secret →
    Name: `GEMINI_API_KEY` / Value: 取得したキー（[無料枠](https://aistudio.google.com/apikey)）
    ※未設定でも動きます（抽出型要約にフォールバック）。
+   ※既定モデルは `gemini-2.5-flash`。無料枠のレート制限（約10 req/分）に合わせて
+   記事ごとに間隔を空けるため、要約段は数分かかります（毎朝の自動実行なので支障なし）。
+   別モデルにしたい場合は secret / env `GEMINI_MODEL` で上書き可。
 4. **初回ビルド**: Actions タブ → 「灯台 daily build」→ Run workflow で手動実行
 5. **スマホで開く**: `https://<あなた>.github.io/toudai/` を開き、
    Safari共有メニュー →「ホーム画面に追加」でアプリ化

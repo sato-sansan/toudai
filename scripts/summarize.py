@@ -11,17 +11,23 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
 from collect import Article
 
-GEMINI_MODEL = "gemini-2.0-flash"
+# gemini-2.0-flash は無料枠を使い切りやすいため、現行の 2.5-flash を既定に。
+# 環境変数 GEMINI_MODEL で上書き可能。
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 GEMINI_ENDPOINT = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     f"{GEMINI_MODEL}:generateContent"
 )
-HTTP_TIMEOUT = 30
+HTTP_TIMEOUT = 40
+INTER_CALL_SLEEP = 7.0   # 無料枠は約10 req/分。それを下回るよう間隔をあける（毎朝の自動実行なので遅くても問題なし）
+MAX_CONSECUTIVE_FAIL = 3  # 連続失敗がこの回数に達したら以降は抽出型で通す（日次クォータ枯渇対策）
 
 
 def summarize_all(groups: list[dict]) -> list[dict]:
@@ -29,21 +35,52 @@ def summarize_all(groups: list[dict]) -> list[dict]:
     use_gemini = bool(api_key)
     if not use_gemini:
         print("[summarize] GEMINI_API_KEY 未設定 → 抽出型要約にフォールバック")
+    else:
+        print(f"[summarize] Gemini({GEMINI_MODEL})で要約 → 失敗時は抽出型に自動切替")
 
-    for group in groups:
-        for article in group["articles"]:
-            summary, quote = None, ""
-            if use_gemini:
-                try:
-                    summary, quote = _gemini_summary(article, api_key)
-                except Exception as exc:
-                    print(f"  [warn] Gemini失敗 → 抽出型に切替: {exc}")
-                    use_gemini = False  # 一度失敗したら以降は抽出型で通す（枠超過対策）
-            if not summary:
-                summary, quote = _extractive_summary(article)
-            article.summary = summary
-            article.jump_url = _build_jump_url(article.url, quote)
+    # ラウンドロビン順（各タブの先頭記事→2番目→…）で処理する。
+    # 無料枠が途中で尽きても、全タブの上位カード（＝音声にも使う重要記事）に
+    # Gemini要約が行き渡るようにするため。
+    order = _round_robin_order(groups)
+
+    consecutive_fail = 0
+    gemini_ok = 0
+    for article in order:
+        summary, quote = None, ""
+        if use_gemini:
+            try:
+                summary, quote = _gemini_summary(article, api_key)
+                consecutive_fail = 0
+                gemini_ok += 1
+                time.sleep(INTER_CALL_SLEEP)
+            except Exception as exc:
+                consecutive_fail += 1
+                # 単発の失敗（一時的なレート制限等）では止めず、連続で続いたら諦める
+                if consecutive_fail >= MAX_CONSECUTIVE_FAIL:
+                    print(f"  [warn] Gemini連続失敗{consecutive_fail}回 → 以降は抽出型: {str(exc)[:80]}")
+                    use_gemini = False
+                else:
+                    print(f"  [warn] Gemini失敗({consecutive_fail}回目、抽出型で補完): {str(exc)[:80]}")
+        if not summary:
+            summary, quote = _extractive_summary(article)
+        article.summary = summary
+        article.jump_url = _build_jump_url(article.url, quote)
+    if api_key:
+        print(f"[summarize] Gemini要約成功 {gemini_ok} 件")
     return groups
+
+
+def _round_robin_order(groups: list[dict]) -> list[Article]:
+    """[kw1[0], kw2[0], …, kw1[1], kw2[1], …] の順に記事を並べる。"""
+    lists = [g["articles"] for g in groups]
+    order: list[Article] = []
+    if not lists:
+        return order
+    for i in range(max((len(a) for a in lists), default=0)):
+        for articles in lists:
+            if i < len(articles):
+                order.append(articles[i])
+    return order
 
 
 # ---------------------------------------------------------------------------
@@ -60,7 +97,7 @@ def _gemini_summary(article: Article, api_key: str) -> tuple[str, str]:
     prompt = (
         "次のニュース記事を日本語で要約してください。\n"
         f"{guidance}\n"
-        "出力は必ず次のJSON形式のみ（前後に文章を付けない）:\n"
+        "出力は必ず次のJSON形式のみ（前後に文章・コードブロックを付けない）:\n"
         '{"summary": "2〜3行の要約", "quote": "本文中から要約の根拠になる連続した一文（20〜60字、原文ママ）"}\n\n'
         f"タイトル: {article.title}\n"
         f"出典: {article.source}\n"
@@ -68,36 +105,78 @@ def _gemini_summary(article: Article, api_key: str) -> tuple[str, str]:
     )
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 512},
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 1024,
+            # gemini-2.5系は既定で「思考」に出力トークンを消費しJSONが途中で切れるため無効化
+            "thinkingConfig": {"thinkingBudget": 0},
+            "responseMimeType": "application/json",
+        },
     }).encode("utf-8")
 
-    url = f"{GEMINI_ENDPOINT}?key={urllib.parse.quote(api_key)}"
-    req = urllib.request.Request(
-        url, data=body, headers={"Content-Type": "application/json"}, method="POST"
-    )
-    with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
-        data = json.loads(resp.read())
-
-    text = data["candidates"][0]["content"]["parts"][0]["text"]
+    data = _post_with_retry(f"{GEMINI_ENDPOINT}?key={urllib.parse.quote(api_key)}", body)
+    text = _first_text(data)
     parsed = _extract_json(text)
-    summary = (parsed.get("summary") or "").strip()
-    quote = (parsed.get("quote") or "").strip()
+    summary = _sanitize(parsed.get("summary") or "")
+    quote = _sanitize(parsed.get("quote") or "")
     if not summary:
         raise ValueError("空の要約")
     return summary, quote
 
 
+def _post_with_retry(url: str, body: bytes, retries: int = 2):
+    """429（レート制限）は指数バックオフで再試行。その他HTTPエラーは即座に送出。"""
+    delay = 8
+    for attempt in range(retries + 1):
+        req = urllib.request.Request(
+            url, data=body, headers={"Content-Type": "application/json"}, method="POST"
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+                return json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                time.sleep(delay)
+                delay *= 2
+                continue
+            raise
+
+
+def _first_text(data: dict) -> str:
+    cand = (data.get("candidates") or [{}])[0]
+    parts = cand.get("content", {}).get("parts", [])
+    return "".join(p.get("text", "") for p in parts)
+
+
 def _extract_json(text: str) -> dict:
-    text = text.strip()
+    text = (text or "").strip()
     text = re.sub(r"^```(?:json)?", "", text).strip()
     text = re.sub(r"```$", "", text).strip()
+    # 完全なJSONを試す
     m = re.search(r"\{.*\}", text, re.DOTALL)
     if m:
         try:
             return json.loads(m.group())
         except json.JSONDecodeError:
             pass
-    return {"summary": text[:120], "quote": ""}
+    # 途中で切れた場合でも summary / quote フィールドだけ拾う
+    sm = re.search(r'"summary"\s*:\s*"((?:[^"\\]|\\.)*)"', text)
+    qm = re.search(r'"quote"\s*:\s*"((?:[^"\\]|\\.)*)"', text)
+    if sm:
+        def unesc(s): return s.encode().decode("unicode_escape") if "\\" in s else s
+        return {"summary": unesc(sm.group(1)), "quote": unesc(qm.group(1)) if qm else ""}
+    # JSON片も拾えないときは空（呼び出し側が抽出型にフォールバック）
+    return {"summary": "", "quote": ""}
+
+
+def _sanitize(s: str) -> str:
+    """要約に混入しがちなJSON断片・改行を除去して読める1〜2文にする。"""
+    s = (s or "").strip()
+    # 生JSONが紛れ込んだ場合の保険
+    if s.startswith("{") and '"summary"' in s:
+        m = re.search(r'"summary"\s*:\s*"((?:[^"\\]|\\.)*)"', s)
+        s = m.group(1) if m else ""
+    return re.sub(r"\s*\n\s*", " ", s).strip()
 
 
 # ---------------------------------------------------------------------------

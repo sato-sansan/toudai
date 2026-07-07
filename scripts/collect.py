@@ -57,6 +57,11 @@ def _fetch(url: str) -> bytes:
 def _clean_html(text: str) -> str:
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = html.unescape(text)
+    # PR TIMES 等に残る画像プレースホルダ [画像1: https://...] やURLの羅列を除去
+    text = re.sub(r"\[画像[^\]]*\]", " ", text)
+    text = re.sub(r"https?://\S+", " ", text)
+    # 先頭に付きがちな [会社名] プレフィックスを除去
+    text = re.sub(r"^\s*\[[^\]]{1,40}\]\s*", "", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
