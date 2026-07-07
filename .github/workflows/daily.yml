@@ -1,0 +1,49 @@
+name: 灯台 daily build
+
+# 毎朝 6:00 JST（= 前日 21:00 UTC）に自動実行。手動実行も可。
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+# data/ と audio/ を commit するための書き込み権限
+permissions:
+  contents: write
+
+concurrency:
+  group: toudai-daily
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Build daily digest
+        env:
+          # 未設定なら summarize.py が自動で抽出型要約にフォールバックする（0円維持）
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/build.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data docs/audio
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: 灯台 daily digest $(date -u +%Y-%m-%d)"
+            git push
+          fi

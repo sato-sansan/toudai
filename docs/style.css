@@ -1,0 +1,222 @@
+:root {
+  --bg: #0f172a;
+  --bg-elev: #1e293b;
+  --bg-card: #1e293b;
+  --border: #334155;
+  --text: #f1f5f9;
+  --text-dim: #94a3b8;
+  --accent: #fbbf24;      /* 灯台の光 */
+  --accent-dim: #b45309;
+  --badge-pubmed: #38bdf8;
+  --badge-lancet: #f472b6;
+  --badge-prtimes: #a3e635;
+  --radius: 14px;
+  --max-w: 640px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* ---------- ヘッダー ---------- */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: calc(env(safe-area-inset-top) + 14px) 16px 14px;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(180deg, var(--bg) 70%, transparent);
+  z-index: 10;
+}
+.header-title { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.header-title .beacon { font-size: 1.4rem; }
+.header-title h1 { font-size: 1.15rem; font-weight: 700; white-space: nowrap; }
+.nav-btn {
+  background: var(--bg-elev);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  width: 40px; height: 40px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background .15s;
+}
+.nav-btn:hover:not(:disabled) { background: var(--border); }
+.nav-btn:disabled { opacity: .3; cursor: default; }
+
+/* ---------- プレイヤー ---------- */
+.player {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 4px 16px 12px;
+  padding: 16px;
+  background: linear-gradient(135deg, #1e293b, #253449);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.play-btn {
+  flex-shrink: 0;
+  width: 56px; height: 56px;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent);
+  color: #1a1200;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 0 20px rgba(251, 191, 36, .35);
+  transition: transform .1s;
+}
+.play-btn:active { transform: scale(.92); }
+.play-btn.playing .play-icon::before { content: "❚❚"; }
+.play-icon { line-height: 1; }
+.player-info { flex: 1; min-width: 0; }
+.player-title { font-weight: 600; font-size: .98rem; }
+.player-meta { display: flex; gap: 10px; align-items: center; color: var(--text-dim); font-size: .8rem; }
+.play-mode { font-size: .7rem; padding: 1px 6px; border-radius: 6px; background: var(--border); }
+.rate-group { display: flex; flex-direction: column; gap: 3px; }
+.rate-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 8px;
+  padding: 3px 8px;
+  font-size: .72rem;
+  cursor: pointer;
+}
+.rate-btn.active { background: var(--accent); color: #1a1200; border-color: var(--accent); font-weight: 700; }
+
+/* ---------- タブ ---------- */
+.tabs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 0 16px 12px;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex-shrink: 0;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-size: .9rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all .15s;
+}
+.tab.active { background: var(--accent); color: #1a1200; border-color: var(--accent); font-weight: 700; }
+.tab .count { font-size: .72rem; opacity: .7; margin-left: 4px; }
+
+/* ---------- フィード ---------- */
+.feed { flex: 1; padding: 0 16px 16px; }
+.x-search {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+  padding: 8px 14px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: .85rem;
+}
+.x-search:hover { background: var(--border); }
+
+.card {
+  display: block;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color .15s, transform .1s;
+}
+.card:active { transform: scale(.99); }
+.card:hover { border-color: var(--accent-dim); }
+.card-title { font-weight: 700; font-size: 1rem; margin-bottom: 6px; }
+.card-summary { color: var(--text); font-size: .9rem; margin-bottom: 8px; }
+.card-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; color: var(--text-dim); font-size: .76rem; }
+.badge {
+  font-size: .7rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 6px;
+  color: #0b1120;
+}
+.badge-pubmed { background: var(--badge-pubmed); }
+.badge-lancet { background: var(--badge-lancet); }
+.badge-prtimes { background: var(--badge-prtimes); }
+
+.empty {
+  text-align: center;
+  color: var(--text-dim);
+  padding: 48px 16px;
+  font-size: .95rem;
+}
+.empty .big { font-size: 2rem; display: block; margin-bottom: 8px; }
+
+/* ---------- フッター ---------- */
+.footer {
+  padding: 16px;
+  border-top: 1px solid var(--border);
+  color: var(--text-dim);
+  font-size: .78rem;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.archive { display: flex; gap: 6px; flex-wrap: wrap; }
+.archive a {
+  color: var(--text-dim);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 3px 8px;
+}
+.archive a.today { border-color: var(--accent); color: var(--accent); }
+
+/* ---------- ローディング ---------- */
+.loading { text-align: center; padding: 60px 16px; color: var(--text-dim); }
+.spinner {
+  width: 32px; height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  margin: 0 auto 12px;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+@media (min-width: 700px) {
+  .header-title h1 { font-size: 1.3rem; }
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>灯台 — 今日のキュレーション</title>
+  <meta name="description" content="気仙沼・分子栄養・ハンドパン・AIの最新情報を毎朝キュレーション。テキスト一覧＋5分音声ダイジェスト。" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icon.svg" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- ヘッダー -->
+    <header class="header">
+      <button id="prevDay" class="nav-btn" aria-label="前日">‹</button>
+      <div class="header-title">
+        <span class="beacon">🗼</span>
+        <h1 id="dateLabel">読み込み中…</h1>
+      </div>
+      <button id="nextDay" class="nav-btn" aria-label="翌日">›</button>
+    </header>
+
+    <!-- 音声プレイヤー -->
+    <section class="player" id="player">
+      <button id="playBtn" class="play-btn" aria-label="再生">
+        <span class="play-icon">▶</span>
+      </button>
+      <div class="player-info">
+        <div class="player-title">今日の5分ダイジェスト</div>
+        <div class="player-meta">
+          <span id="playTime">0:00</span>
+          <span id="playMode" class="play-mode"></span>
+        </div>
+      </div>
+      <div class="rate-group" role="group" aria-label="再生速度">
+        <button class="rate-btn active" data-rate="1.0">1.0x</button>
+        <button class="rate-btn" data-rate="1.25">1.25x</button>
+        <button class="rate-btn" data-rate="1.5">1.5x</button>
+      </div>
+    </section>
+
+    <!-- キーワードタブ -->
+    <nav class="tabs" id="tabs" role="tablist"></nav>
+
+    <!-- 記事一覧 -->
+    <main class="feed" id="feed" aria-live="polite"></main>
+
+    <!-- フッター -->
+    <footer class="footer">
+      <span id="lastUpdated"></span>
+      <div class="archive" id="archive"></div>
+    </footer>
+  </div>
+
+  <audio id="audioEl" preload="none"></audio>
+  <script src="app.js"></script>
+</body>
+</html>

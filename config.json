@@ -1,0 +1,32 @@
+{
+  "schedule": "06:00 JST",
+  "maxArticlesPerKeyword": 10,
+  "extraFeeds": ["https://prtimes.jp/index.rdf"],
+  "keywords": [
+    {
+      "label": "気仙沼",
+      "queries": ["気仙沼"],
+      "exclude": []
+    },
+    {
+      "label": "分子栄養",
+      "queries": ["分子栄養", "分子栄養学", "オーソモレキュラー", "栄養療法"],
+      "exclude": [],
+      "healthFeeds": [
+        "https://www.thelancet.com/rssfeed/lancet_current.xml"
+      ],
+      "healthFeedFilter": ["nutrition", "nutrient", "micronutrient", "vitamin", "supplement", "diet", "orthomolecular"],
+      "pubmedQueries": ["orthomolecular nutrition", "micronutrient supplementation", "nutritional psychiatry"]
+    },
+    {
+      "label": "ハンドパン",
+      "queries": ["ハンドパン", "handpan", "ハングドラム"],
+      "exclude": []
+    },
+    {
+      "label": "AI",
+      "queries": ["生成AI", "LLM 活用", "AI エージェント"],
+      "exclude": ["占い", "広告PR"]
+    }
+  ]
+}

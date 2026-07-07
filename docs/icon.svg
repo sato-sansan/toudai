@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <!-- 光線 -->
+  <g fill="#fbbf24" opacity="0.85">
+    <path d="M256 150 L120 92 L120 132 L256 178 Z"/>
+    <path d="M256 150 L392 92 L392 132 L256 178 Z"/>
+  </g>
+  <circle cx="256" cy="150" r="30" fill="#fde68a"/>
+  <circle cx="256" cy="150" r="52" fill="#fbbf24" opacity="0.35"/>
+  <!-- 灯台の塔 -->
+  <path d="M212 190 L300 190 L288 420 L224 420 Z" fill="#f1f5f9"/>
+  <rect x="212" y="228" width="88" height="20" fill="#ef4444"/>
+  <rect x="216" y="300" width="80" height="20" fill="#ef4444"/>
+  <rect x="220" y="372" width="72" height="20" fill="#ef4444"/>
+  <rect x="196" y="420" width="120" height="20" rx="6" fill="#94a3b8"/>
+</svg>
