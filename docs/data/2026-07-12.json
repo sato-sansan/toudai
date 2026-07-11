@@ -1,0 +1,428 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T06:50:49.597665+09:00",
+  "audioUrl": "audio/2026-07-12.mp3",
+  "audioScript": "7月12日、日曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。毎月11日は「防災を考える日」です気仙沼市公式。気仙沼市は、令和8年7月に記者発表資料を更新したことを発表しました。この更新は、市の公式情報提供の一環として行われたものです。気仙沼市公式。気仙沼市は、「第2期気仙沼市空家等対策計画（案）」に対するパブリックコメントの結果を公表しました。意見募集期間中に市民から提出された意見はなく、原案通り計画が策定される見込みです。\n\n■ 分子栄養。Internet interventionsによると、Stress is associated with many negative effects, including inadequate sleep, reduced learning and memory, and a higher rと報告されています。The Journal of nutritionによると、プロバイオティクス株B. subtilis Rosell®-179がカロテノイド摂取によるカロテノイド状態の改善効果を増強するかを検証する二重盲検無作為化比較試験が実施されました。10週間の試験の結果、プロバイオティクス摂取群ではプラセボ群と比較して皮膚カロテノイド状態の推定増加が大きかったと報告されています。と報告されています。Veterinary research communicationsによると、Idebenone (IDB), a synthetic analogue of coenzyme Q10, has been proposed as a promising antioxidant in sperm cryopreservと報告されています。\n\n■ ハンドパン。Reddit。楽器メーカーとのコミュニケーションに関する問題提起がRedditに投稿されました。特にハンドパンメーカーとの連絡の取りにくさや、注文後の返信がないといった経験について、他のユーザーからのアドバイスや円滑なコミュニケーションのためのヒントが求められています。Reddit。Temuで160ドルのハンドパンを購入したユーザーが、その音質の良さに驚きを表明しました。価格に対して非常に満足している様子が伺えます。Reddit。SoundChillingプロジェクトは、様々な楽器や文化を融合させた音楽を制作しています。彼らの作品はSoundCloudやYouTubeで聴くことができます。\n\n■ AI。OpenAI。ドイツテレコムはOpenAIを活用し、顧客サービス、従業員のワークフロー、ネットワーク運用、音声通信の未来を変革することで、AIネイティブな通信事業者へと進化しています。Hugging Face。Profiling in PyTorch (Part 3): Attention is all you profileOpenAI。Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and C\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "毎月11日は「防災を考える日」です",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-07-11T10:59:00+09:00",
+          "summary": "",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s009/010/010/010/110/20260212170418.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s009/010/010/010/110/20260212170418.html",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "記者発表資料 令和８年7月更新しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-07-10T13:35:00+09:00",
+          "summary": "気仙沼市は、令和8年7月に記者発表資料を更新したことを発表しました。この更新は、市の公式情報提供の一環として行われたものです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/04/20260701120050.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/04/20260701120050.html#:~:text=%E8%A8%98%E8%80%85%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%20%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B47%E6%9C%88%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "「第2期気仙沼市空家等対策計画（案）」に対するパブリックコメントの結果について",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-07-09T23:03:00+09:00",
+          "summary": "気仙沼市は、「第2期気仙沼市空家等対策計画（案）」に対するパブリックコメントの結果を公表しました。意見募集期間中に市民から提出された意見はなく、原案通り計画が策定される見込みです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s027/010/010/010/010/030/20190208091843.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s027/010/010/010/010/030/20190208091843.html#:~:text=%E6%84%8F%E8%A6%8B%E5%8B%9F%E9%9B%86%E6%9C%9F%E9%96%93%E4%B8%AD%E3%81%AB%E5%B8%82%E6%B0%91%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%8B%E3%82%89%E3%81%AE%E3%81%94%E6%84%8F%E8%A6%8B%E3%81%AE%E6%8F%90%E5%87%BA%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "角田、仙台一、気仙沼などが2回戦進出＜高校野球宮城大会第2日＞",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-07-11T21:41:14+09:00",
+          "summary": "高校野球宮城大会の第2日では、角田、仙台一、気仙沼などの高校が2回戦に進出しました。各チームが熱戦を繰り広げ、次のステージへと駒を進めました。",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zUU5uWDdrX3JWNjlFVWxQdnhmaU5Ld0dncDdycW9YTHlfcjdZdU96TXZLcHplZlhhcnBQYV9WZDdDQlFXc2toNG5qQkhNNmNmTkR4V2pWaG1xVHNtZWxVVA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zUU5uWDdrX3JWNjlFVWxQdnhmaU5Ld0dncDdycW9YTHlfcjdZdU96TXZLcHplZlhhcnBQYV9WZDdDQlFXc2toNG5qQkhNNmNmTkR4V2pWaG1xVHNtZWxVVA?oc=5#:~:text=%E8%A7%92%E7%94%B0%E3%80%81%E4%BB%99%E5%8F%B0%E4%B8%80%E3%80%81%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AA%E3%81%A9%E3%81%8C2%E5%9B%9E%E6%88%A6%E9%80%B2%E5%87%BA",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "2026年7月12 日気仙沼集会礼拝1分間メッセージ【弱いときこそ強いとは？】",
+          "source": "YouTube",
+          "publishedAt": "2026-07-11T21:17:52+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yMkhXdkUyTUk5TUZRVlZmUXlxM3VtUnhoTk5hY2paakd0cFBmRUIwSHpBdnJuNTllV0NBNVdvNUZ6elNxR2ZnNU8zQ1NiZFV4WGRWRTBlS19uZGND?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yMkhXdkUyTUk5TUZRVlZmUXlxM3VtUnhoTk5hY2paakd0cFBmRUIwSHpBdnJuNTllV0NBNVdvNUZ6elNxR2ZnNU8zQ1NiZFV4WGRWRTBlS19uZGND?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "親子3世代、気仙沼向洋で繫いできた絆 芳賀捕手「やりきったよ」",
+          "source": "バーチャル高校野球",
+          "publishedAt": "2026-07-11T18:30:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ndzVOSFNQb2hpdFlsVFNDX3hiT0pTN1dDWFZLOG85aHo1NmZ4VTBKWU9fZVVTOGprWVF5RWtucFBpcFRoTzNfRy02NVpYUUoyeDlpUWdWcXB5MEFSVjNHOThhRzUzaDQ3YUJCTlRma1dTalpaZ19WR0tn?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ndzVOSFNQb2hpdFlsVFNDX3hiT0pTN1dDWFZLOG85aHo1NmZ4VTBKWU9fZVVTOGprWVF5RWtucFBpcFRoTzNfRy02NVpYUUoyeDlpUWdWcXB5MEFSVjNHOThhRzUzaDQ3YUJCTlRma1dTalpaZ19WR0tn?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼大島に新たな観光シンボル誕生 「亀山テラス360°-Kesennuma Oshima-」7月19日オープン 休暇村気仙沼大島ではランチ・送迎付きの「大島の休日プラン」を販売 | 一般財団法人休暇村協会のプレスリリース",
+          "source": "PR TIMES",
+          "publishedAt": "2026-07-11T15:30:02+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zUWpuV0x6MDNvdTJlZzRXV3J1eFhIX3pkZHB1VFNUQXl6bF9hOGJfZEpXYmd1X3dma29TMFVMYzJSSnZESEUzOTJHOFg4ZkUzbkphdmY1NEI3cU9URDV6UG5EMDk4eGNSVnc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zUWpuV0x6MDNvdTJlZzRXV3J1eFhIX3pkZHB1VFNUQXl6bF9hOGJfZEpXYmd1X3dma29TMFVMYzJSSnZESEUzOTJHOFg4ZkUzbkphdmY1NEI3cU9URDV6UG5EMDk4eGNSVnc?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【楽天トラベルセール】宮城県「気仙沼プラザホテル」が特別価格で登場中",
+          "source": "All About ニュース",
+          "publishedAt": "2026-07-11T15:30:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdThOcnlGMkMyZUxxb083TUtTS1ZhSmk5VEd0U1RzcHFXbUpzNmNLTzNWY0RLZnFuTEo2cDQyVzhJVUJXTFkzWmEzNF9sU2x5eVdrNkR4ck1tdw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdThOcnlGMkMyZUxxb083TUtTS1ZhSmk5VEd0U1RzcHFXbUpzNmNLTzNWY0RLZnFuTEo2cDQyVzhJVUJXTFkzWmEzNF9sU2x5eVdrNkR4ck1tdw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城大会 1回戦 気仙沼向洋・南三陸 vs. 登米総産 - 夏の高校野球 - ライブ配信",
+          "source": "スポーツナビ",
+          "publishedAt": "2026-07-11T11:10:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yeEZUOFNMWnJNcHpHYVViV2hEUUMtQk1xeVU4QjhibTZuZ05aM2RtRE16X0h1N1FXbU55dV9yTzBCTXZtVmJYcF85US04aWhEeHJ3MkZadzJ6N1BhdUlPejJ2Q0t3RFdZ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yeEZUOFNMWnJNcHpHYVViV2hEUUMtQk1xeVU4QjhibTZuZ05aM2RtRE16X0h1N1FXbU55dV9yTzBCTXZtVmJYcF85US04aWhEeHJ3MkZadzJ6N1BhdUlPejJ2Q0t3RFdZ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "プレスリリース：［高たんぱく・長期保存OK］気仙沼発KGG、卵・乳・小麦・大豆を使わない『防災玄米プロテイン（塩あずき味）』を新発売（PR TIMES）",
+          "source": "毎日新聞",
+          "publishedAt": "2026-07-11T10:21:25+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meVBGVGFMWmxfR29xeHl6MW0yR0lob1FXVV9VT1FGRzdXTGU4X2hscHlHRlUyQ0hYRnN0N1FlZS1HQjdhY2pVZEFXNWFPa3RBX0I2bW1LVF9PVGc2MFlueHdoX25ZN0JW?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meVBGVGFMWmxfR29xeHl6MW0yR0lob1FXVV9VT1FGRzdXTGU4X2hscHlHRlUyQ0hYRnN0N1FlZS1HQjdhY2pVZEFXNWFPa3RBX0I2bW1LVF9PVGc2MFlueHdoX25ZN0JW?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Forecasting stress transitions using ecological momentary assessment data and machine learning.",
+          "source": "Internet interventions",
+          "publishedAt": "2026-09-01T00:00:00+09:00",
+          "summary": "Stress is associated with many negative effects, including inadequate sleep, reduced learning and memory, and a higher r",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42433650/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42433650/#:~:text=Stress%20is%20associated%20with%20many%20negative%20effects%2C%20including%20i",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Probiotics for enhanced tissue carotenoid status: A double-blind, randomized controlled trial.",
+          "source": "The Journal of nutrition",
+          "publishedAt": "2026-07-10T00:00:00+09:00",
+          "summary": "プロバイオティクス株B. subtilis Rosell®-179がカロテノイド摂取によるカロテノイド状態の改善効果を増強するかを検証する二重盲検無作為化比較試験が実施されました。10週間の試験の結果、プロバイオティクス摂取群ではプラセボ群と比較して皮膚カロテノイド状態の推定増加が大きかったと報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431406/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42431406/#:~:text=SCS%20increased%20from%20baseline%20in%20both%20groups%2C%20with%20the%20probiot",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Idebenone reduces oxidative stress and differentially improves chromatin integrity in dog and cat epididymal spermatozoa after slow freezing and vitrification.",
+          "source": "Veterinary research communications",
+          "publishedAt": "2026-07-10T00:00:00+09:00",
+          "summary": "Idebenone (IDB), a synthetic analogue of coenzyme Q10, has been proposed as a promising antioxidant in sperm cryopreserv",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42429896/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42429896/#:~:text=Idebenone%20%28IDB%29%2C%20a%20synthetic%20analogue%20of%20coenzyme%20Q10%2C%20has%20b",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Neuroimmune lipidome dysregulation in major depressive disorder: A meta-analysis of peripheral endocannabinoid and n-acylethanolamine signaling.",
+          "source": "Brain, behavior, and immunity",
+          "publishedAt": "2026-07-10T00:00:00+09:00",
+          "summary": "Major depressive disorder (MDD) is a prevalent psychiatric condition characterized by substantial biological heterogenei",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431383/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42431383/#:~:text=Major%20depressive%20disorder%20%28MDD%29%20is%20a%20prevalent%20psychiatric%20c",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Temporal changes in Mediterranean-style diet adherence and ultra-processed food exposure in relation to psychological distress at follow-up: A 12-year analysis of the Melbourne collaborative cohort study.",
+          "source": "Journal of affective disorders",
+          "publishedAt": "2026-07-10T00:00:00+09:00",
+          "summary": "Consuming a Mediterranean-style diet is associated with lower depression risk. Concurrently, the ultra-processed food (U",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431320/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42431320/#:~:text=Consuming%20a%20Mediterranean-style%20diet%20is%20associated%20with%20lowe",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Associations between the residential food environment and diet: The Generation R Study.",
+          "source": "Appetite",
+          "publishedAt": "2026-07-10T00:00:00+09:00",
+          "summary": "The neighbourhood food environment is a potentially modifiable determinant of children's diets, yet evidence for associa",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431240/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42431240/#:~:text=The%20neighbourhood%20food%20environment%20is%20a%20potentially%20modifiab",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
+          "source": "Nature",
+          "publishedAt": "2026-07-08T00:00:00+09:00",
+          "summary": ", Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6 Pharmacological screening and behavioural assays in ant",
+          "url": "https://www.nature.com/articles/s41586-026-10747-6",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-10747-6#:~:text=%2C%20Published%20online%3A%2008%20July%202026%3B%20doi%3A10.1038%2Fs41586-026-107",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy",
+          "source": "Nature",
+          "publishedAt": "2026-07-08T00:00:00+09:00",
+          "summary": ", Published online: 08 July 2026; doi:10.1038/s41586-026-10750-x Diet shapes obesity-associated therapeutic responses to",
+          "url": "https://www.nature.com/articles/s41586-026-10750-x",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-10750-x#:~:text=%2C%20Published%20online%3A%2008%20July%202026%3B%20doi%3A10.1038%2Fs41586-026-107",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "How to avoid dementia — what the science really says",
+          "source": "Nature",
+          "publishedAt": "2026-07-07T00:00:00+09:00",
+          "summary": ", Published online: 07 July 2026; doi:10.1038/d41586-026-02098-z Ambitious studies have been examining the protective ef",
+          "url": "https://www.nature.com/articles/d41586-026-02098-z",
+          "jumpUrl": "https://www.nature.com/articles/d41586-026-02098-z#:~:text=%2C%20Published%20online%3A%2007%20July%202026%3B%20doi%3A10.1038%2Fd41586-026-020",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "The ecological validity of the Intuitive Eating Scale-2 among adults with binge-eating disorder.",
+          "source": "Eating behaviors",
+          "publishedAt": "2026-06-26T00:00:00+09:00",
+          "summary": "This study examined the ecological validity of the Intuitive Eating Scale-2 (IES-2) facets among adults with binge-eatin",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42430930/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42430930/#:~:text=This%20study%20examined%20the%20ecological%20validity%20of%20the%20Intuitive",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "Have you ever had trouble reaching a handpan maker or getting a response after placing an order?",
+          "source": "Reddit",
+          "publishedAt": "2026-07-10T21:38:04+09:00",
+          "summary": "楽器メーカーとのコミュニケーションに関する問題提起がRedditに投稿されました。特にハンドパンメーカーとの連絡の取りにくさや、注文後の返信がないといった経験について、他のユーザーからのアドバイスや円滑なコミュニケーションのためのヒントが求められています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1usmhjx/have_you_ever_had_trouble_reaching_a_handpan/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1usmhjx/have_you_ever_had_trouble_reaching_a_handpan/#:~:text=How%20do%20you%20usually%20handle%20communication%20issues%20with%20instrume",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Cheap Handpan from Temu",
+          "source": "Reddit",
+          "publishedAt": "2026-07-10T20:38:48+09:00",
+          "summary": "Temuで160ドルのハンドパンを購入したユーザーが、その音質の良さに驚きを表明しました。価格に対して非常に満足している様子が伺えます。",
+          "url": "https://www.reddit.com/r/handpan/comments/1usl62o/cheap_handpan_from_temu/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1usl62o/cheap_handpan_from_temu/#:~:text=I%20was%20amazed%20by%20how%20good%20it%20sounded%20in%20relation%20to%20the%20cost.",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Handpan & classical surf",
+          "source": "Reddit",
+          "publishedAt": "2026-07-08T05:28:14+09:00",
+          "summary": "SoundChillingプロジェクトは、様々な楽器や文化を融合させた音楽を制作しています。彼らの作品はSoundCloudやYouTubeで聴くことができます。",
+          "url": "https://www.reddit.com/r/handpan/comments/1uq719k/handpan_classical_surf/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1uq719k/handpan_classical_surf/#:~:text=We%20are%20SoundChilling%20projecr%20and%20we%20mixing%20different%20instrum",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "【ハンドパンとオーボエ公演 福島公演 “Handpan & Oboe Duo Concert” ― 静寂と音の旅 ―】",
+          "source": "gurutto-fukushima.com",
+          "publishedAt": "2026-06-25T06:58:42+09:00",
+          "summary": "ハンドパンとオーボエによるデュオコンサート「Handpan & Oboe Duo Concert」が福島で開催されます。この公演は「静寂と音の旅」をテーマに、独特な音色の組み合わせで聴衆を魅了します。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5#:~:text=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%BC%E3%83%9C%E3%82%A8%E5%85%AC%E6%BC%94%20%E7%A6%8F%E5%B3%B6%E5%85%AC%E6%BC%94%20%E2%80%9CHandpan%20%26%20Oboe%20Duo%20Concert%E2%80%9D%20%E2%80%95%20%E9%9D%99%E5%AF%82%E3%81%A8%E9%9F%B3%E3%81%AE%E6%97%85%20%E2%80%95",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "スターマー英首相が辞意表明",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T19:57:58+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xZmUtMldHVU5lNVo5S0NvMTlCeTNyTVZxQUpVWFFtWGJpWHlIaUc2OU5JeUJyOGMyX0s0YURaYnQ5T2lpejh4Yk1jNk14akh1cjVpTQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xZmUtMldHVU5lNVo5S0NvMTlCeTNyTVZxQUpVWFFtWGJpWHlIaUc2OU5JeUJyOGMyX0s0YURaYnQ5T2lpejh4Yk1jNk14akh1cjVpTQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも (みんなの経済新聞ネットワーク)",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQME53SEdYQXRpV0kzdlh2ZVh3YTJFZHJEQ28wQVpmVG4zWmFvb0REYmNJTURCejktamhDNHlZSkFVS2VSMlhBT2VsQjJwaEhZcEp1NFJTSlQzalZkZ1dhdXVkd2NhaE5CdkY5WVZZckN2LWptc0Rkb2prUWtZeDlQdlBMeHFka1pDNncxTG1B?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQME53SEdYQXRpV0kzdlh2ZVh3YTJFZHJEQ28wQVpmVG4zWmFvb0REYmNJTURCejktamhDNHlZSkFVS2VSMlhBT2VsQjJwaEhZcEp1NFJTSlQzalZkZ1dhdXVkd2NhaE5CdkY5WVZZckN2LWptc0Rkb2prUWtZeDlQdlBMeHFka1pDNncxTG1B?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "昨年7月に開かれたハンドパンワークショップの様子",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T15:37:14+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHdDVuNXVJcUJhc2laWEQtUF9Pa3RBM0M0ZDBvNWdSMFhacjQwVWg0bUlxbjNwNkhzTGd0SmFhbExZOXhDOVVha2oySnNZaFZFMzIxYmJR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHdDVuNXVJcUJhc2laWEQtUF9Pa3RBM0M0ZDBvNWdSMFhacjQwVWg0bUlxbjNwNkhzTGd0SmFhbExZOXhDOVVha2oySnNZaFZFMzIxYmJR?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "出演する（左から）柏ハングさん、Cucu.RANさん、Takakoさん",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T15:37:14+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iS2loQWdoYzBFZE5Xal9HdnFZQU5JSzliWlVuanNNVHFYVTJfVG1XX3I2Q1lhWmtOUFQyMlVoYlozVVBObWpMVWhmU0ZiYThEVWI4dHZR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iS2loQWdoYzBFZE5Xal9HdnFZQU5JSzliWlVuanNNVHFYVTJfVG1XX3I2Q1lhWmtOUFQyMlVoYlozVVBObWpMVWhmU0ZiYThEVWI4dHZR?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "羽田空港に到着した佐々木容疑者",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-17T03:38:55+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85c0pxZGt1VFVRRnVEWFBhOFdzRW45bi1VN2tGbDhQVThzT0VnMEZ6ejBzVjJNcGt3LWNjV2kyWHE1dE5NdlNJT2JMZ3hYMUF6NDZhQg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85c0pxZGt1VFVRRnVEWFBhOFdzRW45bi1VN2tGbDhQVThzT0VnMEZ6ejBzVjJNcGt3LWNjV2kyWHE1dE5NdlNJT2JMZ3hYMUF6NDZhQg?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "source": "OpenAI",
+          "publishedAt": "2026-07-10T16:00:00+09:00",
+          "summary": "ドイツテレコムはOpenAIを活用し、顧客サービス、従業員のワークフロー、ネットワーク運用、音声通信の未来を変革することで、AIネイティブな通信事業者へと進化しています。",
+          "url": "https://openai.com/index/deutsche-telekom",
+          "jumpUrl": "https://openai.com/index/deutsche-telekom#:~:text=Deutsche%20Telekom%20is%20becoming%20an%20AI-native%20telco%20with%20OpenAI-",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "source": "Hugging Face",
+          "publishedAt": "2026-07-10T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "jumpUrl": "https://huggingface.co/blog/torch-attention-profile",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "source": "OpenAI",
+          "publishedAt": "2026-07-09T22:00:00+09:00",
+          "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and C",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "jumpUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot#:~:text=Learn%20how%20GPT-5.6%20powers%20Microsoft%20365%20Copilot%20with%20stronger",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "source": "OpenAI",
+          "publishedAt": "2026-07-09T19:00:00+09:00",
+          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work",
+          "url": "https://openai.com/index/gpt-5-6",
+          "jumpUrl": "https://openai.com/index/gpt-5-6#:~:text=More%20intelligence%20from%20every%20token%2C%20stronger%20performance%20per",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Data for Agents",
+          "source": "Hugging Face",
+          "publishedAt": "2026-07-09T02:16:05+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Native-speed vLLM transformers modeling backend",
+          "source": "Hugging Face",
+          "publishedAt": "2026-07-08T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "jumpUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+          "source": "Google AI",
+          "publishedAt": "2026-07-07T17:54:00+09:00",
+          "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready age",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/#:~:text=We%E2%80%99re%20announcing%20new%20capabilities%20in%20Managed%20Agents%20in%20Gemin",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "【受付開始】AIエージェント経済カンファレンス「Agentic Summit」を9月23日 東京大学で開催",
+          "source": "PR TIMES",
+          "publishedAt": "2026-07-12T06:10:02+09:00",
+          "summary": "",
+          "url": "https://prtimes.jp/main/html/rd/p/000000013.000170100.html",
+          "jumpUrl": "https://prtimes.jp/main/html/rd/p/000000013.000170100.html",
+          "badge": "PR TIMES",
+          "primary": false
+        },
+        {
+          "title": "教員6割が生成AIで創造性向上実感、各校裁量で授業時数15％削減可…教育業界ニュースまとめ読み",
+          "source": "リセマム",
+          "publishedAt": "2026-07-12T05:55:02+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMTNVVDl5VzkyNE5hZUQ4M3ptTmJjUmg5UU9YalM5N0ttQ3BsemRMMmhSdlVPZ2Q1SlFkdGtRRWNLOVo0MUQzanhHUFFJOGFUbmJUajdrVHpFUUpXTjdtSnZPY2VFdw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMTNVVDl5VzkyNE5hZUQ4M3ptTmJjUmg5UU9YalM5N0ttQ3BsemRMMmhSdlVPZ2Q1SlFkdGtRRWNLOVo0MUQzanhHUFFJOGFUbmJUajdrVHpFUUpXTjdtSnZPY2VFdw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "アクセンチュア×OpenAI、国内協業を拡充 部門横断のAIエージェント活用を支援",
+          "source": "EnterpriseZine",
+          "publishedAt": "2026-07-12T05:53:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVXdHOGVOY3RBZW9qU3FGY1pJYmQ0X3VndWgwYURTcnNKMUVHNHRpR2paLTItYWE2dVR5dWYtVG9KYi1xUXVubGVJYUhTMFZIZ29OM0hB?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVXdHOGVOY3RBZW9qU3FGY1pJYmQ0X3VndWgwYURTcnNKMUVHNHRpR2paLTItYWE2dVR5dWYtVG9KYi1xUXVubGVJYUhTMFZIZ29OM0hB?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    }
+  ]
+}
