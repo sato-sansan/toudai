@@ -3,15 +3,22 @@
 台本テキストから mp3 を生成する。失敗（ネットワーク・仕様変更・edge-tts不在）時は
 None を返してスキップし、フロントの Web Speech API 読み上げに委ねる。
 生成後に音声長を検証し、5分（300秒）を超えていたら失敗扱いにする。
+
+edge-tts はネットワーク起因で断続的に失敗することがあるため、生成本体は
+最大3回まで（5秒→15秒のバックオフを挟んで）リトライする。それでも失敗すれば
+従来どおり False を返す。
 """
 from __future__ import annotations
 
 import asyncio
 import pathlib
+import time
 
 VOICE = "ja-JP-NanamiNeural"
 RATE = "+0%"
 MAX_SECONDS = 300  # 5分厳守
+MAX_RETRIES = 3  # 生成の最大試行回数
+RETRY_BACKOFF = (5, 15)  # 1回目失敗後→5秒待機、2回目失敗後→15秒待機
 
 
 def synthesize(script: str, out_path: str | pathlib.Path) -> bool:
@@ -23,10 +30,21 @@ def synthesize(script: str, out_path: str | pathlib.Path) -> bool:
         print("[tts] edge-tts 未インストール → 音声生成スキップ（ブラウザ読み上げに委ねる）")
         return False
 
-    try:
-        asyncio.run(_run(edge_tts, script, out_path))
-    except Exception as exc:
-        print(f"[tts] 生成失敗 → スキップ: {exc}")
+    last_exc: Exception | None = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            asyncio.run(_run(edge_tts, script, out_path))
+            last_exc = None
+            break
+        except Exception as exc:
+            last_exc = exc
+            _cleanup(out_path)
+            if attempt < MAX_RETRIES:
+                wait = RETRY_BACKOFF[min(attempt - 1, len(RETRY_BACKOFF) - 1)]
+                print(f"[tts] 生成失敗（{attempt}回目、{wait}秒後にリトライ）: {exc}")
+                time.sleep(wait)
+    if last_exc is not None:
+        print(f"[tts] {MAX_RETRIES}回リトライしても失敗 → スキップ: {last_exc}")
         _cleanup(out_path)
         return False
 

@@ -6,27 +6,40 @@
     {
       "label": "気仙沼",
       "queries": ["気仙沼"],
-      "exclude": []
+      "exclude": [],
+      "feeds": [
+        {"name": "気仙沼市公式", "url": "https://www.kesennuma.miyagi.jp/news.rss", "badge": "市公式", "primary": true, "maxItems": 3}
+      ]
     },
     {
       "label": "分子栄養",
       "queries": ["分子栄養", "分子栄養学", "オーソモレキュラー", "栄養療法"],
       "exclude": [],
-      "healthFeeds": [
-        "https://www.thelancet.com/rssfeed/lancet_current.xml"
-      ],
-      "healthFeedFilter": ["nutrition", "nutrient", "micronutrient", "vitamin", "supplement", "diet", "orthomolecular"],
-      "pubmedQueries": ["orthomolecular nutrition", "micronutrient supplementation", "nutritional psychiatry"]
+      "pubmedQueries": ["orthomolecular nutrition", "micronutrient supplementation", "nutritional psychiatry"],
+      "feeds": [
+        {"name": "厚労省", "url": "https://www.mhlw.go.jp/stf/news.rdf", "badge": "厚労省", "primary": true, "filter": ["栄養", "食品", "ビタミン", "サプリ", "健康"], "maxItems": 3},
+        {"name": "The Lancet", "url": "https://www.thelancet.com/rssfeed/lancet_current.xml", "badge": "The Lancet", "primary": true, "filter": ["nutrition", "nutrient", "micronutrient", "vitamin", "supplement", "diet", "orthomolecular"], "maxItems": 3},
+        {"name": "Nature", "url": "https://www.nature.com/nature.rss", "badge": "Nature", "primary": true, "filter": ["nutrition", "nutrient", "vitamin", "diet", "metabolism"], "maxItems": 3}
+      ]
     },
     {
       "label": "ハンドパン",
       "queries": ["ハンドパン", "handpan", "ハングドラム"],
-      "exclude": []
+      "exclude": [],
+      "feeds": [
+        {"name": "Reddit", "url": "https://www.reddit.com/r/handpan/.rss", "badge": "Reddit", "primary": false, "maxItems": 3}
+      ]
     },
     {
       "label": "AI",
       "queries": ["生成AI", "LLM 活用", "AI エージェント"],
-      "exclude": ["占い", "広告PR"]
+      "exclude": ["占い", "広告PR"],
+      "feeds": [
+        {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "badge": "OpenAI", "primary": true, "maxItems": 3},
+        {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "badge": "Google AI", "primary": true, "maxItems": 3},
+        {"name": "DeepMind", "url": "https://deepmind.google/blog/rss.xml", "badge": "DeepMind", "primary": true, "maxItems": 3},
+        {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "badge": "Hugging Face", "primary": true, "maxItems": 3}
+      ]
     }
   ]
 }

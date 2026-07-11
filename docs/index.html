@@ -21,6 +21,7 @@
         <h1 id="dateLabel">読み込み中…</h1>
       </div>
       <button id="nextDay" class="nav-btn" aria-label="翌日">›</button>
+      <button id="settingsBtn" class="nav-btn" aria-label="設定">⚙️</button>
     </header>
 
     <!-- 音声プレイヤー -->
@@ -53,6 +54,50 @@
       <span id="lastUpdated"></span>
       <div class="archive" id="archive"></div>
     </footer>
+  </div>
+
+  <!-- 設定パネル（キーワードの並び替え・表示切替・編集） -->
+  <div id="settingsOverlay" class="settings-overlay" hidden>
+    <div class="settings-panel" role="dialog" aria-modal="true" aria-label="設定">
+      <div class="settings-header">
+        <h2>設定</h2>
+        <button id="settingsClose" class="nav-btn" aria-label="閉じる">×</button>
+      </div>
+
+      <section class="settings-section">
+        <h3>タブの並び替え・表示</h3>
+        <p class="settings-hint">この端末だけの設定です。↑↓で並び替え、チェックで表示/非表示。</p>
+        <ul id="kwPrefsList" class="kw-prefs-list"></ul>
+      </section>
+
+      <section class="settings-section">
+        <h3>収集キーワードの編集</h3>
+        <p class="settings-hint">
+          config.json をGitHub経由で書き換えます。反映は翌朝6時の自動更新です。
+        </p>
+        <div id="ghTokenBox" class="gh-token-box">
+          <label for="ghTokenInput">GitHub トークン（Fine-grained PAT）</label>
+          <input id="ghTokenInput" type="password" placeholder="github_pat_..." autocomplete="off" />
+          <button id="ghTokenSave" class="settings-btn">保存</button>
+          <p class="settings-hint">
+            このトークンは端末内（localStorage）にのみ保存され、サーバーには送信されません。<br />
+            必要権限: リポジトリ <code>sato-sansan/toudai</code> の
+            <strong>Contents: Read and write</strong>、<strong>Actions: Read and write</strong>。
+          </p>
+        </div>
+
+        <div id="ghEditArea" class="gh-edit-area" hidden>
+          <button id="ghTokenClear" class="settings-btn settings-btn-ghost">トークンを削除</button>
+          <ul id="kwEditList" class="kw-edit-list"></ul>
+          <div class="gh-edit-actions">
+            <button id="kwAddBtn" class="settings-btn settings-btn-ghost">＋ キーワードを追加</button>
+            <button id="kwSaveBtn" class="settings-btn">config.jsonに保存</button>
+          </div>
+          <div id="ghStatus" class="gh-status" aria-live="polite"></div>
+          <button id="ghDeployBtn" class="settings-btn settings-btn-accent" hidden>今すぐ更新を実行</button>
+        </div>
+      </section>
+    </div>
   </div>
 
   <audio id="audioEl" preload="none"></audio>

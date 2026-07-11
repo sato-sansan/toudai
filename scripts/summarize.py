@@ -163,7 +163,15 @@ def _extract_json(text: str) -> dict:
     sm = re.search(r'"summary"\s*:\s*"((?:[^"\\]|\\.)*)"', text)
     qm = re.search(r'"quote"\s*:\s*"((?:[^"\\]|\\.)*)"', text)
     if sm:
-        def unesc(s): return s.encode().decode("unicode_escape") if "\\" in s else s
+        def unesc(s):
+            # unicode_escape はマルチバイト（日本語）文字列を化けさせるため使わない。
+            # JSON文字列として再パースし、失敗時は無加工のまま返す。
+            if "\\" not in s:
+                return s
+            try:
+                return json.loads(f'"{s}"')
+            except json.JSONDecodeError:
+                return s
         return {"summary": unesc(sm.group(1)), "quote": unesc(qm.group(1)) if qm else ""}
     # JSON片も拾えないときは空（呼び出し側が抽出型にフォールバック）
     return {"summary": "", "quote": ""}

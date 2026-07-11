@@ -68,11 +68,12 @@ def main() -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     out_json = DATA_DIR / f"{date_str}.json"
     out_json.write_text(json.dumps(payload, ensure_ascii=False, indent=2), "utf-8")
-    _write_index(date_str)
     print(f"[build] 出力: {out_json.relative_to(ROOT)}")
 
-    # 6. 古いファイル削除
+    # 6. 古いファイル削除（index.json に削除済み日付が残らないよう、index生成の前に行う）
     _cleanup_old(date)
+
+    _write_index(date_str)
 
     print("=== 完了 ===")
     return 0

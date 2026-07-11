@@ -1,10 +1,15 @@
 """記事収集モジュール（プラグイン構造）。
 
-各ソース（Google News / PR TIMES / PubMed / The Lancet）を Source クラスで表現し、
+各ソース（Google News / PR TIMES / PubMed / config.json の feeds）を Source クラスで表現し、
 config.json のキーワード定義に従って記事を集める。すべて無料・APIキー不要のRSS/HTTPのみ。
+
+一次情報（公式・政府・査読誌・ベンダー直のRSS）は Google News 等の二次情報（アグリゲーション）
+より優先して表示する方針のため、Article に primary フラグを持たせ、
+_dedupe_and_filter() の並び順に反映している。
 
 新しいソースを足したいときは Source を継承したクラスを1つ書き、
 collect_for_keyword() のソースリストに加えるだけでよい。
+config.json の keywords[].feeds に汎用RSS/RDF/Atomフィードを追加するだけでも足りることが多い。
 """
 from __future__ import annotations
 
@@ -35,6 +40,7 @@ class Article:
     badge: str = ""            # 出典バッジ（例 "PubMed" / "The Lancet"）
     raw_text: str = ""         # 要約の材料（RSSの description など）
     guid: str = ""             # 重複排除キー
+    primary: bool = False      # 一次情報（公式・政府・査読誌・ベンダー直）なら True
 
     def to_dict(self) -> dict:
         return {
@@ -45,6 +51,7 @@ class Article:
             "url": self.url,
             "jumpUrl": self.jump_url or self.url,
             "badge": self.badge,
+            "primary": self.primary,
         }
 
 
@@ -102,7 +109,7 @@ def _iter_rss_items(xml_bytes: bytes) -> Iterable[dict]:
             guid_el = item.find("guid")
             if guid_el is not None and guid_el.text:
                 link = guid_el.text
-        desc = g("description") or _findtext(item, "content:content") or _findtext(item, "dc:description")
+        desc = g("description") or _findtext(item, "content:encoded") or _findtext(item, "dc:description")
         date = g("pubDate") or _findtext(item, "dc:date")
         guid = _findtext_first(item, ["guid"]) or link
         return {"title": title, "link": link, "desc": desc, "date": date, "guid": guid}
@@ -117,7 +124,7 @@ def _iter_rss_items(xml_bytes: bytes) -> Iterable[dict]:
                 return el.text if el is not None and el.text else ""
             title = g("title")
             link = g("link")
-            desc = g("description") or _findtext(item, "content:content") or _findtext(item, "dc:description")
+            desc = g("description") or _findtext(item, "content:encoded") or _findtext(item, "dc:description")
             date = _findtext(item, "dc:date") or g("date")
             guid = item.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about") or link
             yield {"title": title, "link": link, "desc": desc, "date": date, "guid": guid}
@@ -266,6 +273,7 @@ class PubMedSource(Source):
                 raw_text=_clean_html(abstract),
                 guid=f"pubmed:{pmid}",
                 badge="PubMed",
+                primary=True,
             ))
         return out
 
@@ -286,33 +294,50 @@ class PubMedSource(Source):
             return datetime(int(y.group()), 1, 1, tzinfo=JST)
 
 
-class HealthFeedSource(Source):
-    """The Lancet 等の公式ジャーナルRSS。キーワード（英語）でフィルタ。"""
+class ConfigFeedSource(Source):
+    """config.json の keywords[].feeds 1件分を表す汎用RSS/RDF/Atomソース。
 
-    badge = "The Lancet"
+    一次情報（公式・政府・査読誌・ベンダー直）を config.json 側で宣言的に足せるようにし、
+    healthFeeds / healthFeedFilter のような特別扱いを廃止するための置き換え。
+    フィールド: name(表示名), url, badge, primary(bool), filter(小文字部分一致のOR配列・省略可),
+    maxItems(省略時3)。
+    """
 
-    def __init__(self, feed_url: str, name_hint: str = ""):
-        self.feed_url = feed_url
-        self.name_hint = name_hint
+    FRESHNESS_DAYS = 7  # これより古い記事は鮮度切れとしてスキップ（例: OpenAIのフィードは過去分を大量に含む）
+
+    def __init__(self, feed: dict):
+        self.feed = feed
 
     def fetch(self, keyword: dict) -> list[Article]:
-        filters = [f.lower() for f in keyword.get("healthFeedFilter", [])]
-        out: list[Article] = []
-        for it in self._safe_items(self.feed_url):
+        name = self.feed.get("name", "")
+        url = self.feed.get("url", "")
+        badge = self.feed.get("badge") or name
+        primary = bool(self.feed.get("primary", False))
+        filters = [f.lower() for f in self.feed.get("filter", [])]
+        max_items = self.feed.get("maxItems", 3)
+        cutoff = datetime.now(JST) - timedelta(days=self.FRESHNESS_DAYS)
+
+        candidates: list[Article] = []
+        for it in self._safe_items(url):
             haystack = f"{it['title']} {it['desc']}".lower()
             if filters and not any(f in haystack for f in filters):
                 continue
-            badge = "The Lancet" if "lancet" in self.feed_url.lower() else (self.name_hint or "Journal")
-            out.append(Article(
+            published = _parse_date(it["date"])
+            if published < cutoff:
+                continue
+            candidates.append(Article(
                 title=_clean_html(it["title"]),
-                source=badge,
-                published_at=_parse_date(it["date"]),
+                source=name or badge,
+                published_at=published,
                 url=it["link"],
                 raw_text=_clean_html(it["desc"]),
                 guid=it["guid"] or it["link"],
                 badge=badge,
+                primary=primary,
             ))
-        return out
+        # 新着順に maxItems 件まで
+        candidates.sort(key=lambda a: a.published_at, reverse=True)
+        return candidates[:max_items]
 
 
 # ---------------------------------------------------------------------------
@@ -337,8 +362,8 @@ def collect_for_keyword(keyword: dict, config: dict) -> list[Article]:
 
     if keyword.get("pubmedQueries"):
         sources.append(PubMedSource())
-    for feed in keyword.get("healthFeeds", []):
-        sources.append(HealthFeedSource(feed))
+    for feed in keyword.get("feeds", []):
+        sources.append(ConfigFeedSource(feed))
 
     collected: list[Article] = []
     for src in sources:
@@ -355,8 +380,9 @@ def _dedupe_and_filter(articles: list[Article], keyword: dict, config: dict) -> 
     seen_title: set[str] = set()
     result: list[Article] = []
 
-    # 新着順（新しい記事を優先）
-    articles.sort(key=lambda a: a.published_at, reverse=True)
+    # 一次情報（primary=True）を先頭に、各グループ内は新着順。
+    # タイトル正規化の重複排除は後段のままでよい（一次が先に来るため、同じ話題は一次が勝つ）。
+    articles.sort(key=lambda a: (not a.primary, -a.published_at.timestamp()))
 
     for a in articles:
         if not a.title or not a.url:

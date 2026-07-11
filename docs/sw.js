@@ -4,7 +4,7 @@
  * ・data/audio は「ネット優先→失敗時キャッシュ」。成功時はキャッシュを更新するので、
  *   一度開いた当日分はオフラインでも読める。
  */
-var VERSION = "toudai-v1";
+var VERSION = "toudai-v2";
 var SHELL = VERSION + "-shell";
 var CONTENT = VERSION + "-content";
 
