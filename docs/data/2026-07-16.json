@@ -1,0 +1,428 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T07:01:59.518017+09:00",
+  "audioUrl": "audio/2026-07-16.mp3",
+  "audioScript": "7月16日、木曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市のはまなすの館では、5月18日に「はまなす母ちゃんの手作り市」、5月25日には「はまなすの館感謝祭」が開催されます。手作り市では地元の手芸品や加工品が販売され、感謝祭ではステージイベントや大抽選会が予定されています。気仙沼市公式。気仙沼市は、8月4日に入札が行われるガス、上下水道事業に関する入札公告を発表しました。これは、市のインフラ運営に関わる重要な契約の機会を示しています。気仙沼市公式。気仙沼市は、令和8年7月31日に入札が実施される建設工事および業務の一般競争入札公告を行いました。詳細は気仙沼市公式ウェブサイトで確認できます。\n\n■ 分子栄養。厚労省。厚生労働省は、第13回厚生科学審議会食品衛生監視部会を2024年5月29日に開催すると発表しました。この部会では、食品衛生に関する重要な議題が議論される予定です。Molecular neurobiologyによると、モルヒネに慢性的に曝露されたマウスにおいて、ビタミンEとL-カルニチンを補給することで、モルヒネ誘発性の記憶障害や生化学的変化が部分的に軽減されたと報告されています。これは、モルヒネが引き起こす酸化ストレスやエピジェネティックな遺伝子発現の変化に対する抗酸化物質の潜在的な効果を示唆しています。と報告されています。Heart failure reviewsによると、心不全患者における鉄欠乏症（ID）は、特に駆出率保持心不全（HFpEF）において有病率が高く、運動能力の低下やQoLの悪化と関連していると報告されています。本レビューは、HFpEFにおけるIDの診断と治療の進展に焦点を当て、静脈内鉄補充療法の新たなデータや診断基準の課題、治療反応評価のための革新的な戦略をまとめています。と報告されています。\n\n■ ハンドパン。Reddit。ハンドパンの楽曲制作に関するRedditの投稿。ユーザーは自身の楽曲制作プロセスや経験について共有している。Reddit。投稿者の22ヶ月の息子がハンドパンの底の穴にプラスチックボールを落とすことに夢中になり、その音が意外にも素晴らしいと投稿者は感じています。これは新しいハンドパンの演奏技術になるかもしれないと彼は考えています。t.co。ハンドパンとダンスのスペシャルライブが開催されます。このイベントは、音楽とダンスの融合を楽しむことができる特別な機会です。\n\n■ AI。Hugging Face。Hugging Faceは、LLMベースのコード生成エージェントであるShippyの開発を通じて、エージェント構築に関する重要な教訓を得ました。彼らは、エージェントの設計、反復的な改善、および実世界での有用性について深く学びました。Hugging Face。Hugging Faceの記事「Model Routing Is Simple. Until It Isn’t.」は、モデルルーティングの複雑さについて論じています。当初は単純に見えるものの、スケーリングや多様なモデルの統合に伴い、予期せぬ課題が生じることを指摘しています。OpenAI。米国は、州と連邦政府の連携を通じてAIの安全性向上に取り組んでいます。OpenAIは、州法が国家的なAI安全保障フレームワーク構築に寄与する「リバース、フェデラリズム」というアプローチを提唱しています。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "はまなすの館催事案内",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-07-16T00:00:00+09:00",
+          "summary": "気仙沼市のはまなすの館では、5月18日に「はまなす母ちゃんの手作り市」、5月25日には「はまなすの館感謝祭」が開催されます。手作り市では地元の手芸品や加工品が販売され、感謝祭ではステージイベントや大抽選会が予定されています。",
+          "url": "https://www.kesennuma.miyagi.jp/edu/s184/010/010/010/040/20160923104925.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/edu/s184/010/010/010/040/20160923104925.html#:~:text=5%E6%9C%8818%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%81%AF%E3%80%8C%E3%81%AF%E3%81%BE%E3%81%AA%E3%81%99%E6%AF%8D%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%89%8B%E4%BD%9C%E3%82%8A%E5%B8%82%E3%80%8D%E3%80%815%E6%9C%8825%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%81%AF%E3%80%8C%E3%81%AF%E3%81%BE%E3%81%AA%E3%81%99%E3%81%AE%E9%A4%A8%E6%84%9F%E8%AC%9D%E7%A5%AD%E3%80%8D%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市ガス上下水道事業入札公告（8月4日入札分）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-07-15T09:00:00+09:00",
+          "summary": "気仙沼市は、8月4日に入札が行われるガス・上下水道事業に関する入札公告を発表しました。これは、市のインフラ運営に関わる重要な契約の機会を示しています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s140/020/010/010/100/20260710163808.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s140/020/010/010/100/20260710163808.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%82%AC%E3%82%B9%E4%B8%8A%E4%B8%8B%E6%B0%B4%E9%81%93%E4%BA%8B%E6%A5%AD%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%EF%BC%888%E6%9C%884%E6%97%A5%E5%85%A5%E6%9C%AD%E5%88%86",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市建設工事・業務一般競争入札公告（令和8年7月31日入札分）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-07-15T08:30:00+09:00",
+          "summary": "気仙沼市は、令和8年7月31日に入札が実施される建設工事および業務の一般競争入札公告を行いました。詳細は気仙沼市公式ウェブサイトで確認できます。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s013/010/010/010/110/20260710160335.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s013/010/010/010/110/20260710160335.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E5%BB%BA%E8%A8%AD%E5%B7%A5%E4%BA%8B%E3%83%BB%E6%A5%AD%E5%8B%99%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B47%E6%9C%8831%E6%97%A5%E5%85%A5%E6%9C%AD%E5%88%86",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "選抜16強追い詰めた18人の気仙沼 延長の死球決着にエース泣く（朝日新聞）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-07-15T20:00:00+09:00",
+          "summary": "夏の全国高校野球宮城大会で、気仙沼高校は選抜大会ベスト16の強豪校を延長戦まで追い詰めましたが、死球によるサヨナラ負けを喫しました。エースは悔し涙を流しましたが、チームは最後まで粘り強い戦いを見せました。",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WeDNFWi1SMzF2cElKTS1nMDZnZlBNcGk5RDV3c2RVOG9jclZjZDVkSVJhdDJ4Z01tNDBlWHlGRG1xdkxidV9vbFJZN3FXMHR0OGtjWmt0dW53MkprTVlSU0VfYlpLSGtadTNTbWthdmMyWnBEck5Nby1HekVJc00?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WeDNFWi1SMzF2cElKTS1nMDZnZlBNcGk5RDV3c2RVOG9jclZjZDVkSVJhdDJ4Z01tNDBlWHlGRG1xdkxidV9vbFJZN3FXMHR0OGtjWmt0dW53MkprTVlSU0VfYlpLSGtadTNTbWthdmMyWnBEck5Nby1HekVJc00?oc=5#:~:text=%E9%81%B8%E6%8A%9C16%E5%BC%B7%E8%BF%BD%E3%81%84%E8%A9%B0%E3%82%81%E3%81%9F18%E4%BA%BA%E3%81%AE%E6%B0%97%E4%BB%99%E6%B2%BC%20%E5%BB%B6%E9%95%B7%E3%81%AE%E6%AD%BB%E7%90%83%E6%B1%BA%E7%9D%80%E3%81%AB%E3%82%A8%E3%83%BC%E3%82%B9%E6%B3%A3%E3%81%8F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "選抜16強追い詰めた18人の気仙沼 延長の死球決着にエース泣く",
+          "source": "朝日新聞",
+          "publishedAt": "2026-07-15T20:00:00+09:00",
+          "summary": "気仙沼高校は選抜大会で16強を追い詰める健闘を見せましたが、延長戦の死球により惜敗しました。エースは悔し涙を流し、チームの努力が報われなかったことに無念さをにじませました。",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DMG9pVFB2eFRSNllKcUtkc1hyUkJBRVI3emk0a0FNT01hSVQ1Q05Od0NDMTR3LUVyVkdweENpU2poaVdKQ0pldmVQbjhEd19KbWY5VnZNR2hkTFZmajB4WXdOa290WXc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DMG9pVFB2eFRSNllKcUtkc1hyUkJBRVI3emk0a0FNT01hSVQ1Q05Od0NDMTR3LUVyVkdweENpU2poaVdKQ0pldmVQbjhEd19KbWY5VnZNR2hkTFZmajB4WXdOa290WXc?oc=5#:~:text=%E9%81%B8%E6%8A%9C16%E5%BC%B7%E8%BF%BD%E3%81%84%E8%A9%B0%E3%82%81%E3%81%9F18%E4%BA%BA%E3%81%AE%E6%B0%97%E4%BB%99%E6%B2%BC%20%E5%BB%B6%E9%95%B7%E3%81%AE%E6%AD%BB%E7%90%83%E6%B1%BA%E7%9D%80%E3%81%AB%E3%82%A8%E3%83%BC%E3%82%B9%E6%B3%A3%E3%81%8F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【動画】モノレールで３６０度の絶景へ 宮城県気仙沼市〔地域〕",
+          "source": "時事通信ニュース",
+          "publishedAt": "2026-07-15T19:39:20+09:00",
+          "summary": "宮城県気仙沼市に、360度の絶景が楽しめるモノレールが登場しました。このモノレールは、地域の新たな観光名所として注目されています。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MVk9lakxpLVRRdTh2eTR2d1M3M2NzSC1jZ1lSRElEMzg1Q2dzTmFYQ2t4QS1KekpsOXNJOEtCWDZuNHNWZ1g4MnVmUTh4Mzg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MVk9lakxpLVRRdTh2eTR2d1M3M2NzSC1jZ1lSRElEMzg1Q2dzTmFYQ2t4QS1KekpsOXNJOEtCWDZuNHNWZ1g4MnVmUTh4Mzg?oc=5#:~:text=%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%A7%EF%BC%93%EF%BC%96%EF%BC%90%E5%BA%A6%E3%81%AE%E7%B5%B6%E6%99%AF%E3%81%B8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "モノレールで３６０度の絶景へ 宮城県気仙沼市〔地域〕：ニュース動画：時事ドットコム",
+          "source": "時事ドットコム",
+          "publishedAt": "2026-07-15T19:14:00+09:00",
+          "summary": "宮城県気仙沼市では、モノレールに乗って360度の絶景を楽しむことができます。このモノレールは、地域の新たな観光名所として注目されています。",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3MU9JYmVSb25YaXI5ZnNUVGUySU9oVWVWU0Zia0VoVm5fZlJuYTNIektPSWxpaERVeVRTTnlTRElpek1jaHh1bi1BRHNKdk1w?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3MU9JYmVSb25YaXI5ZnNUVGUySU9oVWVWU0Zia0VoVm5fZlJuYTNIektPSWxpaERVeVRTTnlTRElpek1jaHh1bi1BRHNKdk1w?oc=5#:~:text=%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%A7%EF%BC%93%EF%BC%96%EF%BC%90%E5%BA%A6%E3%81%AE%E7%B5%B6%E6%99%AF%E3%81%B8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "選抜出場の東北、初戦からタイブレークで薄氷の勝利 松本主将は涙",
+          "source": "バーチャル高校野球",
+          "publishedAt": "2026-07-15T18:52:51+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNlV4b2VOQ011RGdLVTU2bHZfYU9vOFhPSGxkYVljQjNNVkZYZ0x3ZGZXNjFJNkZaZlAycDQ3OW5wYjlsUnhqUW1YTVdIbzMtUm1UcUJQX2JjaU8zM0gyd2dUYzhUcVZDUkdmTktZXzZXZjlld1E?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNlV4b2VOQ011RGdLVTU2bHZfYU9vOFhPSGxkYVljQjNNVkZYZ0x3ZGZXNjFJNkZaZlAycDQ3OW5wYjlsUnhqUW1YTVdIbzMtUm1UcUJQX2JjaU8zM0gyd2dUYzhUcVZDUkdmTktZXzZXZjlld1E?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "販売開始を前に気仙沼市の菅原茂市長を表敬訪問",
+          "source": "仙台経済新聞",
+          "publishedAt": "2026-07-15T18:14:34+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBELV85RV96NUdIbjBOS1ZscVBKRDZRdjk0MzVFME5qcVZjM1lfb19JWFBLeEtBbWJQeUtKNEk5bGI5TTF5aC1CU1NXTjZTQkpMNnpHcXlB?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBELV85RV96NUdIbjBOS1ZscVBKRDZRdjk0MzVFME5qcVZjM1lfb19JWFBLeEtBbWJQeUtKNEk5bGI5TTF5aC1CU1NXTjZTQkpMNnpHcXlB?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "東北の旬の食材を味わう 小学校でカツオの給食 福島県産桃の販売イベント",
+          "source": "khb東日本放送",
+          "publishedAt": "2026-07-15T18:14:21+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aY0kwemxBaUxGenBxZXdUc3IxMzdKdW9jdEJhRXJlOTE4ZlUzbzRHZGJhR2hiT0dvNDJxbWpZcmJWQWtsd0p1ZWNXN25CWm8?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aY0kwemxBaUxGenBxZXdUc3IxMzdKdW9jdEJhRXJlOTE4ZlUzbzRHZGJhR2hiT0dvNDJxbWpZcmJWQWtsd0p1ZWNXN25CWm8?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "「第13回厚生科学審議会食品衛生監視部会」の開催について",
+          "source": "厚労省",
+          "publishedAt": "2026-07-15T14:00:00+09:00",
+          "summary": "厚生労働省は、第13回厚生科学審議会食品衛生監視部会を2024年5月29日に開催すると発表しました。この部会では、食品衛生に関する重要な議題が議論される予定です。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_74568.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_74568.html#:~:text=%E7%AC%AC13%E5%9B%9E%E5%8E%9A%E7%94%9F%E7%A7%91%E5%AD%A6%E5%AF%A9%E8%AD%B0%E4%BC%9A%E9%A3%9F%E5%93%81%E8%A1%9B%E7%94%9F%E7%9B%A3%E8%A6%96%E9%83%A8%E4%BC%9A%E3%82%92%E4%B8%8B%E8%A8%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Antioxidant Effects of Vitamin E and L-Carnitine on Hippocampal Histology, Epigenetics, and Cognition in Morphine-Exposed Mice.",
+          "source": "Molecular neurobiology",
+          "publishedAt": "2026-07-15T00:00:00+09:00",
+          "summary": "モルヒネに慢性的に曝露されたマウスにおいて、ビタミンEとL-カルニチンを補給することで、モルヒネ誘発性の記憶障害や生化学的変化が部分的に軽減されたと報告されています。これは、モルヒネが引き起こす酸化ストレスやエピジェネティックな遺伝子発現の変化に対する抗酸化物質の潜在的な効果を示唆しています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42455388/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42455388/#:~:text=Antioxidant%20treatment%20partially%20mitigated%20these%20behavioral%20d",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Ironing Out the Details: Advancing Diagnosis and Treatment of Iron Deficiency in Patients with Heart Failure with Preserved Ejection Fraction - A Narrative Review.",
+          "source": "Heart failure reviews",
+          "publishedAt": "2026-07-15T00:00:00+09:00",
+          "summary": "心不全患者における鉄欠乏症（ID）は、特に駆出率保持心不全（HFpEF）において有病率が高く、運動能力の低下やQoLの悪化と関連していると報告されています。本レビューは、HFpEFにおけるIDの診断と治療の進展に焦点を当て、静脈内鉄補充療法の新たなデータや診断基準の課題、治療反応評価のための革新的な戦略をまとめています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42455387/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42455387/#:~:text=Iron%20deficiency%20%28ID%29%20is%20a%20highly%20prevalent%20and%20clinically%20si",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Assessment of Kenyan pregnant women's tolerance to adverse effects of iron and folic acid supplementation: A retrospective study.",
+          "source": "African journal of reproductive health",
+          "publishedAt": "2026-07-15T00:00:00+09:00",
+          "summary": "ケニアの妊婦を対象とした研究で、鉄と葉酸のサプリメント摂取における副作用への耐性について調査されました。副作用の数自体は耐性と関連がないものの、副作用に関するカウンセリングは耐性を高めると報告されています。特に吐き気、便秘、黒色便が耐性と有意に関連するとされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42453079/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42453079/#:~:text=The%20number%20of%20adverse%20effects%20experienced%20was%20not%20associated",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Food systems transformation would reshape global agriculture",
+          "source": "Nature",
+          "publishedAt": "2026-07-15T00:00:00+09:00",
+          "summary": "2050年までに食料システムを健康的な食事、生産性向上、食品廃棄半減へと転換することで、世界の農業が再構築されると、地球経済モデルを用いたシナリオシミュレーションが示しています。この変革は、農業のあり方を根本的に変える可能性を秘めています。",
+          "url": "https://www.nature.com/articles/s41586-026-10775-2",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-10775-2#:~:text=by%202050%20the%20transformation%20of%20food%20systems%20towards%20healthy%20d",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones",
+          "source": "Nature",
+          "publishedAt": "2026-07-15T00:00:00+09:00",
+          "summary": "Nature誌の新しい研究によると、ケトジェニック食が腸腫瘍形成に影響を与えるのは、ケトン体ではなく食事性脂質を介していることがマウスモデルで示されました。この発見は、がん予防のための食事戦略を検討する際に、より詳細な考慮が必要であることを示唆しています。",
+          "url": "https://www.nature.com/articles/s41586-026-10779-y",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-10779-y#:~:text=ketogenic%20diet-mediated%20intestinal%20tumorigenesis%2C%20highlighti",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Nucleotides act as ‘molecular glue’ and can sense their own abundance",
+          "source": "Nature",
+          "publishedAt": "2026-07-15T00:00:00+09:00",
+          "summary": ", Published online: 15 July 2026; doi:10.1038/d41586-026-01945-3 Some nucleotides have been shown to control metabolism ",
+          "url": "https://www.nature.com/articles/d41586-026-01945-3",
+          "jumpUrl": "https://www.nature.com/articles/d41586-026-01945-3#:~:text=%2C%20Published%20online%3A%2015%20July%202026%3B%20doi%3A10.1038%2Fd41586-026-019",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Feeding Type at 6-12 Months and Early-Life Iron-Related Hematologic Changes in Infants: A Longitudinal Birth Cohort Study.",
+          "source": "Nutrients",
+          "publishedAt": "2026-07-06T00:00:00+09:00",
+          "summary": "The World Health Organization recommends continued breastfeeding for up to 2 years of age. However, because breast milk ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42451197/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42451197/#:~:text=The%20World%20Health%20Organization%20recommends%20continued%20breastfee",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Double Burden of Malnutrition and the Relationship Between Reported Intestinal Parasitosis and Anemia in School-Aged Children from a Peri-Urban Community of Limpio (Paraguay): A Cross-Sectional Study.",
+          "source": "Nutrients",
+          "publishedAt": "2026-07-05T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42451192/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42451192/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Exploring Unmet Needs Related to Cow's Milk Protein Allergy Among Pregnant Women and Mothers of Infants and Young Children: A Qualitative Study.",
+          "source": "Nutrients",
+          "publishedAt": "2026-07-04T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42451178/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42451178/",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "Building a Handpan song",
+          "source": "Reddit",
+          "publishedAt": "2026-07-14T20:06:04+09:00",
+          "summary": "ハンドパンの楽曲制作に関するRedditの投稿。ユーザーは自身の楽曲制作プロセスや経験について共有している。",
+          "url": "https://www.reddit.com/r/handpan/comments/1uw5jgf/building_a_handpan_song/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1uw5jgf/building_a_handpan_song/#:~:text=submitted%20by%20%2Fu%2FMusica_Video%20%5Blink%5D%20%5Bcomments",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Wait... why does this actually sound so good? 😂",
+          "source": "Reddit",
+          "publishedAt": "2026-07-13T21:00:51+09:00",
+          "summary": "投稿者の22ヶ月の息子がハンドパンの底の穴にプラスチックボールを落とすことに夢中になり、その音が意外にも素晴らしいと投稿者は感じています。これは新しいハンドパンの演奏技術になるかもしれないと彼は考えています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1uv9k2d/wait_why_does_this_actually_sound_so_good/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1uv9k2d/wait_why_does_this_actually_sound_so_good/#:~:text=Now%20he%20won%27t%20stop%20dropping%20little%20plastic%20balls%20into%20it...%20I",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Handpan & Dance Special Live",
+          "source": "t.co",
+          "publishedAt": "2026-07-13T11:58:28+09:00",
+          "summary": "ハンドパンとダンスのスペシャルライブが開催されます。このイベントは、音楽とダンスの融合を楽しむことができる特別な機会です。",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA3MWUtWmZ4N1RsZ0c1bjc4ckotbEx1ZVdUa1locERrc3VwTHNkckVmeXlQLXAyelZuR2t3?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA3MWUtWmZ4N1RsZ0c1bjc4ckotbEx1ZVdUa1locERrc3VwTHNkckVmeXlQLXAyelZuR2t3?oc=5#:~:text=Handpan%20%26%20Dance%20Special%20Live",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "Aria Math on d kurd 10 handpan",
+          "source": "Reddit",
+          "publishedAt": "2026-07-13T08:18:09+09:00",
+          "summary": "Redditユーザーが、D Kurd 10ハンドパンで「Aria Math」を演奏するためのタブ譜を探しています。このユーザーは、この曲の楽譜情報を求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1uuuqq3/aria_math_on_d_kurd_10_handpan/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1uuuqq3/aria_math_on_d_kurd_10_handpan/#:~:text=Hi%2C%20does%20anyone%20have%20tablature%20for%20aria%20math%20on%20d%20kurd%2010%3F",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "松戸の古民家で「ハンドパン・リトリート・デイ」が開催され、参加者はハンドパンの演奏体験や薬膳カレーを楽しめます。このイベントは、古民家の雰囲気の中で音楽と食を通じてリラックスできる機会を提供します。",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5#:~:text=%E6%9D%BE%E6%88%B8%E3%81%AE%E5%8F%A4%E6%B0%91%E5%AE%B6%E3%81%A7%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%BB%E3%83%87%E3%82%A4%E3%80%8D%20%E6%BC%94%E5%A5%8F%E4%BD%93%E9%A8%93%E3%82%84%E8%96%AC%E8%86%B3%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも (みんなの経済新聞ネットワーク)",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "松戸の古民家で「ハンドパン・リトリート・デイ」が開催され、参加者はハンドパンの演奏体験や薬膳カレーを楽しめます。このイベントは、ハンドパンの魅力を伝え、地域コミュニティの活性化を目指しています。",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQME53SEdYQXRpV0kzdlh2ZVh3YTJFZHJEQ28wQVpmVG4zWmFvb0REYmNJTURCejktamhDNHlZSkFVS2VSMlhBT2VsQjJwaEhZcEp1NFJTSlQzalZkZ1dhdXVkd2NhaE5CdkY5WVZZckN2LWptc0Rkb2prUWtZeDlQdlBMeHFka1pDNncxTG1B?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQME53SEdYQXRpV0kzdlh2ZVh3YTJFZHJEQ28wQVpmVG4zWmFvb0REYmNJTURCejktamhDNHlZSkFVS2VSMlhBT2VsQjJwaEhZcEp1NFJTSlQzalZkZ1dhdXVkd2NhaE5CdkY5WVZZckN2LWptc0Rkb2prUWtZeDlQdlBMeHFka1pDNncxTG1B?oc=5#:~:text=%E6%9D%BE%E6%88%B8%E3%81%AE%E5%8F%A4%E6%B0%91%E5%AE%B6%E3%81%A7%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%BB%E3%83%87%E3%82%A4%E3%80%8D%20%E6%BC%94%E5%A5%8F%E4%BD%93%E9%A8%93%E3%82%84%E8%96%AC%E8%86%B3%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "出演する（左から）柏ハングさん、Cucu.RANさん、Takakoさん",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T15:37:14+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iS2loQWdoYzBFZE5Xal9HdnFZQU5JSzliWlVuanNNVHFYVTJfVG1XX3I2Q1lhWmtOUFQyMlVoYlozVVBObWpMVWhmU0ZiYThEVWI4dHZR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iS2loQWdoYzBFZE5Xal9HdnFZQU5JSzliWlVuanNNVHFYVTJfVG1XX3I2Q1lhWmtOUFQyMlVoYlozVVBObWpMVWhmU0ZiYThEVWI4dHZR?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【ハンドパンとオーボエ公演 福島公演 “Handpan & Oboe Duo Concert” ― 静寂と音の旅 ―】",
+          "source": "gurutto-fukushima.com",
+          "publishedAt": "2026-06-03T13:35:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ダラブッカ 24 Shareトルコのパーカッションダラブッカ Turkish Darbuka民族楽器江戸川花火に行っていました後から合流する人達が場所分かるように太鼓叩いててと言われて軽く適当に叩いていましたが意味があったのかは分かり 自己紹介ダラブッカって何中東で使われる花",
+          "source": "Baha'is of the United States",
+          "publishedAt": "2026-05-20T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOcS02Zkw1NVVRQTNxZ2VSS195ZVJlSldGWXRCaWE5Y2NYQ2pYSUwwSnZJMHBPdGxMZkI3X0Rwd2lxSU8xa1d1SUw4TWp0bi1DUjhxSkFxMG9weXhGYkd6cTc0MER3bFI5cjFVTUR5ZEc0M0F0elNFWnhFd0x0LU9BQm5NbFFQOE9pbHBkRE96R0dxQTlST2FOX1R6ZXM1Tmp5eGZ3Y1B3eFhsbzN3Q2NNNHpiaS1RdkU5RW9lc2JqeDAyY0k5MTBRWVNJQ2FXLWxIOFE5b2pfZ2EtSHB3Y3VTbDhILVg3ekZfd0NkS3lmSUtKUGh1a0c2cjc0THBuVGVpWjNqb0I5bjNvQkVKM1o1blBsR2ZTRU8zd01kQlFzNDVyY25xQnEyYmxqcUM4bTZvMW1tUGdtcHlvQjZTZVJZZ0tELXBBZ0g1c2FaLTNNRFpucWJZZ2ZvckFtaUk3eGE3aTliNWQ5V2c1dnFPME92N1VnX0stU1pHZzlRTkJVSFFQZDYxZXJxRmRaZ2tYQURPRHFwM3VBeHBSbUlRREN2X2ZxZHk4b0E1?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOcS02Zkw1NVVRQTNxZ2VSS195ZVJlSldGWXRCaWE5Y2NYQ2pYSUwwSnZJMHBPdGxMZkI3X0Rwd2lxSU8xa1d1SUw4TWp0bi1DUjhxSkFxMG9weXhGYkd6cTc0MER3bFI5cjFVTUR5ZEc0M0F0elNFWnhFd0x0LU9BQm5NbFFQOE9pbHBkRE96R0dxQTlST2FOX1R6ZXM1Tmp5eGZ3Y1B3eFhsbzN3Q2NNNHpiaS1RdkU5RW9lc2JqeDAyY0k5MTBRWVNJQ2FXLWxIOFE5b2pfZ2EtSHB3Y3VTbDhILVg3ekZfd0NkS3lmSUtKUGh1a0c2cjc0THBuVGVpWjNqb0I5bjNvQkVKM1o1blBsR2ZTRU8zd01kQlFzNDVyY25xQnEyYmxqcUM4bTZvMW1tUGdtcHlvQjZTZVJZZ0tELXBBZ0g1c2FaLTNNRFpucWJZZ2ZvckFtaUk3eGE3aTliNWQ5V2c1dnFPME92N1VnX0stU1pHZzlRTkJVSFFQZDYxZXJxRmRaZ2tYQURPRHFwM3VBeHBSbUlRREN2X2ZxZHk4b0E1?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「サステナビューティーフェス2026」全ラインナップ発表 AI・柴咲コウら10組が河口湖に集結",
+          "source": "ELEMINIST(エレミニスト)",
+          "publishedAt": "2026-04-10T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxZDhtM2E3N2dTTFA3TDNHNklnS3VsUTdUQTAtSHA1eEN2SmMtLWRad1RRN1JEVEw1WVlVTGRUWmZ0bTFxWEtxOTBR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxZDhtM2E3N2dTTFA3TDNHNklnS3VsUTdUQTAtSHA1eEN2SmMtLWRad1RRN1JEVEw1WVlVTGRUWmZ0bTFxWEtxOTBR?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "What building Shippy taught us about building agents",
+          "source": "Hugging Face",
+          "publishedAt": "2026-07-16T02:29:41+09:00",
+          "summary": "Hugging Faceは、LLMベースのコード生成エージェントであるShippyの開発を通じて、エージェント構築に関する重要な教訓を得ました。彼らは、エージェントの設計、反復的な改善、および実世界での有用性について深く学びました。",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "jumpUrl": "https://huggingface.co/blog/allenai/shippy-tech-blog#:~:text=What%20building%20Shippy%20taught%20us%20about%20building%20agents",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Model Routing Is Simple. Until It Isn’t.",
+          "source": "Hugging Face",
+          "publishedAt": "2026-07-16T02:27:01+09:00",
+          "summary": "Hugging Faceの記事「Model Routing Is Simple. Until It Isn’t.」は、モデルルーティングの複雑さについて論じています。当初は単純に見えるものの、スケーリングや多様なモデルの統合に伴い、予期せぬ課題が生じることを指摘しています。",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "jumpUrl": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt#:~:text=Model%20Routing%20Is%20Simple.%20Until%20It%20Isn%E2%80%99t.",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "The US is advancing AI safety through state and federal action",
+          "source": "OpenAI",
+          "publishedAt": "2026-07-15T21:00:00+09:00",
+          "summary": "米国は、州と連邦政府の連携を通じてAIの安全性向上に取り組んでいます。OpenAIは、州法が国家的なAI安全保障フレームワーク構築に寄与する「リバース・フェデラリズム」というアプローチを提唱しています。",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "jumpUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action#:~:text=OpenAI%20outlines%20a%20%E2%80%9Creverse%20federalism%E2%80%9D%20approach%20to%20AI%20govern",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "source": "OpenAI",
+          "publishedAt": "2026-07-15T19:00:00+09:00",
+          "summary": "OpenAIは、AIの安全性、アラインメント、プロンプトインジェクションに対する堅牢性を向上させるための自動レッドチームシステム「GPT-Red」を発表しました。このシステムは、自己対戦を通じてAIの改善を図ります。",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "jumpUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red#:~:text=Explore%20GPT-Red%2C%20OpenAI%E2%80%99s%20automated%20red%20teaming%20system%20that%20",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Welcome Inkling by Thinking Machines",
+          "source": "Hugging Face",
+          "publishedAt": "2026-07-15T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+          "jumpUrl": "https://huggingface.co/blog/thinkingmachines-inkling",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Celebrating 25 years of visual search innovation",
+          "source": "Google AI",
+          "publishedAt": "2026-07-15T01:00:00+09:00",
+          "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual con",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/#:~:text=Google%20Images%20is%20turning%2025.%20Here%E2%80%99s%20a%20look%20back%20at%20some%20majo",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "How to manage AI investments in the agentic era",
+          "source": "OpenAI",
+          "publishedAt": "2026-07-14T19:00:00+09:00",
+          "summary": "企業は、エージェントAI時代におけるAI投資を管理するために、1ドルあたりの有用な作業量を測定し、効率を改善し、高価値のワークフローを拡大する方法を学ぶことができます。",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "jumpUrl": "https://openai.com/index/managing-ai-investments-in-agentic-era#:~:text=Learn%20how%20enterprises%20can%20manage%20AI%20investments%20in%20the%20agent",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Empowering India’s next generation of innovators with ATL Saathi",
+          "source": "DeepMind",
+          "publishedAt": "2026-07-13T21:37:28+09:00",
+          "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+          "jumpUrl": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/#:~:text=Google%20and%20AIM%20launched%20ATL%20Saathi%2C%20a%20Gemini-powered%20AI%20tool",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Apple Intelligence、中国での展開にGOサイン。BaiduとAlibabaのAIモデルを採用",
+          "source": "au Webポータル",
+          "publishedAt": "2026-07-16T06:52:57+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OTm1DMkV1bzdqNE8zZk11ZXlqb3lkSWlvcG1RRGt1Tjlpb1E2SWd5TGJNRDhPSFBmd01wazk2VEpFbVZKVGhpbWlxNDZtQjN1aG04Zm1zRk9BQW5XOHFWMFduUlU4XzlHeDZZejFSbGVONTMzNkFWUGt3Yw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OTm1DMkV1bzdqNE8zZk11ZXlqb3lkSWlvcG1RRGt1Tjlpb1E2SWd5TGJNRDhPSFBmd01wazk2VEpFbVZKVGhpbWlxNDZtQjN1aG04Zm1zRk9BQW5XOHFWMFduUlU4XzlHeDZZejFSbGVONTMzNkFWUGt3Yw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "OpenAI初のハードウェア製品「Codex Micro」発売。AIエージェント操作専用キーパッド（テクノエッジ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-07-16T06:49:12+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4weGV6ckhVbVZ2cDR2X3k2N1NTX0dwb1l4ZGQ1UnNaUTZBbkZDLUJ0b0g1V1VhQWJtRzNRNXkzNF9NUW44czR4TlJpa2c4QmFxTVJhM3JSMldGZXdhQ2RIdVpMSU03MWdvLS0taGZRNmZ3QWt4LW5NUlBROS1kUzg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4weGV6ckhVbVZ2cDR2X3k2N1NTX0dwb1l4ZGQ1UnNaUTZBbkZDLUJ0b0g1V1VhQWJtRzNRNXkzNF9NUW44czR4TlJpa2c4QmFxTVJhM3JSMldGZXdhQ2RIdVpMSU03MWdvLS0taGZRNmZ3QWt4LW5NUlBROS1kUzg?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    }
+  ]
+}
