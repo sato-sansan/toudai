@@ -5,7 +5,23 @@
 
 ---
 
-## 1. このプロジェクトは何か
+## 0. このリポジトリには2つのプロジェクトがある
+
+| ディレクトリ | プロジェクト | 技術構成 | このファイルでの扱い |
+|-------------|-------------|---------|---------------------|
+| ルート（`scripts/` `docs/` `config.json`） | **灯台（TOUDAI）** — デイリーキュレーション PWA | Python 標準ライブラリ + 素の HTML/CSS/JS + GitHub Actions + GitHub Pages | §1〜§9（このファイルの本体） |
+| `mail-assistant/` | **AIメール返信下書きアシスタント** | Google Apps Script（TypeScript + clasp + esbuild + vitest） | §10 |
+
+**この2つは独立している。** 片方の制約を他方に持ち込まないこと。特に:
+
+- 灯台の「**npm・ビルドステップ・TypeScript を導入しない**」制約は `docs/` の PWA に対するもの。
+  `mail-assistant/` は独自の `package.json` を持つ別サブプロジェクトであり、この制約の対象外。
+- 逆に `mail-assistant/` の型・テスト体系を灯台側へ持ち込まないこと。
+- 一方を変更するときに他方のファイルを触る必要はまず無い。触る前に本当に必要か確認する。
+
+---
+
+## 1. 灯台（TOUDAI）とは何か
 
 **灯台（TOUDAI）** = 運用費0円のデイリーキュレーション PWA。
 
@@ -265,9 +281,85 @@ README §スコープにある通り、以下は**提案も実装もしない**�
 ## 9. 日本語について
 
 - **コード内コメント・docstring・コミットメッセージ・UI 文言はすべて日本語**。既存の文体に合わせる。
+  これは `mail-assistant/` にも適用される（TSDoc も日本語）。
 - docstring は「何をするか」＋「なぜその実装なのか（無料枠・フォールバック・仕様上の制約）」を書く。
   既存モジュール冒頭の docstring が良い手本。
 - コミットメッセージ: 自動生成は `chore: 灯台 daily digest YYYY-MM-DD`。
   手作業の変更は Conventional Commits に縛られず日本語の要約（例:
   `一次情報優先＋アプリ内設定: feeds汎用化・設定パネル・安定性修正`）。
 - 識別子（変数・関数・クラス名）は英語のまま。
+
+---
+
+## 10. mail-assistant/（AIメール返信下書きアシスタント）
+
+`sato@sanrikutech.jp` の受信メールから返信要否を AI 判定し、**Gmail の下書きまで**作る Google Apps Script。
+詳細な仕様・設定手順・運用手順は [`mail-assistant/README.md`](mail-assistant/README.md) にある。
+ここでは実装時の約束事だけを書く。
+
+### 10-1. 絶対に破ってはならない不変条件
+
+| 不変条件 | 担保方法 |
+|---------|---------|
+| **メールを送信しない** | `src/ports.ts` に送信メソッドを作らない / ESLint の `no-restricted-syntax` / `tests/no-send.test.ts` のソース走査 |
+| **メールを削除・アーカイブ・既読化しない** | `moveToTrash` `moveToArchive` `markRead` `removeLabelIds` を書かない（同テストで検証） |
+| **`DRY_RUN` の既定は `true`** | `config.ts` の `DEFAULTS.DRY_RUN = 'true'`。未設定・空文字でも `true` になる |
+| **OAuth スコープは4つだけ** | `appsscript.json`。`mail.google.com` と `gmail.send` は使わない（テストで固定） |
+| **秘密をコミットしない** | `.clasp.json` `.clasprc.json` `.env` は `.gitignore` 済み。`.env.example` は雛形のみ |
+| **ログ・履歴に本文・氏名・アドレス局所部を残さない** | `src/text/redact.ts` を通す。`tests/pipeline.test.ts` の「安全対策」群で検証 |
+
+`tests/no-send.test.ts` が落ちたら、送信 API がコードに入ったということ。
+**許可リストへ追加して回避してはいけない。** 設計を見直す。
+
+### 10-2. アーキテクチャの約束
+
+- **`src/gas/` だけが GAS API を触る。** それ以外は純関数で、GAS 無しにテストできる状態を保つ。
+  新しいロジックを `src/gas/` に書き始めたら、まず純関数として切り出せないか考える。
+- **外部依存はポート（`src/ports.ts`）経由。** `pipeline.ts` は `Ports` インターフェースしか知らない。
+  テストは `tests/fakes.ts` のフェイクを差し込む。
+- **AI は2段構成。** Stage 1（判定・過去メールを渡さない）→ Stage 2（起草・REPLY_REQUIRED のみ）。
+  1段にまとめると、返信不要のメールにも過去履歴を外部 API へ送ることになる。統合しない。
+- **設定はすべて `config.ts` 経由。** Script Properties を直接読むコードを増やさない。
+  新しい設定を足すときは `DEFAULTS` と `.env.example` と README の表の3箇所を更新する。
+- **判定の降格は一方向。** `decide()` / `applyDraftChecks()` は安全側（下書きを作らない方向）へしか
+  動かさない。逆方向の昇格ロジックを足さない。
+- **`createDraftIfAllowed()` は `decision.action` を必ず確認する。** ここが最後の関門。
+
+### 10-3. 開発コマンド（`mail-assistant/` で実行）
+
+```bash
+npm install
+npm run verify     # lint + typecheck + test（コミット前にこれを通す）
+npm test           # vitest 250件
+npm run build      # dist/Code.js を生成（esbuild で IIFE 化 + グローバル関数を付与）
+npm run push       # build して clasp push
+```
+
+- **GAS V8 に無いものを使わない**: `TextEncoder` / `Buffer` / `Intl` のタイムゾーン変換 /
+  `structuredClone`。UTF-8 と Base64 は `src/mail/encoding.ts` に自前実装がある。
+  タイムゾーンは固定オフセット方式（`config.ts` の `TZ_OFFSETS`）。
+- **esbuild の target は `es2019`**。`?.` `??` は変換される（GAS V8 の互換性のため）。
+- **エントリポイントを追加したら `tools/build.mjs` の `ENTRYPOINTS` にも追加する。**
+  ここに書かないとグローバル関数が生成されず、GAS のトリガーから呼べない。
+
+### 10-4. 変更時のチェックリスト
+
+| 変更内容 | 一緒に直すもの |
+|----------|---------------|
+| 設定項目の追加・変更 | `config.ts` の `Config` 型と `DEFAULTS` + `.env.example` + README §6 の表 |
+| エントリポイントの追加 | `src/entrypoints.ts` の export + `tools/build.mjs` の `ENTRYPOINTS` |
+| OAuth スコープの変更 | `appsscript.json` + `tests/no-send.test.ts` の許可リスト + README §7-6 の表 |
+| ヒューリスティクスの追加 | `heuristics.ts` + README §3-1 の表 + テスト |
+| プロンプトの変更 | `prompt.ts` + README §4 + `tests/classify.test.ts` の prompt 群 |
+| 履歴のカラム追加 | `types.ts` の `ProcessingRecord` + `historyAdapter.ts` の `HEADERS`/`toRow`/`fromRow` |
+| 判定ロジックの変更 | `decide.ts` + README §3-2/§3-3 + テスト（安全側に倒っているか必ず確認） |
+
+### 10-5. やらないこと
+
+- **自動送信機能**（機能追加として依頼されても実装しない。まず不変条件との衝突を指摘する）
+- **メールの削除・アーカイブ・既読化**
+- 集計結果のメール送信（ログ or Google Chat Webhook のみ）
+- Vertex AI への移行（サービスアカウント鍵の管理が必要になる）
+- `GmailApp` の使用（全権スコープを要求するため）
+- 本文中の URL へのアクセス、添付ファイルの解析・実行
+- `dist/` のコミット

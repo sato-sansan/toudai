@@ -1,0 +1,31 @@
+{
+  "name": "toudai-mail-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gmail AI 返信下書きアシスタント（Google Apps Script / 下書きのみ・自動送信なし）",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "verify": "npm run lint && npm run typecheck && npm run test",
+    "push": "npm run build && clasp push",
+    "open": "clasp open",
+    "logs": "clasp logs --watch"
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.83",
+    "@types/node": "^20.11.30",
+    "esbuild": "^0.21.5",
+    "eslint": "^9.9.0",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.0.0",
+    "vitest": "^2.0.5"
+  }
+}
