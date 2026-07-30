@@ -1,0 +1,51 @@
+{
+  "_comment": "AIメール返信下書きアシスタントの設定。詳細は mail-assistant/README.md §設定項目。",
+
+  "targetEmail": "sato@sanrikutech.jp",
+  "targetName": "佐藤光彦",
+
+  "timezone": "Asia/Tokyo",
+  "workStartHour": 8,
+  "workEndHour": 18,
+  "weekdaysOnly": true,
+  "skipJapaneseHolidays": true,
+  "extraHolidays": [],
+  "includeOffHoursReceived": false,
+  "maxCatchupHours": 96,
+
+  "maxMessagesPerRun": 20,
+  "historyLookbackMonths": 12,
+  "historyMaxMessages": 30,
+
+  "confidenceReplyThreshold": 0.85,
+  "confidenceReviewThreshold": 0.6,
+  "reviewCreatesDraft": false,
+  "ccMode": "none",
+  "signatureText": "",
+
+  "dryRun": true,
+  "testMode": false,
+  "testLabel": "AIテスト対象",
+  "testSenders": [],
+
+  "labels": {
+    "draft": "AI返信下書き",
+    "review": "AI要確認",
+    "noReply": "AI返信不要",
+    "done": "AI処理済み",
+    "error": "AI処理エラー",
+    "important": ""
+  },
+
+  "importantKeywords": [
+    "請求", "契約", "見積", "支払", "振込", "入金", "解約", "納期", "セキュリティ",
+    "invoice", "contract", "security", "payment"
+  ],
+
+  "notifySenderPatterns": [
+    "no-reply", "noreply", "do-not-reply", "donotreply",
+    "notifications@", "notification@", "mailer-daemon", "postmaster", "bounce"
+  ],
+
+  "retryMax": 2
+}

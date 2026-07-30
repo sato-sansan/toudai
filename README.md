@@ -4,8 +4,8 @@
 DB無し・静的ファイル（JSON＋mp3）のみで完結。運用費は原則 **月額0円**。
 
 > 📧 このリポジトリには独立したサブプロジェクト **[AIメール返信下書きアシスタント](mail-assistant/)**
-> （Google Apps Script）も含まれています。灯台とは別系統の構成で、灯台側のコードには影響しません。
-> 詳細は [`mail-assistant/README.md`](mail-assistant/README.md) を参照してください。
+> も含まれています。Claude Code が Gmail を読んで返信下書きを作る仕組みで、灯台側のコードには
+> 影響しません。詳細は [`mail-assistant/README.md`](mail-assistant/README.md) を参照してください。
 
 - **収集**: Google News RSS（二次情報）＋ PR TIMES全体RSS ＋ config.json の `feeds` に登録した
   一次情報RSS（公式・政府・査読誌・ベンダー直）＋（健康系）PubMed。**一次情報を二次情報より優先表示**
