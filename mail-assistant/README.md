@@ -46,6 +46,7 @@
 | メールの読み取り | Claude Code の **Gmail コネクタ**（`search_threads` / `get_thread`） |
 | 返信要否の判定 | **Claude 自身**。別の AI API を呼ばない（`GEMINI_API_KEY` 等は不要） |
 | 返信文の起草 | **Claude 自身**。過去メールをコネクタで検索して参考にする |
+| 通常運用のモデル | **Haiku**（安いモデル）。必要なら起草だけ Sonnet へ委譲できる（§8-2 / §8-3） |
 | 下書きの作成 | Gmail コネクタの `create_draft`（`replyToMessageId` でスレッドに紐づく） |
 | 仕分け | `label_message`（`AI返信下書き` / `AI要確認` / `AI返信不要` / `AI処理済み` / `AI処理エラー`） |
 | 定期実行 | **Routine**（cron）。**最小間隔は1時間** |
@@ -241,6 +242,9 @@ mail-assistant/
 | `reviewCreatesDraft` | `false` | 要確認時に確認用下書きを作るか |
 | `ccMode` | `"none"` | `none` / `mirror-previous` |
 | `signatureText` | `""` | 空なら過去の送信メールから署名を推定 |
+| `models.routine` | `claude-haiku-4-5-20251001` | **定期実行に使うモデル。** Routine 設置後に設定する（§8-2） |
+| `models.escalateDrafting` | `false` | `true` にすると起草だけ強いモデルへ委譲する |
+| `models.draftingModel` | `sonnet` | 委譲先（`sonnet` / `opus` / `haiku` / `fable`） |
 | **`dryRun`** | **`true`** | **ドライラン。初期状態は有効** |
 | `testMode` | `false` | テスト対象を絞る |
 | `testLabel` | `AIテスト対象` | このラベルが付いたメールだけ処理（`testMode` 時） |
@@ -327,6 +331,34 @@ python mail-assistant/assistant.py summary を実行し、
 
 設置済みの Routine は「Routine の一覧を見せて」で確認、
 「メール確認の Routine を止めて」で停止できます。
+
+### 8-2. 定期実行を安いモデルで回す（重要）
+
+**通常の定期実行は Haiku で回す設計です。** 量が多いのは「読んで返信要否を判定する」部分
+（1日15〜25通）で、ここは安いモデルで十分です。判定が曖昧なら確信度の閾値が自動的に
+`REVIEW_REQUIRED` へ落とすため、**モデルが弱いことが誤送信につながりません**。
+
+Routine を作ったあと、モデルを指定します。Claude に次のように頼んでください。
+
+> メール確認の Routine のモデルを Haiku（`claude-haiku-4-5-20251001`）に変更して
+
+内部では `update_trigger` の `model` を使います。**新しいセッションを作る Routine
+（fresh-session）にだけ効く**ので、Routine は「毎回新しいセッションで実行」で作ってください。
+
+日次集計の Routine も Haiku で十分です（`summary` コマンドの出力を報告するだけ）。
+
+### 8-3. 起草だけ強いモデルに任せる（任意）
+
+Haiku の返信案の品質が足りない場合、**起草だけ**を強いモデルへ委譲できます。
+
+```json
+"models": { "escalateDrafting": true, "draftingModel": "sonnet" }
+```
+
+起草が必要なのは1日3〜6通だけなので、費用の増え方は小さいまま品質が上がります。
+判定・下書き作成・ラベル付与・履歴記録は安いモデル側が行い、委譲するのは文面の作成だけです。
+
+**まずは `false`（全部 Haiku）で Phase 1 を回し、返信案を見てから判断してください。**
 
 ---
 
@@ -439,7 +471,9 @@ git checkout b064e6a -- mail-assistant/
 
 - [ ] `testMode` を `false`、`maxMessagesPerRun` を運用値に戻した
 - [ ] Routine を設置した（毎時＋18:05 の集計）
+- [ ] **Routine のモデルを Haiku に変更した**（§8-2）。「Routine の一覧を見せて」で確認
 - [ ] 「Routine の一覧を見せて」で3件見える
+- [ ] Haiku の返信案の品質を確認した（不足なら `escalateDrafting: true`。§8-3）
 - [ ] 翌営業日に `state/ledger.jsonl` と日次集計を確認した
 - [ ] `AI要確認` ラベルを毎日確認する運用を決めた
 - [ ] ロールバック手順（レベル1: `dryRun: true`）を把握している
@@ -556,13 +590,26 @@ git checkout b064e6a -- mail-assistant/
 
 **追加の金銭的コストはありません。** 消費するのは Claude Code の利用枠です。
 
+### 消費を抑える設計
+
+| 対策 | 効果 |
+|------|------|
+| **定期実行を Haiku で回す**（§8-2） | 通常運用のモデル費用を最小にする。これが一番効く |
+| 機械判定で先に絞る（`triage`） | 除外したメールは**本文を取得しない**。実測 14通 → 6通 |
+| 過去メールは返信が必要なものだけ掘る | `NO_REPLY_REQUIRED` のメールで過去履歴を検索しない |
+| `search_threads` は本文なしのビューを使う | 一覧取得の段階で本文を読まない |
+| `maxMessagesPerRun` / `historyMaxMessages` を下げる | 1回あたりの上限を直接絞る |
+
 1回の実行で消費する目安:
 - `search_threads` 1回、`triage` 1回
 - 機械判定を通過したメールぶんの `get_thread`（実測 14通中6通）
 - 返信が必要なメールぶんの過去メール検索（2〜4回）と `create_draft`
 
-平日10回 × 20営業日 = **月200セッション程度**。1セッションあたりの規模は小さめです。
-消費を抑えたいなら `maxMessagesPerRun` と `historyMaxMessages` を下げるのが効きます。
+平日10回 × 20営業日 = **月200セッション程度**。1セッションあたりの規模は小さめで、
+かつ Haiku で回すため、日常運用の費用は低く収まります。
+
+起草だけ Sonnet へ委譲する場合（§8-3）でも、起草が必要なのは1日3〜6通なので
+増分は限定的です。**まず全部 Haiku で試し、品質を見てから判断してください。**
 
 ---
 

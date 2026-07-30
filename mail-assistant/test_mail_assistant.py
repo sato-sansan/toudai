@@ -214,6 +214,32 @@ class TestGate(unittest.TestCase):
                     G.load_config(path)
                 self.assertIn(needle, str(ctx.exception))
 
+    def test_models_config(self):
+        """通常運用は安いモデルで回す前提。設定が gate の出力に載ること。"""
+        config = G.load_config()
+        models = config.get("models", {})
+        self.assertIn("haiku", models.get("routine", ""), "定期実行は安いモデルが既定")
+        self.assertFalse(models.get("escalateDrafting"), "既定は委譲なし（最安）")
+        report = G.gate_report(config, dt.datetime(2026, 7, 30, 10, 0, tzinfo=JST))
+        self.assertEqual(report["models"], models)
+
+    def test_rejects_unknown_drafting_model(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = pathlib.Path(tmp) / "c.json"
+            path.write_text(
+                json.dumps({"targetEmail": TARGET, "models": {"draftingModel": "gpt"}}), "utf-8"
+            )
+            with self.assertRaises(G.ConfigError) as ctx:
+                G.load_config(path)
+            self.assertIn("draftingModel", str(ctx.exception))
+
+    def test_rejects_non_object_models(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = pathlib.Path(tmp) / "c.json"
+            path.write_text(json.dumps({"targetEmail": TARGET, "models": "haiku"}), "utf-8")
+            with self.assertRaises(G.ConfigError):
+                G.load_config(path)
+
     def test_dry_run_defaults_true(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = pathlib.Path(tmp) / "c.json"

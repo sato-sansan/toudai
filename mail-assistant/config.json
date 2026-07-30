@@ -23,6 +23,13 @@
   "ccMode": "none",
   "signatureText": "",
 
+  "_models_comment": "通常の定期実行は安いモデルで回す。escalateDrafting を true にすると起草だけ強いモデルへ委譲する（件数が少ないので費用増は小さい）。",
+  "models": {
+    "routine": "claude-haiku-4-5-20251001",
+    "escalateDrafting": false,
+    "draftingModel": "sonnet"
+  },
+
   "dryRun": true,
   "testMode": false,
   "testLabel": "AIテスト対象",

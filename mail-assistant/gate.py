@@ -57,6 +57,16 @@ def load_config(path: pathlib.Path | None = None) -> dict:
     if config.get("ccMode", "none") not in ("none", "mirror-previous"):
         raise ConfigError("ccMode は none / mirror-previous のいずれかにしてください")
 
+    models = config.get("models", {})
+    if not isinstance(models, dict):
+        raise ConfigError("models はオブジェクトにしてください")
+    drafting = models.get("draftingModel", "sonnet")
+    if drafting not in ("sonnet", "opus", "haiku", "fable"):
+        raise ConfigError(
+            "models.draftingModel は sonnet / opus / haiku / fable のいずれかにしてください"
+            "（サブエージェントに渡す識別子）"
+        )
+
     if "@" not in config.get("targetEmail", ""):
         raise ConfigError("targetEmail が不正です")
 
@@ -172,6 +182,7 @@ def gate_report(config: dict, moment: dt.datetime | None = None) -> dict:
         "reviewCreatesDraft": config.get("reviewCreatesDraft", False),
         "ccMode": config.get("ccMode", "none"),
         "signatureText": config.get("signatureText", ""),
+        "models": config.get("models", {}),
         "targetEmail": config["targetEmail"],
         "targetName": config.get("targetName", ""),
         "labels": labels,
