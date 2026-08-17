@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T06:26:37.377786+09:00",
+  "audioUrl": "audio/2026-08-18.mp3",
+  "audioScript": "8月18日、火曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、9月2日に入札が行われるガス、上下水道事業に関する入札公告を発表しました。詳細は市公式ウェブサイトで確認できます。気仙沼市公式。気仙沼市は、市立中学校に導入される標準服について、公募型プロポーザル方式で制服業者を選定すると発表しました。これは、生徒や保護者の負担軽減、多様性の尊重を目的とした標準服導入の一環です。\n\n■ 分子栄養。Journal of psychosomatic obstetrics and gynaecologyによると、周産期の25(OH)D濃度と産後うつ病（PPD）の間に用量反応関係があることが報告されています。25(OH)D濃度が1 ng/mL増加するごとにPPDリスクが25%減少すると報告されており、周産期の25(OH)DレベルはPPDリスクと負の相関があり、スクリーニングに有用である可能性が示されています。と報告されています。International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetricsによると、インド北部で行われた病院ベースの研究によると、妊娠中の貧血は伝統的に鉄欠乏に起因するとされているが、他の微量元素も造血や酸化防御に寄与している可能性が報告されています。この研究では、貧血の妊婦は非貧血の妊婦と比較して血清鉄濃度が有意に低いことが示され、主成分分析により微量元素の4つのクラスターが特定されました。これらのクラスターは、鉄欠乏だけでなく、赤血球代謝における微量元素の相乗的および競合的な役割を示唆していると報告されています。と報告されています。\n\n■ ハンドパン。Reddit。Redditユーザーが初めてハンドパンを注文し、フレッド、アゲインの楽曲、特に「Secret Life」アルバムからのハンドパンカバーを探しています。3年間ハンドパンを待ち望んでおり、チュートリアルやカバー動画を視聴し続けていました。Reddit。Redditユーザーが、カバー曲に適したカスタムスケールを構築するためのソフトウェアを探しています。既存のツールでは特定のスケールしか扱えないか、半音単位の調整しかできないため、音域の数や特定の音（最低音を含む）を完全にカスタマイズできるツールを求めています。\n\n■ AI。Hugging Face。Hugging Faceは、同じクラスターとワークロードを使用しながら、タスクの順序を変更するだけでGPU利用率を33ポイント向上させることに成功しました。この最適化により、リソースの効率が大幅に改善され、計算コストの削減につながる可能性が示されました。Google AI。Google GeminiとPixelは、AIとスマートフォン技術を活用し、世界の5つのサッカークラブと提携しました。これにより、ファンの試合日の体験を向上させることを目指しています。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "気仙沼市ガス上下水道事業入札公告（9月2日入札分）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-08-17T09:00:00+09:00",
+          "summary": "気仙沼市は、9月2日に入札が行われるガス・上下水道事業に関する入札公告を発表しました。詳細は市公式ウェブサイトで確認できます。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s140/020/010/010/100/20260810172018.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s140/020/010/010/100/20260810172018.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%82%AC%E3%82%B9%E4%B8%8A%E4%B8%8B%E6%B0%B4%E9%81%93%E4%BA%8B%E6%A5%AD%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%EF%BC%889%E6%9C%882%E6%97%A5%E5%85%A5%E6%9C%AD%E5%88%86",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市立中学校の標準服導入に係る制服業者公募型プロポーザルの実施について",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-08-17T08:30:00+09:00",
+          "summary": "気仙沼市は、市立中学校に導入される標準服について、公募型プロポーザル方式で制服業者を選定すると発表しました。これは、生徒や保護者の負担軽減、多様性の尊重を目的とした標準服導入の一環です。",
+          "url": "https://www.kesennuma.miyagi.jp/edu/s162/010/010/010/080/202/20260731105658.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/edu/s162/010/010/010/080/202/20260731105658.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E7%AB%8B%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%81%AE%E6%A8%99%E6%BA%96%E6%9C%8D%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BF%82%E3%82%8B%E5%88%B6%E6%9C%8D%E6%A5%AD%E8%80%85%E5%85%AC%E5%8B%9F%E5%9E%8B%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%AB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市建設工事・業務一般競争入札公告（令和8年9月1日入札分）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-08-17T08:30:00+09:00",
+          "summary": "気仙沼市は、令和8年9月1日に入札が実施される建設工事および業務の一般競争入札公告を発表しました。この入札は、市の公共事業に関するもので、詳細は公式ウェブサイトで確認できます。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s013/010/010/010/110/20260810093429.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s013/010/010/010/110/20260810093429.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E5%BB%BA%E8%A8%AD%E5%B7%A5%E4%BA%8B%E3%83%BB%E6%A5%AD%E5%8B%99%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B49%E6%9C%881%E6%97%A5%E5%85%A5%E6%9C%AD%E5%88%86",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼みなとまつりで初のドローンショー 1,000機が恵比寿像や大漁旗、ホヤぼーやを夜空に描く",
+          "source": "au Webポータル",
+          "publishedAt": "2026-08-17T16:22:23+09:00",
+          "summary": "気仙沼みなとまつりで、1,000機のドローンが夜空に恵比寿像や大漁旗、ホヤぼーやを描く初のドローンショーが開催されました。このイベントはau Webポータルで報じられています。",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Q0VKR09wRko4RExyQ3UzOHhaOFpxTERHeTA3X2tCVUZqOUNoVWtkVXFLMktRYmlFeEptNkRVRGJ1bUNRQW1YRi14aEtGRDU4MnVPZ2hrZXRsZ2x0LVB6MzJzOU1zbnhuZ2loRzBR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Q0VKR09wRko4RExyQ3UzOHhaOFpxTERHeTA3X2tCVUZqOUNoVWtkVXFLMktRYmlFeEptNkRVRGJ1bUNRQW1YRi14aEtGRDU4MnVPZ2hrZXRsZ2x0LVB6MzJzOU1zbnhuZ2loRzBR?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%A7%E5%88%9D%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%201%2C000%E6%A9%9F%E3%81%8C%E6%81%B5%E6%AF%94%E5%AF%BF%E5%83%8F%E3%82%84%E5%A4%A7%E6%BC%81%E6%97%97%E3%80%81%E3%83%9B%E3%83%A4%E3%81%BC%E3%83%BC%E3%82%84%E3%82%92%E5%A4%9C%E7%A9%BA%E3%81%AB%E6%8F%8F%E3%81%8F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城 気仙沼 地元の子どもたち招き 魚市場の見学会",
+          "source": "NHKニュース",
+          "publishedAt": "2026-08-17T12:11:00+09:00",
+          "summary": "宮城県気仙沼市で、地元の小学生を対象とした魚市場の見学会が開催されました。子どもたちは、普段見ることのできない市場の活気や魚の種類に触れ、水産業への理解を深めました。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92cXpETUJOb095VzZLYmtHX1BZT2ZDbGpUREZaWG9yVFhNSWVEajBHXy1zc1k3RmtEN0xzbE1aREYzY2tNWTRxSktBTnRQUThleWFVRHdBMGk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92cXpETUJOb095VzZLYmtHX1BZT2ZDbGpUREZaWG9yVFhNSWVEajBHXy1zc1k3RmtEN0xzbE1aREYzY2tNWTRxSktBTnRQUThleWFVRHdBMGk?oc=5#:~:text=%E5%AE%AE%E5%9F%8E%20%E6%B0%97%E4%BB%99%E6%B2%BC%20%E5%9C%B0%E5%85%83%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%E6%8B%9B%E3%81%8D%20%E9%AD%9A%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8B%E5%AD%A6%E4%BC%9A",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "8月17日（月曜日） おらほの町自慢！気仙沼市",
+          "source": "khb東日本放送",
+          "publishedAt": "2026-08-17T11:04:36+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10WDF5dk9RTWtOZHZKSnl5aGRFTnczVEJaTGZHQUlnTVpwRzc3OV9JOWVKeVQxN2JNckVIZ2tXYjc5N0RRdXRYd0lrU2pid0E?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10WDF5dk9RTWtOZHZKSnl5aGRFTnczVEJaTGZHQUlnTVpwRzc3OV9JOWVKeVQxN2JNckVIZ2tXYjc5N0RRdXRYd0lrU2pid0E?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼(宮城県)の過去のアメダス(2026年08月16日)",
+          "source": "tenki.jp",
+          "publishedAt": "2026-08-17T02:31:44+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iNG14ak8zSWQ2OGJNZ3pUaUdUUjVham9Sb2dZVmFnUGRfMDc0RkRqcWw5OGJxZkRrV3dlUk9XYzVndFgxQ1EtcXZuNC1leHJWMVpKY2NiNGE0YUpPMEpsSThlMGo?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iNG14ak8zSWQ2OGJNZ3pUaUdUUjVham9Sb2dZVmFnUGRfMDc0RkRqcWw5OGJxZkRrV3dlUk9XYzVndFgxQ1EtcXZuNC1leHJWMVpKY2NiNGE0YUpPMEpsSThlMGo?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "青空と声援に包まれて──気仙沼・小泉地区の熱い夏（tbc東北放送）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-08-16T15:18:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaeFljREl6TENLTUxQWUxzZTVxOTRtQWJDZHA4YzBqZGstbkgxeXZ1VUNlMG5lSEhoWmxHNFRKOGc5akRBODNYSVoxcXYxdmhDcjFIRm94NWNZMVluR09LbVlxamItMGE1VjEtd3dSU3RCQVFfX1o0bFFpVzdJQzQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaeFljREl6TENLTUxQWUxzZTVxOTRtQWJDZHA4YzBqZGstbkgxeXZ1VUNlMG5lSEhoWmxHNFRKOGc5akRBODNYSVoxcXYxdmhDcjFIRm94NWNZMVluR09LbVlxamItMGE1VjEtd3dSU3RCQVFfX1o0bFFpVzdJQzQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "青空と声援に包まれて──気仙沼・小泉地区の熱い夏",
+          "source": "TBS NEWS DIG",
+          "publishedAt": "2026-08-16T15:04:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhdmNBRVpTaVJkQUVsSmc0TUd6d0tLczFtc1p4NF9vaHdrWmVNR3NPQmNiWEg2NnhETnk4eUxPV2NHX0o5RUhNZG03eHJsbWhMUTVfeEFyVQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhdmNBRVpTaVJkQUVsSmc0TUd6d0tLczFtc1p4NF9vaHdrWmVNR3NPQmNiWEg2NnhETnk4eUxPV2NHX0o5RUhNZG03eHJsbWhMUTVfeEFyVQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "小さな漁船を６人でこぐ！地域伝統のレースで交流深める 今年は６チームが参加〈宮城・気仙沼〉（仙台放送）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-08-16T12:08:01+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUHJVeW1TUjJGaVF4U1NQNkVWc3hpcElGa2VWQUpPYjkwYmtvN0gyMkpXTUlZMW5zNHJSNW9wNjVXenlKRFZUSFVrQjFiYUlfSjFXWENzYVVQWUpuQmFvVFpfYmV0VUd5am5OZ1Y1cFhrLU9PSDVGUUg1V25EbXc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUHJVeW1TUjJGaVF4U1NQNkVWc3hpcElGa2VWQUpPYjkwYmtvN0gyMkpXTUlZMW5zNHJSNW9wNjVXenlKRFZUSFVrQjFiYUlfSjFXWENzYVVQWUpuQmFvVFpfYmV0VUd5am5OZ1Y1cFhrLU9PSDVGUUg1V25EbXc?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Dose-response association between perinatal 25(OH)D status and postpartum depression.",
+          "source": "Journal of psychosomatic obstetrics and gynaecology",
+          "publishedAt": "2026-12-31T00:00:00+09:00",
+          "summary": "周産期の25(OH)D濃度と産後うつ病（PPD）の間に用量反応関係があることが報告されています。25(OH)D濃度が1 ng/mL増加するごとにPPDリスクが25%減少すると報告されており、周産期の25(OH)DレベルはPPDリスクと負の相関があり、スクリーニングに有用である可能性が示されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42600057/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42600057/#:~:text=Each%201%20ng%2FmL%20increase%20in%2025%28OH%29D%20reduced%20PPD%20risk%20by%2025%25%20%28OR",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Multivariate patterns of trace elements in anemia during pregnancy: Insights from principal component analysis in a hospital-based study from North India.",
+          "source": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+          "publishedAt": "2026-08-17T00:00:00+09:00",
+          "summary": "インド北部で行われた病院ベースの研究によると、妊娠中の貧血は伝統的に鉄欠乏に起因するとされているが、他の微量元素も造血や酸化防御に寄与している可能性が報告されています。この研究では、貧血の妊婦は非貧血の妊婦と比較して血清鉄濃度が有意に低いことが示され、主成分分析により微量元素の4つのクラスターが特定されました。これらのクラスターは、鉄欠乏だけでなく、赤血球代謝における微量元素の相乗的および競合的な役割を示唆していると報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42605875/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42605875/#:~:text=Iron%20deficiency%20remains%20the%20predominant%20cause%20of%20anemia%20in%20p",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Time to apply Arctic dogs to polar One Health surveillance",
+          "source": "The Lancet",
+          "publishedAt": "2026-08-15T00:00:00+09:00",
+          "summary": "北極圏は地球温暖化や汚染物質、新興疾患により急速な変化を遂げており、生態系と人間の健康に影響を及ぼしています。これらの課題に対処するためには、統合的な極域ワンヘルスサーベイランスが必要とされており、北極犬がその役割に適していると報告されています。",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01481-9/fulltext?rss=yes",
+          "jumpUrl": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01481-9/fulltext?rss=yes#:~:text=Arctic%20dogs%20are%20uniquely%20positioned%20for%20this%20role%20because%20th",
+          "badge": "The Lancet",
+          "primary": true
+        },
+        {
+          "title": "輸入食品に対する検査命令の実施 （コートジボワール産ごまの種子）",
+          "source": "厚労省",
+          "publishedAt": "2026-08-13T16:00:00+09:00",
+          "summary": "厚生労働省は、コートジボワール産のごまの種子に対し、残留農薬基準を超える農薬成分が検出されたため、食品衛生法に基づき検査命令を実施しました。これにより、今後は輸入の都度、検査が義務付けられます。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_75455.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_75455.html#:~:text=%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF%E3%80%81%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B8%E3%83%9C%E3%83%AF%E3%83%BC%E3%83%AB%E7%94%A3%E3%81%94%E3%81%BE%E3%81%AE%E7%A8%AE%E5%AD%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%A4%9C%E6%9F%BB%E5%91%BD%E4%BB%A4%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Digital Markers for Passive Remote Monitoring of Bipolar Disorder: Systematic Review.",
+          "source": "JMIR mental health",
+          "publishedAt": "2026-08-13T00:00:00+09:00",
+          "summary": "双極性障害（BD）の気分状態を遠隔で受動的にモニタリングするためのデジタルマーカーに関する系統的レビューが実施されました。ウェアラブルデバイスやスマートフォンを用いた行動・生理学的データの継続的な収集が、気分変動の早期発見に役立つ可能性が報告されています。この研究は、BDの気分状態に関連する受動的に収集されたデジタルマーカーを特定し、その臨床応用における課題と優先順位を明らかにすることを目的としています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42594348/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42594348/#:~:text=Digital%20health%20technologies%2C%20including%20wearables%20and%20smartph",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Vitamin D-containing supplementation and depressive symptom severity in adults: A Bayesian systematic review and evidence-structure assessment.",
+          "source": "Clinical nutrition (Edinburgh, Scotland)",
+          "publishedAt": "2026-08-03T00:00:00+09:00",
+          "summary": "Vitamin D supplementation has been proposed as a nutrition-related adjunctive strategy for depressive symptoms, but rand",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42594843/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42594843/#:~:text=Vitamin%20D%20supplementation%20has%20been%20proposed%20as%20a%20nutrition-r",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Metabolic Engineering of Komagataella Phaffii for de Novo Synthesis of Retinol From Methanol.",
+          "source": "Biotechnology journal",
+          "publishedAt": "2026-08-01T00:00:00+09:00",
+          "summary": "Retinol, a derivative of vitamin A with potent antioxidant and therapeutic properties, is in high market demand. In resp",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42605173/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42605173/#:~:text=Retinol%2C%20a%20derivative%20of%20vitamin%20A%20with%20potent%20antioxidant%20a",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "From Catering to Clinical Care: An Expert Survey on Designing the Inpatient Psychiatric Meal Concept.",
+          "source": "Nutrients",
+          "publishedAt": "2026-07-27T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42588071/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42588071/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Multidimensional Factors Associated With Depressive Symptoms in Colombian Centenarians.",
+          "source": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
+          "publishedAt": "2026-07-23T00:00:00+09:00",
+          "summary": "To identify multidimensional factors associated with depressive symptoms in Colombian centenarians and to compare the re",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42603766/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42603766/#:~:text=To%20identify%20multidimensional%20factors%20associated%20with%20depress",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Reversible Subacute Liver Failure Following Revisional Malabsorptive Bariatric Surgery: A Case Report.",
+          "source": "Cureus",
+          "publishedAt": "2026-07-01T00:00:00+09:00",
+          "summary": "Bariatric surgery is an effective treatment for obesity and metabolic dysfunction-associated steatotic liver disease (MA",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42602310/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42602310/#:~:text=Bariatric%20surgery%20is%20an%20effective%20treatment%20for%20obesity%20and",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "Any Fred again covers?",
+          "source": "Reddit",
+          "publishedAt": "2026-08-18T04:32:38+09:00",
+          "summary": "Redditユーザーが初めてハンドパンを注文し、フレッド・アゲインの楽曲、特に「Secret Life」アルバムからのハンドパンカバーを探しています。3年間ハンドパンを待ち望んでおり、チュートリアルやカバー動画を視聴し続けていました。",
+          "url": "https://www.reddit.com/r/handpan/comments/1vr2c3t/any_fred_again_covers/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1vr2c3t/any_fred_again_covers/#:~:text=Just%20curious%2C%20does%20anyone%20like%20listening%20to%20Fred%20again%20and%20h",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Looking for Custom Scale Design Software",
+          "source": "Reddit",
+          "publishedAt": "2026-08-18T03:04:31+09:00",
+          "summary": "Redditユーザーが、カバー曲に適したカスタムスケールを構築するためのソフトウェアを探しています。既存のツールでは特定のスケールしか扱えないか、半音単位の調整しかできないため、音域の数や特定の音（最低音を含む）を完全にカスタマイズできるツールを求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1vqztnn/looking_for_custom_scale_design_software/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1vqztnn/looking_for_custom_scale_design_software/#:~:text=I%27m%20hoping%20to%20find%20something%20that%20will%20let%20me%20fully%20customiz",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Want to start with my Spacedrum Deep Sky",
+          "source": "Reddit",
+          "publishedAt": "2026-08-17T21:28:53+09:00",
+          "summary": "RedditユーザーがSpacedrum Deep Skyという8音のハンドパンを安く購入し、演奏を楽しんでいる。この楽器の初心者向け学習方法やオンラインコースについて、コミュニティにアドバイスを求めている。",
+          "url": "https://www.reddit.com/r/handpan/comments/1vqqypi/want_to_start_with_my_spacedrum_deep_sky/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1vqqypi/want_to_start_with_my_spacedrum_deep_sky/#:~:text=I%20want%20to%20learn%20the%20instrument%20%26%20im%20not%20sure%20about%20where%20to%20",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "女芸人の一芸合宿SP話題のハンドパンに挑戦!恒例の爆笑(秘)宴会芸も",
+          "source": "TVer",
+          "publishedAt": "2026-08-16T21:10:38+09:00",
+          "summary": "女芸人たちが一芸合宿を行い、話題のハンドパンに挑戦する特別番組が放送されます。合宿では、恒例の爆笑宴会芸も披露される予定です。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5#:~:text=%E5%A5%B3%E8%8A%B8%E4%BA%BA%E3%81%AE%E4%B8%80%E8%8A%B8%E5%90%88%E5%AE%BFSP%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%AB%E6%8C%91%E6%88%A6%21%E6%81%92%E4%BE%8B%E3%81%AE%E7%88%86%E7%AC%91%28%E7%A7%98%29%E5%AE%B4%E4%BC%9A%E8%8A%B8%E3%82%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "新潟にイッテQの女芸人たちが大集結！『世界の果てまでイッテQ！』で『女芸人の一芸合宿SP』放送！8月16日19:58～",
+          "source": "にいがた速報",
+          "publishedAt": "2026-08-13T12:00:00+09:00",
+          "summary": "『世界の果てまでイッテQ！』で『女芸人の一芸合宿SP』が8月16日19:58から放送されます。このスペシャルでは、イッテQの女芸人たちが新潟に大集結します。",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UREtUM1ZiblpvM1lYVkFLOGhNbnFNQkl1Z1NDa2VLTkRGS2ZtNkNZc3Naa1l5S2VtTXlBdlpUdVoyWkZmQ3ZsSWpCa0s4aURtN3c?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UREtUM1ZiblpvM1lYVkFLOGhNbnFNQkl1Z1NDa2VLTkRGS2ZtNkNZc3Naa1l5S2VtTXlBdlpUdVoyWkZmQ3ZsSWpCa0s4aURtN3c?oc=5#:~:text=%E6%96%B0%E6%BD%9F%E3%81%AB%E3%82%A4%E3%83%83%E3%83%86Q%E3%81%AE%E5%A5%B3%E8%8A%B8%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%8C%E5%A4%A7%E9%9B%86%E7%B5%90%EF%BC%81",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【イベント】Handpan Live×Art Session 音と色にゆだねる、自分との対話 | イベント | 枚方T-SITE",
+          "source": "蔦屋書店ポータル",
+          "publishedAt": "2026-08-13T11:10:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wam9pVExqbTk4LTBnZWNlTV9OeVVtMlBGUDI1RUxzYUFENkFjR0NQUWlwbHJmcFNFb2pTSWdQY1Jlay1Ub29BTTMwZWlTb2RXaG9fNGpnUkpIaWdGT2VtVThmeUdZdlNNWUJTNElrY2dGVk1q?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wam9pVExqbTk4LTBnZWNlTV9OeVVtMlBGUDI1RUxzYUFENkFjR0NQUWlwbHJmcFNFb2pTSWdQY1Jlay1Ub29BTTMwZWlTb2RXaG9fNGpnUkpIaWdGT2VtVThmeUdZdlNNWUJTNElrY2dGVk1q?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【作業用 睡眠用BGM】ハンドパンで時の回廊 1時間 /クロノトリガーCorridors of Time/Chrono Trigger-handpan cover",
+          "source": "t.co",
+          "publishedAt": "2026-08-11T21:05:26+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE80dFE0LW5qNERHSkpJYVNIMWNsMmRnbDdpYy1YSVRaY1gzekkxeTQyU3JtcXVrZC12VTRR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE80dFE0LW5qNERHSkpJYVNIMWNsMmRnbDdpYy1YSVRaY1gzekkxeTQyU3JtcXVrZC12VTRR?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "天才児：ハンドパン、ラップ、ヒップホップを独力でこなす、多才な子供DJ。",
+          "source": "Vietnam.vn",
+          "publishedAt": "2026-08-05T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHJNVHdPd2FIMm5vdlBDNWp5UnNHaFc5S3FkRkgtVWJGbTdIZ0NoUl9QRXJwaVZlUXZ4T1lWdU1JTWlPeGZTa1ZjTlB2YzdCZy1xTnhESTE5VVZWZ3hpdVNRVmUxSlpRc1JoeTljaUo5Y3NIQUtBQ1RmV2FYVlZNb1lZeVc5MjFTam1sTW5udlZrcU4tQk9V?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHJNVHdPd2FIMm5vdlBDNWp5UnNHaFc5S3FkRkgtVWJGbTdIZ0NoUl9QRXJwaVZlUXZ4T1lWdU1JTWlPeGZTa1ZjTlB2YzdCZy1xTnhESTE5VVZWZ3hpdVNRVmUxSlpRc1JoeTljaUo5Y3NIQUtBQ1RmV2FYVlZNb1lZeVc5MjFTam1sTW5udlZrcU4tQk9V?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【ハンドパンとオーボエ公演 福島公演 “Handpan & Oboe Duo Concert” ― 静寂と音の旅 ―】",
+          "source": "gurutto-fukushima.com",
+          "publishedAt": "2026-08-03T18:52:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "source": "Hugging Face",
+          "publishedAt": "2026-08-18T04:46:21+09:00",
+          "summary": "Hugging Faceは、同じクラスターとワークロードを使用しながら、タスクの順序を変更するだけでGPU利用率を33ポイント向上させることに成功しました。この最適化により、リソースの効率が大幅に改善され、計算コストの削減につながる可能性が示されました。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "jumpUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2#:~:text=Same%20Cluster%2C%2033%20Points%20More%20Utilization%3A%20What%20Changed%20Was%20t",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Get closer to the game with Gemini and Pixel",
+          "source": "Google AI",
+          "publishedAt": "2026-08-17T17:00:00+09:00",
+          "summary": "Google GeminiとPixelは、AIとスマートフォン技術を活用し、世界の5つのサッカークラブと提携しました。これにより、ファンの試合日の体験を向上させることを目指しています。",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/#:~:text=Google%20Gemini%20and%20Pixel%20partner%20with%20five%20global%20football%20cl",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "The Defender’s Window",
+          "source": "OpenAI",
+          "publishedAt": "2026-08-17T14:30:00+09:00",
+          "summary": "AIはサイバーセキュリティの攻撃者と防御者の双方にとって変革をもたらしています。OpenAIは防御を強化しており、セキュリティチームが今できることについて解説しています。",
+          "url": "https://openai.com/index/the-defenders-window",
+          "jumpUrl": "https://openai.com/index/the-defenders-window#:~:text=AI%20is%20reshaping%20cybersecurity%20for%20attackers%20and%20defenders%20al",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "OpenAI joins PORTS-Pike project",
+          "source": "OpenAI",
+          "publishedAt": "2026-08-17T14:00:00+09:00",
+          "summary": "OpenAIはPORTS-Pikeプロジェクトに参加し、地域社会への投資を拡大し、オハイオ州南部で数千人の雇用を支援します。",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "jumpUrl": "https://openai.com/index/openai-joins-ports-pike-project#:~:text=OpenAI%20joins%20PORTS-Pike%20project%2C%20expanding%20community%20investm",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "New policy ideas for the Intelligence Age",
+          "source": "OpenAI",
+          "publishedAt": "2026-08-17T12:15:00+09:00",
+          "summary": "OpenAIは、AI時代の経済機会拡大と社会回復力強化のため、新たなAI政策を探求する14の独立プロジェクトに資金提供しています。これらのプロジェクトは、AIが社会に与える影響を考慮した政策提言を目指しています。",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "jumpUrl": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age#:~:text=OpenAI%20funds%2014%20independent%20projects%20exploring%20new%20AI%20policy",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "source": "Hugging Face",
+          "publishedAt": "2026-08-14T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "jumpUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "source": "Hugging Face",
+          "publishedAt": "2026-08-14T02:16:04+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "jumpUrl": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "source": "DeepMind",
+          "publishedAt": "2026-08-14T02:04:18+09:00",
+          "summary": "",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "jumpUrl": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Bring your spreadsheet data to life with Sheets canvas",
+          "source": "Google AI",
+          "publishedAt": "2026-08-14T01:45:00+09:00",
+          "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/#:~:text=Sheets%20canvas%20turns%20data%20into%20interactive%20dashboards%2C%20custom",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "source": "DeepMind",
+          "publishedAt": "2026-08-12T23:01:59+09:00",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard o",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "jumpUrl": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/#:~:text=Introducing%20sign-language-to-text%20%28SL2T%29%2C%20our%20breakthrough%20m",
+          "badge": "DeepMind",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
