@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T08:04:37.071613+09:00",
+  "audioUrl": "audio/2026-09-02.mp3",
+  "audioScript": "9月2日、水曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、都市ガス事業の廃止に伴い、2022年3月31日をもって気仙沼市ガス指定工事店制度を廃止しました。これにより、指定工事店としての業務は終了となります。気仙沼市公式。気仙沼市は新庁舎建設工事の第16号工事だよりを発行しました。この号では、新庁舎の進捗状況と今後の予定について市民に報告しています。気仙沼市公式。気仙沼市は、市立中学校の共通運動着製造業務の委託業者を選定するため、公募型コンペティションを実施します。参加を希望する事業者は、市ウェブサイトで詳細を確認し、期限内に応募する必要があります。\n\n■ 分子栄養。Journal of musculoskeletal & neuronal interactionsによると、腰椎脊椎固定術後の患者において、ビタミンDの状態が良い、またはビタミンDを補給している場合、X線画像上の骨癒合成功率が高まる可能性が報告されています。ただし、患者報告アウトカムには一貫性がなく、さらなる研究が必要です。と報告されています。Cardiovascular toxicologyによると、心血管代謝性疾患は世界の罹患率と死亡率の主要因であり、有害金属への環境曝露が血管や代謝の損傷に寄与すると報告されています。本レビューでは、有害金属が必須微量元素のバランスを崩し、フェロトーシスを介して心血管代謝性疾患を促進するメカニズムについて考察しています。と報告されています。Journal of affective disordersによると、双極性障害患者におけるリチウム治療と血管石灰化の関連を調査した結果、リチウム治療が動脈および冠動脈の石灰化リスク低下と独立して関連していると報告されています。また、疾患負荷の高さや従来の心血管リスク因子も血管石灰化に寄与するとされています。と報告されています。\n\n■ ハンドパン。Reddit。提供された情報が不足しているため、ニュース記事の要約はできません。タイトルと出典はありますが、要約を作成するための本文の内容が欠落しています。Reddit。Redditユーザーが初めてのハンドパン購入を検討しており、現在セール中の「Sala Musik」というブランドについて情報を求めています。このブランドに関する評判や経験について質問が投稿されました。Reddit。Redditユーザーがハンドパンとクラリネットをループさせた楽曲を制作し、SoundCloudで公開しました。この珍しい組み合わせについてフィードバックを求めています。\n\n■ AI。Hugging Face。Hugging Faceの「BenchMIRT」は、LLMベンチマークが実際に何を測定しているのかを検証するプロジェクトです。このプロジェクトは、既存のベンチマークの限界を明らかにし、より正確な評価方法を模索することを目的としています。Google AI。Google AIは2026年8月に発表された最新のAIアップデートを公開しました。このアップデートには、様々な新機能や改善が含まれています。DeepMind。Google DeepMindは、Geminiモデルを活用したエージェント的な動画理解技術を発表しました。この技術は、動画コンテンツをより深く分析し、複雑な情報を抽出する能力を向上させることを目指しています。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "気仙沼市ガス指定工事店の廃止について",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-02T00:00:00+09:00",
+          "summary": "気仙沼市は、都市ガス事業の廃止に伴い、2022年3月31日をもって気仙沼市ガス指定工事店制度を廃止しました。これにより、指定工事店としての業務は終了となります。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s140/010/010/020/010/20231206104400.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s140/010/010/020/010/20231206104400.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%82%AC%E3%82%B9%E6%8C%87%E5%AE%9A%E5%B7%A5%E4%BA%8B%E5%BA%97%E5%88%B6%E5%BA%A6%E3%81%AF%E3%80%81%E4%BB%A4%E5%92%8C4%E5%B9%B43%E6%9C%8831%E6%97%A5%E3%82%92%E3%82%82%E3%81%A3%E3%81%A6%E5%BB%83%E6%AD%A2%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市新庁舎建設工事だより【第１６号】",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-01T10:00:00+09:00",
+          "summary": "気仙沼市は新庁舎建設工事の第16号工事だよりを発行しました。この号では、新庁舎の進捗状況と今後の予定について市民に報告しています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s014/shinntyousya/sintyosha-kensetu-kozi/20250530130131.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s014/shinntyousya/sintyosha-kensetu-kozi/20250530130131.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E6%96%B0%E5%BA%81%E8%88%8E%E5%BB%BA%E8%A8%AD%E5%B7%A5%E4%BA%8B%E3%81%A0%E3%82%88%E3%82%8A%E3%80%90%E7%AC%AC%EF%BC%91%EF%BC%96%E5%8F%B7",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市立中学校の共通運動着製造業務に係る委託業者選定のための公募型コンペティションの実施について",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-01T09:00:00+09:00",
+          "summary": "気仙沼市は、市立中学校の共通運動着製造業務の委託業者を選定するため、公募型コンペティションを実施します。参加を希望する事業者は、市ウェブサイトで詳細を確認し、期限内に応募する必要があります。",
+          "url": "https://www.kesennuma.miyagi.jp/edu/s162/010/010/010/080/040/20260828085946.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/edu/s162/010/010/010/080/040/20260828085946.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E7%AB%8B%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%81%AE%E5%85%B1%E9%80%9A%E9%81%8B%E5%8B%95%E7%9D%80%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%8B%99%E3%81%AB%E4%BF%82%E3%82%8B%E5%A7%94%E8%A8%97%E6%A5%AD%E8%80%85%E9%81%B8%E5%AE%9A%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%85%AC%E5%8B%9F%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "盆休み明けカツオ１１７㌧【気仙沼】",
+          "source": "iwanichi.co.jp",
+          "publishedAt": "2026-09-02T05:33:51+09:00",
+          "summary": "気仙沼港では盆休み明けにカツオ117トンが水揚げされました。これは漁業活動が再開されたことを示しています。",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRE1TVklDeHZHNkxZZ1J4RDkwenViNTltdXBmckNlamszeXBfQ0YzanBwWUw1a0VHR3o0NkVweldIVlZlWTJnU0dsekF2cV9lQ096b0VtekxkOUNLUlpjSEZnNU0xdm9zVldKTXY4NFJXTkhER2UyMTB0TlBFN1FMOWVaVy1wb0RYdkJJX2tDQnV0N0Etb0ZyNWVOSGVqUnV6cDhUS0FNUTk4SnctcDJwQk5BcXg1VnRzcm9XUWVHUWZ3b3RDWEpTMlp1QzFiNHF5ZlRkeG53a3lJaEswZEZmWUFR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRE1TVklDeHZHNkxZZ1J4RDkwenViNTltdXBmckNlamszeXBfQ0YzanBwWUw1a0VHR3o0NkVweldIVlZlWTJnU0dsekF2cV9lQ096b0VtekxkOUNLUlpjSEZnNU0xdm9zVldKTXY4NFJXTkhER2UyMTB0TlBFN1FMOWVaVy1wb0RYdkJJX2tDQnV0N0Etb0ZyNWVOSGVqUnV6cDhUS0FNUTk4SnctcDJwQk5BcXg1VnRzcm9XUWVHUWZ3b3RDWEpTMlp1QzFiNHF5ZlRkeG53a3lJaEswZEZmWUFR?oc=5#:~:text=%E7%9B%86%E4%BC%91%E3%81%BF%E6%98%8E%E3%81%91%E3%82%AB%E3%83%84%E3%82%AA%EF%BC%91%EF%BC%91%EF%BC%97%E3%8C%A7%E3%80%90%E6%B0%97%E4%BB%99%E6%B2%BC",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼漁港でサンマ初水揚げ、量は昨年の１０分の１程度…今年の「魚群が来る量」は全国的に昨年下回る予測",
+          "source": "読売新聞",
+          "publishedAt": "2026-09-01T17:30:00+09:00",
+          "summary": "気仙沼漁港で今季初のサンマが水揚げされましたが、その量は昨年の約10分の1に激減しました。今年のサンマの魚群来遊量は、全国的に昨年を下回ると予測されています。",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRS04RUZIYnJHdW9qN3FEV29Qb0dGUFMtd0tUcTVPTVF4R2c3b0tYU01ReVNaQ2tlbjdzT2dCLW5oaDBfd0l4dFV6MF9nOC1HLUVUSTRJeG0wQV81QW5nRmR5NzM?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRS04RUZIYnJHdW9qN3FEV29Qb0dGUFMtd0tUcTVPTVF4R2c3b0tYU01ReVNaQ2tlbjdzT2dCLW5oaDBfd0l4dFV6MF9nOC1HLUVUSTRJeG0wQV81QW5nRmR5NzM?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E6%BC%81%E6%B8%AF%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%9E%E5%88%9D%E6%B0%B4%E6%8F%9A%E3%81%92%E3%80%81%E9%87%8F%E3%81%AF%E6%98%A8%E5%B9%B4%E3%81%AE%EF%BC%91%EF%BC%90%E5%88%86%E3%81%AE%EF%BC%91%E7%A8%8B%E5%BA%A6",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "（私のイチオシコレクション）「気仙沼市 リアス・アーク美術館」 山内宏泰",
+          "source": "朝日新聞",
+          "publishedAt": "2026-09-01T16:30:00+09:00",
+          "summary": "気仙沼市 リアス・アーク美術館は、東日本大震災の記録を展示する美術館です。震災の悲劇を風化させないための活動を続けており、そのコレクションは震災の記憶を後世に伝える重要な役割を担っています。",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UcjRPMm1vbjVRXy1hSTdBVHFaeGh1Qmh4WEVETzB3RUE2dlJCZ2E1a1dDMk1iQ0dFRzlScENvQTRpaTdPcHItQy1acmJUT0tCcUphazIzeHZSbkV6ajh6ZWxOSlplWENPYjFtSEJTeUxRMWFHUDR1cnl1VnJydw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UcjRPMm1vbjVRXy1hSTdBVHFaeGh1Qmh4WEVETzB3RUE2dlJCZ2E1a1dDMk1iQ0dFRzlScENvQTRpaTdPcHItQy1acmJUT0tCcUphazIzeHZSbkV6ajh6ZWxOSlplWENPYjFtSEJTeUxRMWFHUDR1cnl1VnJydw?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%20%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AF%E7%BE%8E%E8%A1%93%E9%A4%A8",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼大島「亀山モノレール」乗客２万人に到達　開業から１カ月余り　新たな観光スポットとして人気〈宮城",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-09-01T11:24:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CQzFVZTUzWnNxdlBkV3dxVktXZnk1bEp3M0FNeHNZV0ZTYXlma2pkOGQ5MHZUZFBEcTc3MWJKdGVjNFlTTU45cDYyTHhWbUhaY20ydGk2UE5jQTNmX0hWT3E3cVZtVW5idmtLNGlFY9IBdEFVX3lxTE5lQl9JbGFLSk94NHhCRkJVVzN1Y0szejFhQlUzdnJCVnBGQ1JPcEx6OWFjSU5XSGhURUJrc0lpSXFKWE1VQWpURHFMT2RLSm9xMzZyeTVBY05feVVCREtJR0NMRm41R0VuVjdFb2xWVmIxUXc2?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CQzFVZTUzWnNxdlBkV3dxVktXZnk1bEp3M0FNeHNZV0ZTYXlma2pkOGQ5MHZUZFBEcTc3MWJKdGVjNFlTTU45cDYyTHhWbUhaY20ydGk2UE5jQTNmX0hWT3E3cVZtVW5idmtLNGlFY9IBdEFVX3lxTE5lQl9JbGFLSk94NHhCRkJVVzN1Y0szejFhQlUzdnJCVnBGQ1JPcEx6OWFjSU5XSGhURUJrc0lpSXFKWE1VQWpURHFMT2RLSm9xMzZyeTVBY05feVVCREtJR0NMRm41R0VuVjdFb2xWVmIxUXc2?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼サンマ初水揚げ 水揚げ少なく価格3倍 ことし日本近海は最少か",
+          "source": "ABEMA",
+          "publishedAt": "2026-09-01T10:28:25+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kV2NZQktjWFI4NmtibEpyOHRQTW1fUWhaLUpXczcyYXB5aEs0NlBQQVJXZDJ0aWs5Z1VDMHlYbXRqaE9vVm9ZZXRzLTN1SW8xY1lEZTh4S2ZNcjA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kV2NZQktjWFI4NmtibEpyOHRQTW1fUWhaLUpXczcyYXB5aEs0NlBQQVJXZDJ0aWs5Z1VDMHlYbXRqaE9vVm9ZZXRzLTN1SW8xY1lEZTh4S2ZNcjA?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "インフォザイン、気仙沼市開催のイベントでオープンバッジのワークショップを開催",
+          "source": "ict-enews.net",
+          "publishedAt": "2026-09-01T10:02:45+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XeEhyczR1NnpaWnBXeXp6Rm5WZ0xfbUhfczlBdWo3elRrM2F3Y21zcUtlbXJucXF1SFdwY24wZk8wWVJMR0RHYXlGdUZxSE9PN25YWEd3?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XeEhyczR1NnpaWnBXeXp6Rm5WZ0xfbUhfczlBdWo3elRrM2F3Y21zcUtlbXJucXF1SFdwY24wZk8wWVJMR0RHYXlGdUZxSE9PN25YWEd3?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼漁港で今季初のサンマ水揚げ 入札では昨年の3倍超の値 宮城 [宮城県]",
+          "source": "朝日新聞",
+          "publishedAt": "2026-09-01T10:00:01+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjBjeVNmdVhjTGw1QzFNMTFVdXN4bVdKbXJvaTAxMmVSZXlzcGFLZE1PVkhJVDd5MUo4NEFhLUhMWmtFa1FUSnk4cFZISXZYS0RORFhEQlNDczkwOGw1dVJPZzRpdGM3NFl5NG9KUGM3WFZ6bVJ6ekxYa3dNV0VLVVd2XzQ1QQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjBjeVNmdVhjTGw1QzFNMTFVdXN4bVdKbXJvaTAxMmVSZXlzcGFLZE1PVkhJVDd5MUo4NEFhLUhMWmtFa1FUSnk4cFZISXZYS0RORFhEQlNDczkwOGw1dVJPZzRpdGM3NFl5NG9KUGM3WFZ6bVJ6ekxYa3dNV0VLVVd2XzQ1QQ?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Vitamin D Status and Supplementation in Lumbar Spinal Fusion: A Systematic Review and Meta-Analysis of Radiographic and Clinical Outcomes.",
+          "source": "Journal of musculoskeletal & neuronal interactions",
+          "publishedAt": "2026-09-01T00:00:00+09:00",
+          "summary": "腰椎脊椎固定術後の患者において、ビタミンDの状態が良い、またはビタミンDを補給している場合、X線画像上の骨癒合成功率が高まる可能性が報告されています。ただし、患者報告アウトカムには一貫性がなく、さらなる研究が必要です。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42675950/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42675950/#:~:text=Five%20studies%20%28n%20%3D%20351%29%20assessed%20radiographic%20fusion%20success%2C",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Toxic Metal-Essential Trace Element Imbalance in Cardiometabolic Disease: Ferroptosis as a Mechanistic Link Between Environmental Exposure and Vascular Injury.",
+          "source": "Cardiovascular toxicology",
+          "publishedAt": "2026-08-31T00:00:00+09:00",
+          "summary": "心血管代謝性疾患は世界の罹患率と死亡率の主要因であり、有害金属への環境曝露が血管や代謝の損傷に寄与すると報告されています。本レビューでは、有害金属が必須微量元素のバランスを崩し、フェロトーシスを介して心血管代謝性疾患を促進するメカニズムについて考察しています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42671723/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42671723/#:~:text=Toxic%20metal-essential%20trace-element%20imbalance%20may%20create%20a%20p",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Association between lithium treatment and vascular calcification in bipolar disorder: A retrospective cohort study.",
+          "source": "Journal of affective disorders",
+          "publishedAt": "2026-08-31T00:00:00+09:00",
+          "summary": "双極性障害患者におけるリチウム治療と血管石灰化の関連を調査した結果、リチウム治療が動脈および冠動脈の石灰化リスク低下と独立して関連していると報告されています。また、疾患負荷の高さや従来の心血管リスク因子も血管石灰化に寄与するとされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42674302/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42674302/#:~:text=Lithium%20treatment%20was%20independently%20associated%20with%20lower%20od",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "輸入食品に対する検査命令の実施 （トーゴ産ごまの種子）",
+          "source": "厚労省",
+          "publishedAt": "2026-08-28T16:00:00+09:00",
+          "summary": "厚生労働省は、トーゴ産のごまの種子から基準値を超える残留農薬が検出されたため、食品衛生法に基づき検査命令を実施すると発表しました。これにより、トーゴから輸入されるごまの種子は全ロットが検査対象となります。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_75788.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_75788.html#:~:text=%E3%83%88%E3%83%BC%E3%82%B4%E7%94%A3%E3%81%94%E3%81%BE%E3%81%AE%E7%A8%AE%E5%AD%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%A4%9C%E6%9F%BB%E5%91%BD%E4%BB%A4%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "令和７年度における「輸入食品監視指導計画に基づく監視指導結果」及び「輸入食品監視統計」の公表",
+          "source": "厚労省",
+          "publishedAt": "2026-08-28T14:00:00+09:00",
+          "summary": "厚生労働省は、令和7年度の「輸入食品監視指導計画に基づく監視指導結果」と「輸入食品監視統計」を公表しました。これにより、輸入食品の安全性が確保され、消費者の信頼向上に繋がることが期待されます。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_75846.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_75846.html#:~:text=%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%8C%E8%BC%B8%E5%85%A5%E9%A3%9F%E5%93%81%E7%9B%A3%E8%A6%96%E6%8C%87%E5%B0%8E%E8%A8%88%E7%94%BB%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E7%9B%A3%E8%A6%96%E6%8C%87%E5%B0%8E%E7%B5%90%E6%9E%9C%E3%80%8D%E5%8F%8A%E3%81%B3%E3%80%8C%E8%BC%B8%E5%85%A5%E9%A3%9F%E5%93%81%E7%9B%A3%E8%A6%96%E7%B5%B1%E8%A8%88%E3%80%8D%E3%81%AE%E5%85%AC%E8%A1%A8",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "第41回管理栄養士国家試験の実施について",
+          "source": "厚労省",
+          "publishedAt": "2026-08-28T10:00:00+09:00",
+          "summary": "厚生労働省は、第41回管理栄養士国家試験の実施について発表しました。試験は2027年2月21日（日曜日）に実施され、受験願書の受付期間は同年1月5日から1月15日までです。試験地は北海道、宮城、東京、愛知、大阪、広島、 香川、福岡、沖縄の9都道府県で、合格発表は3月25日に行われます。",
+          "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html",
+          "jumpUrl": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html#:~:text=%E8%A9%A6%E9%A8%93%E3%82%922027%E5%B9%B42%E6%9C%8821%E6%97%A5%EF%BC%88%E6%97%A5%E6%9B%9C%E6%97%A5%EF%BC%89%E3%81%AB%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Endoplasmic Reticulum Stress Drives Copper-Induced Reticulophagy in Porcine Hepatocytes.",
+          "source": "Journal of agricultural and food chemistry",
+          "publishedAt": "2026-08-26T00:00:00+09:00",
+          "summary": "農業における銅の過剰摂取は、動物や人間に毒性リスクをもたらす可能性があり、豚の肝細胞では、銅が小胞体ストレスを引き起こし、それがレチクロファジー（小胞体オートファジー）を促進すると報告されています。このメカニズムは、家畜飼料における銅の安全基準再評価の基礎となる可能性があります。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42677674/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42677674/#:~:text=Here%2C%20we%20identify%20the%20ER%20stress%20response%20as%20the%20primary%20init",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Use of Mood- and Stress-Relief Dietary Supplements and Over-the-Counter Medications in Relation to Physician Trust, Hypothetical Help-Seeking Preferences, and Communication-Related Attitudes: A Cross-Sectional Survey.",
+          "source": "Nutrients",
+          "publishedAt": "2026-08-20T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42654306/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42654306/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Per-Capita Food Availability and Global Dementia Burden Across Multiple Exposure Windows.",
+          "source": "Nutrients",
+          "publishedAt": "2026-08-18T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42654279/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42654279/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Self-Reported Disordered Eating and Weight-Control Behaviours Across BMI Categories in Romanian Young Adults: A Cross-Sectional Online Convenience Survey.",
+          "source": "Nutrients",
+          "publishedAt": "2026-08-16T00:00:00+09:00",
+          "summary": "Disordered eating behaviours are increasingly common among young adults, yet nutrition-focused, region-specific data fro",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42654257/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42654257/#:~:text=Disordered%20eating%20behaviours%20are%20increasingly%20common%20among%20y",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "Playing Synths with Bitwig & Neotone",
+          "source": "Reddit",
+          "publishedAt": "2026-09-02T04:25:18+09:00",
+          "summary": "提供された情報が不足しているため、ニュース記事の要約はできません。タイトルと出典はありますが、要約を作成するための本文の内容が欠落しています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1w4mapi/playing_synths_with_bitwig_neotone/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1w4mapi/playing_synths_with_bitwig_neotone/",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Anyone ever hear of Sala Musik handpans?",
+          "source": "Reddit",
+          "publishedAt": "2026-09-02T00:44:53+09:00",
+          "summary": "Redditユーザーが初めてのハンドパン購入を検討しており、現在セール中の「Sala Musik」というブランドについて情報を求めています。このブランドに関する評判や経験について質問が投稿されました。",
+          "url": "https://www.reddit.com/r/handpan/comments/1w4fq7t/anyone_ever_hear_of_sala_musik_handpans/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1w4fq7t/anyone_ever_hear_of_sala_musik_handpans/#:~:text=I%27m%20looking%20to%20buy%20my%20first%20handpan%20and%20they%27re%20having%20a%20sal",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "clarinet and handpan looping - unexpected but good fit. feedbacks are welcome",
+          "source": "Reddit",
+          "publishedAt": "2026-09-01T05:27:02+09:00",
+          "summary": "Redditユーザーがハンドパンとクラリネットをループさせた楽曲を制作し、SoundCloudで公開しました。この珍しい組み合わせについてフィードバックを求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1w3pvia/clarinet_and_handpan_looping_unexpected_but_good/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1w3pvia/clarinet_and_handpan_looping_unexpected_but_good/#:~:text=I%20juggle%20between%20handpan%20and%20clarinet%20and%20looped%20them%20togeth",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "ハンドパン｜あぁ、だから一人はいやなんだ。｜いとうあさこ",
+          "source": "幻冬舎plus",
+          "publishedAt": "2026-08-30T06:00:00+09:00",
+          "summary": "いとうあさこさんがハンドパンの音色に魅了され、購入を検討するも、一人暮らしの部屋で演奏することに寂しさを感じています。楽器の音色が持つ温かさや響きが、一人でいることの寂しさを際立たせるため、購入をためらっている状況が描かれています。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMDBqY2ktV205NjJqMkk4Q3g2eTY3Q3VFTU9lWWpLVlpzazNqX245bnBWYzMtVXNUTXNNQjFqcUx4cjk3a1Q0VHF2Mkp1Zm8?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMDBqY2ktV205NjJqMkk4Q3g2eTY3Q3VFTU9lWWpLVlpzazNqX245bnBWYzMtVXNUTXNNQjFqcUx4cjk3a1Q0VHF2Mkp1Zm8?oc=5#:~:text=%E3%81%82%E3%81%81%E3%80%81%E3%81%A0%E3%81%8B%E3%82%89%E4%B8%80%E4%BA%BA%E3%81%AF%E3%81%84%E3%82%84%E3%81%AA%E3%82%93%E3%81%A0%E3%80%82%E3%81%93%E3%81%AE%E9%9F%B3%E8%89%B2%E3%82%92%E4%B8%80%E4%BA%BA%E3%81%A7%E8%81%B4%E3%81%8F%E3%81%AE%E3%81%AF%E3%80%81%E4%B8%80%E4%BA%BA%E3%81%A7%E5%A5%8F%E3%81%A7%E3%82%8B%E3%81%AE%E3%81%AF%E3%80%81%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AB%E3%82%82%E5%88%87%E3%81%AA%E3%81%99%E3%81%8E%E3%82%8B%E3%80%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "イベント名：ハンドパン×オーボエ Special Duo Concert「静寂と音の旅」",
+          "source": "gurutto-fukushima.com",
+          "publishedAt": "2026-08-26T16:12:20+09:00",
+          "summary": "「ハンドパン×オーボエ Special Duo Concert『静寂と音の旅』」というイベントが開催されます。このコンサートは、ハンドパンとオーボエの特別なデュオ演奏を特徴としています。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOejg5aFBQcTE0aGh4MklUdDJMdTdEZ0FGbWtRWlZIVnoyVDdVdmhQMXlqeW1xNVBNcEtlZWVaemFzYXVHdXN2Zk0tTWhYM0JCTjNjZUlvVHo?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOejg5aFBQcTE0aGh4MklUdDJMdTdEZ0FGbWtRWlZIVnoyVDdVdmhQMXlqeW1xNVBNcEtlZWVaemFzYXVHdXN2Zk0tTWhYM0JCTjNjZUlvVHo?oc=5#:~:text=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%90%8D%EF%BC%9A%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%C3%97%E3%82%AA%E3%83%BC%E3%83%9C%E3%82%A8%20Special%20Duo%20Concert%E3%80%8C%E9%9D%99%E5%AF%82%E3%81%A8%E9%9F%B3%E3%81%AE%E6%97%85",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "UFOを呼ぶ100の方法 original song handpan #ハンドパン #handpan",
+          "source": "YouTube",
+          "publishedAt": "2026-08-20T16:00:00+09:00",
+          "summary": "YouTube動画「UFOを呼ぶ100の方法 original song handpan」は、ハンドパンを使ったオリジナル曲でUFOを呼ぶというテーマのコンテンツです。この動画は、ハンドパンの演奏を通じて、UFOとのコンタクトを試みるユニークなアプローチを提示しています。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94MVhDaFp5Y0RHU1FQRjdmZ1p3bGZXLUxJYVZfQkJfRDNpMlQxXzdySzBQWlJxbnlBc2xscjFpMzNsdGxlYUs4djRpWkNaeUh4cHlTVzRQWjc1WDJm?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94MVhDaFp5Y0RHU1FQRjdmZ1p3bGZXLUxJYVZfQkJfRDNpMlQxXzdySzBQWlJxbnlBc2xscjFpMzNsdGxlYUs4djRpWkNaeUh4cHlTVzRQWjc1WDJm?oc=5#:~:text=UFO%E3%82%92%E5%91%BC%E3%81%B6100%E3%81%AE%E6%96%B9%E6%B3%95%20original%20song%20handpan",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "女芸人の一芸合宿SP話題のハンドパンに挑戦!恒例の爆笑(秘)宴会芸も",
+          "source": "TVer",
+          "publishedAt": "2026-08-16T21:10:38+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "女芸人一芸合宿 in 新潟｜世界の果てまでイッテQ！",
+          "source": "日本テレビ",
+          "publishedAt": "2026-08-16T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGpRZi1wdXpGUndxdEVNZjlwZFdwdS1YUkhEbHFjMUM4cjNMdlloVHFpejlqV19PRGUzNmFReGlldTk3Y29EaWFnQ3dwRnVEVjQwRVZLcTAzTjEtTXZ3TS0yWXpSdFlt?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGpRZi1wdXpGUndxdEVNZjlwZFdwdS1YUkhEbHFjMUM4cjNMdlloVHFpejlqV19PRGUzNmFReGlldTk3Y29EaWFnQ3dwRnVEVjQwRVZLcTAzTjEtTXZ3TS0yWXpSdFlt?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "新潟にイッテQの女芸人たちが大集結！『世界の果てまでイッテQ！』で『女芸人の一芸合宿SP』放送！8月16日19:58～",
+          "source": "にいがた速報",
+          "publishedAt": "2026-08-13T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UREtUM1ZiblpvM1lYVkFLOGhNbnFNQkl1Z1NDa2VLTkRGS2ZtNkNZc3Naa1l5S2VtTXlBdlpUdVoyWkZmQ3ZsSWpCa0s4aURtN3c?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UREtUM1ZiblpvM1lYVkFLOGhNbnFNQkl1Z1NDa2VLTkRGS2ZtNkNZc3Naa1l5S2VtTXlBdlpUdVoyWkZmQ3ZsSWpCa0s4aURtN3c?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-02T06:39:07+09:00",
+          "summary": "Hugging Faceの「BenchMIRT」は、LLMベンチマークが実際に何を測定しているのかを検証するプロジェクトです。このプロジェクトは、既存のベンチマークの限界を明らかにし、より正確な評価方法を模索することを目的としています。",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "jumpUrl": "https://huggingface.co/blog/allenai/benchmirt#:~:text=BenchMIRT%3A%20What%20are%20LLM%20benchmarks%20actually%20measuring%3F",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "The latest AI news we announced in August 2026",
+          "source": "Google AI",
+          "publishedAt": "2026-09-02T05:45:00+09:00",
+          "summary": "Google AIは2026年8月に発表された最新のAIアップデートを公開しました。このアップデートには、様々な新機能や改善が含まれています。",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/#:~:text=Here%20are%20Google%E2%80%99s%20latest%20AI%20updates%20from%20August%202026",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "source": "DeepMind",
+          "publishedAt": "2026-09-02T02:08:51+09:00",
+          "summary": "Google DeepMindは、Geminiモデルを活用したエージェント的な動画理解技術を発表しました。この技術は、動画コンテンツをより深く分析し、複雑な情報を抽出する能力を向上させることを目指しています。",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "jumpUrl": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/#:~:text=Introducing%20agentic%20video%20understanding%20with%20Gemini",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "How AI-native companies turn workflows into operating capability",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-02T02:00:00+09:00",
+          "summary": "AIネイティブ企業であるBasis、Clay、Exa Labsは、AIエージェントを活用してオンボーディング、アカウント管理、開発者統合を改善しています。これらの事例は、他の企業リーダーがAIを業務に適用する際の参考になります。",
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "jumpUrl": "https://openai.com/index/ai-native-company-workflows#:~:text=Basis%2C%20Clay%2C%20and%20Exa%20Labs%20use%20AI%20agents%20to%20improve%20onboardin",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "source": "Google AI",
+          "publishedAt": "2026-09-02T01:00:00+09:00",
+          "summary": "Googleは、最新のNano Bananaモデルを基盤とした画像作成・編集ツール「Google Pics」の提供を開始しました。このツールはGoogle Workspace内で利用可能です。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/workspace/google-pics/#:~:text=Built%20on%20our%20latest%20Nano%20Banana%20model%2C%20Google%20Pics%20%E2%80%94%20our%20ima",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-01T22:00:00+09:00",
+          "summary": "Astra is the first model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with ",
+          "url": "https://openai.com/index/path-to-astra",
+          "jumpUrl": "https://openai.com/index/path-to-astra#:~:text=Astra%20is%20the%20first%20model%20to%20meet%20the%20Critical%20cybersecurity",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-01T21:00:00+09:00",
+          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "jumpUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources#:~:text=ChatGPT%20can%20now%20connect%20to%20trusted%20healthcare%20data%2C%20helping",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-01T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "jumpUrl": "https://huggingface.co/blog/webgpu-kernels",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "source": "Hugging Face",
+          "publishedAt": "2026-08-28T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "jumpUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "source": "DeepMind",
+          "publishedAt": "2026-08-28T01:11:32+09:00",
+          "summary": "",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "jumpUrl": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "badge": "DeepMind",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
