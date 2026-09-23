@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T08:26:33.215959+09:00",
+  "audioUrl": "audio/2026-09-24.mp3",
+  "audioScript": "9月24日、木曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市では、毎月19日を「食育の日」と定め、食に関する正しい知識と望ましい食習慣を育むための情報提供を行っています。この取り組みは、市民の健康増進と食文化への理解を深めることを目的としています。Infoseek。気仙沼の漁師が「魚料理に合うコーヒー」を開発しました。このコーヒーは、もうかの星やメカジキといった地元の魚介類との相性が良いとされています。topics.smt.docomo.ne.jp。萩本欽一が、気仙沼ちゃんが民宿を4軒経営する大女将になったことについて語っています。萩本がテレビで夫を募集させたことが、彼女の成功に繋がったと振り返っています。\n\n■ 分子栄養。Basic & clinical pharmacology & toxicologyによると、慢性創傷の治癒には十分な栄養素が必要であり、ビタミン欠乏症が患者に多く見られると報告されています。しかし、ビタミン補充による介入研究では効果が一貫しておらず、最適な投与量を確立するためには、慢性創傷患者におけるビタミンの薬物動態と必要量の変化を理解することが重要であると指摘されています。と報告されています。Calcified tissue internationalによると、低血清25-ヒドロキシビタミンDレベルの参加者を対象とした大規模コホート研究において、骨軟化症と一致する探索的生化学的パターンの有病率は低いと報告されています。ビタミンD補給は、これらの生化学的パラメーターを改善する可能性が示唆されています。と報告されています。Cell metabolismによると、肝臓と軟骨のセレン軸が変形性関節症（OA）の代謝性併存疾患の根底にあると報告されています。肝機能障害はセレン代謝を阻害し、軟骨のセレンタンパク質欠乏を引き起こし、軟骨細胞の老化を促進することでOAを悪化させるとされています。無機セレンの補給は、この障害されたセレン供給経路を迂回し、OAを軽減する可能性が示唆されています。と報告されています。\n\n■ ハンドパン。Reddit。Redditに投稿された動画では、ハンドパンの演奏者が心地よい雰囲気の中で即興演奏を披露しています。この投稿は、音楽とリラックスした環境が一体となった瞬間を捉えています。Reddit。投稿者は新しいDkurdハンドパンの価値について悩んでおり、以前所有していたハンドパンの方が音質が良く、価格も安かったと感じています。ハンドパンの価値をどのように判断するかについて、他のユーザーに意見を求めています。Reddit。Redditユーザーが初めて購入したハンドパンの音が明るすぎると感じており、数千ドルを費やしたため、音の明るさや叩き方について懸念を抱いています。\n\n■ AI。Hugging Face。NVIDIA WarpとMjWarpは、ロボティクスシミュレーションと学習ワークフローを加速するためのツールです。これらは、物理シミュレーションの高速化と、より効率的なロボット学習モデルの開発に貢献します。Google AI。Google Beamは、新たに5カ国にサービスを拡大し、Industriousとの提携によりネットワークを拡張しています。これにより、より多くの地域と顧客にリーチできるようになります。DeepMind。DeepMindは、個人のAI向けにプライベートなサーバーサイドメモリをPrivate AI Computeに導入しました。これにより、AI計算におけるセキュリティとプライバシーが強化されます。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "食育の日だより",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-18T12:00:00+09:00",
+          "summary": "気仙沼市では、毎月19日を「食育の日」と定め、食に関する正しい知識と望ましい食習慣を育むための情報提供を行っています。この取り組みは、市民の健康増進と食文化への理解を深めることを目的としています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s043/020/020/020/20240513114142.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s043/020/020/020/20240513114142.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%81%A7%E3%81%AF%E3%80%81%E6%AF%8E%E6%9C%8819%E6%97%A5%E3%82%92%E3%80%8C%E9%A3%9F%E8%82%B2%E3%81%AE%E6%97%A5%E3%80%8D%E3%81%A8%E5%AE%9A%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼の漁師と「魚料理に合うコーヒー」を開発 - もうかの星やメカジキとも好相性",
+          "source": "Infoseek",
+          "publishedAt": "2026-09-24T07:35:16+09:00",
+          "summary": "気仙沼の漁師が「魚料理に合うコーヒー」を開発しました。このコーヒーは、もうかの星やメカジキといった地元の魚介類との相性が良いとされています。",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZXIwcnZzRnR1VnZiem8yYlJKcXBwSGItQzNLdjdsX3RSUkgydGxhS3lZWFZ3WnYzY05QZHgxeTNKRVlwNXA2ZWZ0SDlLZVRPVENfV1RzU040RDk0OUNEag?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZXIwcnZzRnR1VnZiem8yYlJKcXBwSGItQzNLdjdsX3RSUkgydGxhS3lZWFZ3WnYzY05QZHgxeTNKRVlwNXA2ZWZ0SDlLZVRPVENfV1RzU040RDk0OUNEag?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AE%E6%BC%81%E5%B8%AB%E3%81%A8%E3%80%8C%E9%AD%9A%E6%96%99%E7%90%86%E3%81%AB%E5%90%88%E3%81%86%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%80%8D%E3%82%92%E9%96%8B%E7%99%BA%20-%20%E3%82%82%E3%81%86%E3%81%8B%E3%81%AE%E6%98%9F%E3%82%84%E3%83%A1%E3%82%AB%E3%82%B8%E3%82%AD%E3%81%A8%E3%82%82%E5%A5%BD%E7%9B%B8%E6%80%A7",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "萩本欽一〈47〉気仙沼ちゃんは民宿4軒経営の大女将に 説教してテレビで夫を募集させた甲斐があった【増田俊也 口述クロニクル「茶の間を変えたコメディアン 欽ちゃんのぜ〜んぶ話しちゃう！」】",
+          "source": "topics.smt.docomo.ne.jp",
+          "publishedAt": "2026-09-24T07:09:13+09:00",
+          "summary": "萩本欽一が、気仙沼ちゃんが民宿を4軒経営する大女将になったことについて語っています。萩本がテレビで夫を募集させたことが、彼女の成功に繋がったと振り返っています。",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeXNJb0l2RlVUSUpBLVRjSkhMcHowSlY2QlktcHFGWi1KNXJlVTU5b3R3RFJaaXU5RVdxY1RCeUNlOGNDMnU0LTNpbTFwaXFVb21OTWxvLUNPNWJ1TlZDTzI5VVI2N2xoZDdlSy1vVHFSZ04zTUt3bHg0a0steTBTZ0tLSFVBRGQ0TUhlMjBfbThjN2RRQnprYU1sUlNWdi0tSHdfN09BcUdYbzg5WVNBTWVJTXRrb3RUN2FQcnp2OEdUdnJxc2tqMHBGbmtvVzhqSXNTT1hGNjNOcjllZUFlSFVlWnlBQdIBlgFBVV95cUxQRVdMUkp2TVNVTHRRLXFMN2lPN2pteEVaRmxLakRlUlFDd25IU3NnQnV4QzRfdExEQm5MVGNIVVRtV21JTzdrVEt5ZjVGNTZ3b0gtVDBTQkZoUXBlNXFNWmFZeDhxV1dQOUZZSnByeVNvWGlQTTFOc0tBZENkU0NfUXA5V3NfTnM0OUI1UzZkWU9TSFpGaHc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeXNJb0l2RlVUSUpBLVRjSkhMcHowSlY2QlktcHFGWi1KNXJlVTU5b3R3RFJaaXU5RVdxY1RCeUNlOGNDMnU0LTNpbTFwaXFVb21OTWxvLUNPNWJ1TlZDTzI5VVI2N2xoZDdlSy1vVHFSZ04zTUt3bHg0a0steTBTZ0tLSFVBRGQ0TUhlMjBfbThjN2RRQnprYU1sUlNWdi0tSHdfN09BcUdYbzg5WVNBTWVJTXRrb3RUN2FQcnp2OEdUdnJxc2tqMHBGbmtvVzhqSXNTT1hGNjNOcjllZUFlSFVlWnlBQdIBlgFBVV95cUxQRVdMUkp2TVNVTHRRLXFMN2lPN2pteEVaRmxLakRlUlFDd25IU3NnQnV4QzRfdExEQm5MVGNIVVRtV21JTzdrVEt5ZjVGNTZ3b0gtVDBTQkZoUXBlNXFNWmFZeDhxV1dQOUZZSnByeVNvWGlQTTFOc0tBZENkU0NfUXA5V3NfTnM0OUI1UzZkWU9TSFpGaHc?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E6%B0%91%E5%AE%BF4%E8%BB%92%E7%B5%8C%E5%96%B6%E3%81%AE%E5%A4%A7%E5%A5%B3%E5%B0%86%E3%81%AB%20%E8%AA%AC%E6%95%99%E3%81%97%E3%81%A6%E3%83%86%E3%83%AC%E3%83%93%E3%81%A7%E5%A4%AB%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%95%E3%81%9B%E3%81%9F%E7%94%B2%E6%96%90%E3%81%8C%E3%81%82%E3%81%A3%E3%81%9F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "街を動かす絶品カツオ 「さあ、これから！」 高知の船の一本釣り盛漁期 宮城・気仙沼漁港",
+          "source": "kochinews.co.jp",
+          "publishedAt": "2026-09-23T14:26:00+09:00",
+          "summary": "高知県の漁船が宮城県気仙沼漁港でカツオの一本釣り盛漁期を迎えています。高知のカツオは気仙沼の街を活気づけ、漁師たちは今後の漁獲に期待を寄せています。",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxR21ZR1Ezek9uOXg1S0EybTFrTTlJeWxITFRwN1l0MWhNQmo1ak5vZEtzOE5CUXE1R3FDWXpsdlJRNy1Pd2lpMzJsc2ZZdnZXb2RmVjhRN1JRNm9SRWZJ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxR21ZR1Ezek9uOXg1S0EybTFrTTlJeWxITFRwN1l0MWhNQmo1ak5vZEtzOE5CUXE1R3FDWXpsdlJRNy1Pd2lpMzJsc2ZZdnZXb2RmVjhRN1JRNm9SRWZJ?oc=5#:~:text=%E8%A1%97%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E7%B5%B6%E5%93%81%E3%82%AB%E3%83%84%E3%82%AA%20%E3%80%8C%E3%81%95%E3%81%82%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%EF%BC%81",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "跳ねる！戻りガツオ 高知の一本釣り船、宮城・気仙沼で続々水揚げ",
+          "source": "kochinews.co.jp",
+          "publishedAt": "2026-09-23T14:25:00+09:00",
+          "summary": "高知県の一本釣り漁船が宮城県気仙沼港で戻りガツオを続々と水揚げしています。これにより、気仙沼の市場は活況を呈し、新鮮なカツオが豊富に出回っています。",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hdDB6NjFCY3VkUHctWll0Z2REdDBrNXlWa3BGektfT0xEUlZiWHNvMkctaGJBSV9DbU1ub2RsdmhFOWNFdmpYcGQydzJrNDJmUDFsWHpBZ3NBcGJfczhJ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hdDB6NjFCY3VkUHctWll0Z2REdDBrNXlWa3BGektfT0xEUlZiWHNvMkctaGJBSV9DbU1ub2RsdmhFOWNFdmpYcGQydzJrNDJmUDFsWHpBZ3NBcGJfczhJ?oc=5#:~:text=%E8%B7%B3%E3%81%AD%E3%82%8B%EF%BC%81%E6%88%BB%E3%82%8A%E3%82%AC%E3%83%84%E3%82%AA%20%E9%AB%98%E7%9F%A5%E3%81%AE%E4%B8%80%E6%9C%AC%E9%87%A3%E3%82%8A%E8%88%B9%E3%80%81%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%A7%E7%B6%9A%E3%80%85%E6%B0%B4%E6%8F%9A%E3%81%92",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼市・亀山モノレールが大にぎわい 標高２３５メートルから３６０度の大絶景に「最高」〈宮城〉（仙台放送）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-23T11:56:01+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWnJHLVF5Zy1vQVFZTE1qV2V4bDQ3MGlNeWFGdTlJNWE5cEUwN1VwUWRUVTg5WThqY05vYWJyc01vYUFXOVRLRDFHOHBhanJBZDVBbGQ2Sl9xMXhZVHpZWnAzUWxFN1E0WEJnMnc4OU9zUk9sY1R5Sm9WREhtcXc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWnJHLVF5Zy1vQVFZTE1qV2V4bDQ3MGlNeWFGdTlJNWE5cEUwN1VwUWRUVTg5WThqY05vYWJyc01vYUFXOVRLRDFHOHBhanJBZDVBbGQ2Sl9xMXhZVHpZWnAzUWxFN1E0WEJnMnc4OU9zUk9sY1R5Sm9WREhtcXc?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "港町の古書店”アナログを大切に”シェア型で棚主が思い入れの本を販売＜宮城・気仙沼市＞（ミヤギテレビ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-22T19:05:00+09:00",
+          "summary": "宮城県気仙沼市に、アナログを大切にするシェア型の古書店がオープンしました。この書店では、棚主がそれぞれ思い入れのある本を販売し、地域住民や観光客に新たな本の出会いを提供しています。",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GcGU3dHZJQnZBMUZIcHNrVV9WR1JuQnBUN1g2d084OFpCeU03MVplTzM3UkFsRTdNRlJVa1NiaEw2Y1hOUDZrWHpwRlFjN3B4cEdWRFQyT1lxNkVlaGQzRW1Fb1IxU05pR2I0dW5UOEJCN21KbGNXaFBoWmJudDQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GcGU3dHZJQnZBMUZIcHNrVV9WR1JuQnBUN1g2d084OFpCeU03MVplTzM3UkFsRTdNRlJVa1NiaEw2Y1hOUDZrWHpwRlFjN3B4cEdWRFQyT1lxNkVlaGQzRW1Fb1IxU05pR2I0dW5UOEJCN21KbGNXaFBoWmJudDQ?oc=5#:~:text=%E6%B8%AF%E7%94%BA%E3%81%AE%E5%8F%A4%E6%9B%B8%E5%BA%97%E2%80%9D%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%82%92%E5%A4%A7%E5%88%87%E3%81%AB%E2%80%9D%E3%82%B7%E3%82%A7%E3%82%A2%E5%9E%8B%E3%81%A7%E6%A3%9A%E4%B8%BB%E3%81%8C%E6%80%9D%E3%81%84%E5%85%A5%E3%82%8C%E3%81%AE%E6%9C%AC%E3%82%92%E8%B2%A9%E5%A3%B2",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼市が閉校の学校活用事業者を公募",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-09-22T09:06:20+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZOGJCZTFOOHNaMnhvQ2JGRGVfdVFyRHUxY1FvNkNPdGNybGMzMWQ3UVF0Q2lMX1ZwTllGZVNvdTJPamhobWVtMzBmUUJVV01veW1qakFNZnU?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZOGJCZTFOOHNaMnhvQ2JGRGVfdVFyRHUxY1FvNkNPdGNybGMzMWQ3UVF0Q2lMX1ZwTllGZVNvdTJPamhobWVtMzBmUUJVV01veW1qakFNZnU?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「気仙沼大島編２」極悪だって亀山からの絶景を堪能したい！DOOM！！",
+          "source": "TVer",
+          "publishedAt": "2026-09-22T00:17:29+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CLTUtQVh5dGVvZVhPWkpkSFQ1eEdzUU4wdUdzX292bFlBZjVjX1RqZnh1UjBPM0NySTJMRExRWDY3Zk9kNHA0YUxGUQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CLTUtQVh5dGVvZVhPWkpkSFQ1eEdzUU4wdUdzX292bFlBZjVjX1RqZnh1UjBPM0NySTJMRExRWDY3Zk9kNHA0YUxGUQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼まち大学運営協議会、「聞いてけらい 来てけらい おらいの学び '26」にて地域の学びを可視化するオープンバッジ2種を新たに発行",
+          "source": "福島民報デジタル",
+          "publishedAt": "2026-09-21T14:28:14+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RSTRmQmNZaFR4Nk5zYUlYTDZRejU3eVJzOFVBb0JEN0VuOVNtNFdWQUpYa21aR204a3FpNzc4UXItcDRoTERYNHVBVEF4U1lTUGRUNWU4bm1UZ01oc01zVElVTFV4TEk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RSTRmQmNZaFR4Nk5zYUlYTDZRejU3eVJzOFVBb0JEN0VuOVNtNFdWQUpYa21aR204a3FpNzc4UXItcDRoTERYNHVBVEF4U1lTUGRUNWU4bm1UZ01oc01zVElVTFV4TEk?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Vitamins and Chronic Wounds: How Altered Pharmacokinetics and Comorbidities Contribute to Vitamin Deficiencies.",
+          "source": "Basic & clinical pharmacology & toxicology",
+          "publishedAt": "2026-10-01T00:00:00+09:00",
+          "summary": "慢性創傷の治癒には十分な栄養素が必要であり、ビタミン欠乏症が患者に多く見られると報告されています。しかし、ビタミン補充による介入研究では効果が一貫しておらず、最適な投与量を確立するためには、慢性創傷患者におけるビタミンの薬物動態と必要量の変化を理解することが重要であると指摘されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42770665/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42770665/#:~:text=Increasing%20evidence%20shows%20that%20vitamin%20deficiencies%20are%20prev",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Low Prevalence of Exploratory Biochemical Patterns Compatible with Osteomalacia in a Large Cohort of Participants with Low Serum 25-Hydroxyvitamin D Levels.",
+          "source": "Calcified tissue international",
+          "publishedAt": "2026-09-23T00:00:00+09:00",
+          "summary": "低血清25-ヒドロキシビタミンDレベルの参加者を対象とした大規模コホート研究において、骨軟化症と一致する探索的生化学的パターンの有病率は低いと報告されています。ビタミンD補給は、これらの生化学的パラメーターを改善する可能性が示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42776204/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42776204/#:~:text=The%20threshold%20for%20vitamin%20D%20deficiency%20is%20mainly%20based%20on%20os",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "A liver-cartilage selenium axis underlies metabolic comorbidity in osteoarthritis.",
+          "source": "Cell metabolism",
+          "publishedAt": "2026-09-22T00:00:00+09:00",
+          "summary": "肝臓と軟骨のセレン軸が変形性関節症（OA）の代謝性併存疾患の根底にあると報告されています。肝機能障害はセレン代謝を阻害し、軟骨のセレンタンパク質欠乏を引き起こし、軟骨細胞の老化を促進することでOAを悪化させるとされています。無機セレンの補給は、この障害されたセレン供給経路を迂回し、OAを軽減する可能性が示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42772285/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42772285/#:~:text=%E8%82%9D%E6%A9%9F%E8%83%BD%E9%9A%9C%E5%AE%B3%E3%81%AF%E3%80%81%E3%82%BB%E3%83%AC%E3%83%B3%EF%BC%88Se%EF%BC%89%E4%BB%A3%E8%AC%9D%E3%81%AE%E9%9A%9C%E5%AE%B3%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6OA%E3%82%92%E4%BF%83%E9%80%B2%E3%81%99%E3%82%8B%E3%81%A8%E5%A0%B1%E5%91%8A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Prehabilitation for patients undergoing radical cystectomy: Patient selection and targeted interventions.",
+          "source": "Urologic oncology",
+          "publishedAt": "2026-09-22T00:00:00+09:00",
+          "summary": "根治的膀胱全摘除術を受ける患者は術前の脆弱性が高く、術後合併症のリスクがあるため、術前リハビリテーションが有効であると報告されています。本レビューは、術前リハビリテーションの適切な患者選択と介入方法に関する実践的な枠組みを提供することを目的としています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42772020/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42772020/#:~:text=Although%20prehabilitation%20is%20safe%20and%20feasible%20and%20has%20demons",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Precision Prevention for Health: The Global Alliance Framework for the Promotion of Physical Activity.",
+          "source": "Sports medicine (Auckland, N.Z.)",
+          "publishedAt": "2026-09-21T00:00:00+09:00",
+          "summary": "本論文は、身体活動の促進と早期リスク軽減に焦点を当てた精密予防の枠組みを提案しており、疾患管理から予防への転換を目指すと報告されています。この枠組みは、生物学的・環境的・社会的健康決定要因を統合し、個別化された介入を通じて慢性非感染性疾患の軽減と生涯にわたるレジリエンスを支援することを目指していると述べられています。身体活動が中心的な行動として位置づけられ、多分野のステークホルダーとの連携を通じて、エビデンスに基づいた戦略の実施を加速することを目指していると報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42768240/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42768240/#:~:text=This%20conceptual%2C%20implementation-oriented%20paper%20proposes%20a%20fr",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Genome-wide analysis of social behaviour across social domains, reporters and developmental stages: a meta-regression approach.",
+          "source": "Nature human behaviour",
+          "publishedAt": "2026-09-21T00:00:00+09:00",
+          "summary": "Social behaviour is a heritable trait linked to well-being and mental health, yet it varies across social context, inclu",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42768150/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42768150/#:~:text=Social%20behaviour%20is%20a%20heritable%20trait%20linked%20to%20well-being%20a",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Identification of biomarkers associated with enhanced survival in lung cancer patients undergoing immune checkpoint inhibitor treatment.",
+          "source": "Cancer treatment and research communications",
+          "publishedAt": "2026-09-21T00:00:00+09:00",
+          "summary": "免疫チェックポイント阻害薬による肺がん治療において、日常的な血液検査から得られる特定のバイオマーカーが、患者の無増悪生存期間および全生存期間の延長と関連している可能性が報告されています。具体的には、NLR、好中球数、LDH、GGT、AST、ALP、CRPの減少、およびアルブミンの増加が、病状進行と死亡のリスク低下と有意に関連すると報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42767120/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42767120/#:~:text=multivariable%20Cox-regression%20identified%20a%20decrease%20of%20neutro",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Community-Based Interventions for Childhood Undernutrition in Sub-Saharan Africa: A Systematic Review and Network Meta-Analysis.",
+          "source": "Maternal & child nutrition",
+          "publishedAt": "2026-07-01T00:00:00+09:00",
+          "summary": "Childhood undernutrition remains a major public health challenge in sub-Saharan Africa (SSA), despite global progress. T",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42775707/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42775707/#:~:text=Childhood%20undernutrition%20remains%20a%20major%20public%20health%20chall",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Maternal serum vitamin D levels and preeclampsia among Kenyan pregnant women: A matched case-control study.",
+          "source": "PloS one",
+          "publishedAt": "2026-01-01T00:00:00+09:00",
+          "summary": "Preeclampsia accounts for about one in five direct maternal deaths in Kenya. Low vitamin D levels have been linked to it",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42771637/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42771637/#:~:text=Preeclampsia%20accounts%20for%20about%20one%20in%20five%20direct%20maternal",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Spaceflight-guided pharmacogenomics: a foundational analysis of pharmaceuticals and their responsive gene targets in the space environment.",
+          "source": "Frontiers in physiology",
+          "publishedAt": "2026-01-01T00:00:00+09:00",
+          "summary": "Human spaceflight alters physiology in ways that can impact drug safety and efficacy, yet progress in this area has been",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42769202/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42769202/#:~:text=Human%20spaceflight%20alters%20physiology%20in%20ways%20that%20can%20impact",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "🇨🇦 Handpan丨When the vibe is too good not to play along... 🎶😌",
+          "source": "Reddit",
+          "publishedAt": "2026-09-24T03:43:17+09:00",
+          "summary": "Redditに投稿された動画では、ハンドパンの演奏者が心地よい雰囲気の中で即興演奏を披露しています。この投稿は、音楽とリラックスした環境が一体となった瞬間を捉えています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1woegl4/handpan丨when_the_vibe_is_too_good_not_to_play/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1woegl4/handpan丨when_the_vibe_is_too_good_not_to_play/#:~:text=When%20the%20vibe%20is%20too%20good%20not%20to%20play%20along...%20%F0%9F%8E%B6%F0%9F%98%8C",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Bright hand pan question",
+          "source": "Reddit",
+          "publishedAt": "2026-09-23T23:59:12+09:00",
+          "summary": "投稿者は新しいDkurdハンドパンの価値について悩んでおり、以前所有していたハンドパンの方が音質が良く、価格も安かったと感じています。ハンドパンの価値をどのように判断するかについて、他のユーザーに意見を求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1wo8d0y/bright_hand_pan_question/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1wo8d0y/bright_hand_pan_question/#:~:text=how%20to%20you%20guys%20identify%20the%20worth%20of%20the%20Handpan",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Bright Handpan",
+          "source": "Reddit",
+          "publishedAt": "2026-09-23T13:14:03+09:00",
+          "summary": "Redditユーザーが初めて購入したハンドパンの音が明るすぎると感じており、数千ドルを費やしたため、音の明るさや叩き方について懸念を抱いています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1wnvplc/bright_handpan/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1wnvplc/bright_handpan/#:~:text=I%20just%20got%20my%20first%20Handpan%20and%20it%20sounds%20kind%20of%20bright",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "INTERVIEW＠FUJI ROCK FESTIVAL ’26 YUUF",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-09-03T16:00:00+09:00",
+          "summary": "2026年のフジロックフェスティバルに出演したYUUFのインタビュー記事がニコニコニュースで公開されました。この記事は、YUUFのパフォーマンスやフェスティバルでの体験について掘り下げています。",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WNl9CM0JwaFNabGpmb3AtSkdGRkVOZ0hmbUpGWFlpZklRNWJZa1Rqcmt4a2pwMDFOSmZ3SnNCRmNYUXdLLXN3TlR5UVpzbGoxLXVFZg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WNl9CM0JwaFNabGpmb3AtSkdGRkVOZ0hmbUpGWFlpZklRNWJZa1Rqcmt4a2pwMDFOSmZ3SnNCRmNYUXdLLXN3TlR5UVpzbGoxLXVFZg?oc=5#:~:text=INTERVIEW%EF%BC%A0FUJI%20ROCK%20FESTIVAL%20%E2%80%9926%20YUUF",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "女芸人の一芸合宿SP話題のハンドパンに挑戦!恒例の爆笑(秘)宴会芸も",
+          "source": "TVer",
+          "publishedAt": "2026-08-16T21:10:38+09:00",
+          "summary": "女芸人たちが一芸合宿を行い、話題のハンドパンに挑戦する。合宿では恒例の爆笑宴会芸も披露される予定。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5#:~:text=%E5%A5%B3%E8%8A%B8%E4%BA%BA%E3%81%AE%E4%B8%80%E8%8A%B8%E5%90%88%E5%AE%BFSP%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%AB%E6%8C%91%E6%88%A6%21%E6%81%92%E4%BE%8B%E3%81%AE%E7%88%86%E7%AC%91%28%E7%A7%98%29%E5%AE%B4%E4%BC%9A%E8%8A%B8%E3%82%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "女芸人一芸合宿 in 新潟｜世界の果てまでイッテQ！",
+          "source": "日本テレビ",
+          "publishedAt": "2026-08-16T16:00:00+09:00",
+          "summary": "日本テレビの番組「世界の果てまでイッテQ！」では、女芸人たちが新潟で一芸合宿を行いました。この合宿は、彼女たちが新たな特技を習得するための企画です。",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGpRZi1wdXpGUndxdEVNZjlwZFdwdS1YUkhEbHFjMUM4cjNMdlloVHFpejlqV19PRGUzNmFReGlldTk3Y29EaWFnQ3dwRnVEVjQwRVZLcTAzTjEtTXZ3TS0yWXpSdFlt?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGpRZi1wdXpGUndxdEVNZjlwZFdwdS1YUkhEbHFjMUM4cjNMdlloVHFpejlqV19PRGUzNmFReGlldTk3Y29EaWFnQ3dwRnVEVjQwRVZLcTAzTjEtTXZ3TS0yWXpSdFlt?oc=5#:~:text=%E5%A5%B3%E8%8A%B8%E4%BA%BA%E4%B8%80%E8%8A%B8%E5%90%88%E5%AE%BF%20in%20%E6%96%B0%E6%BD%9F%EF%BD%9C%E4%B8%96%E7%95%8C%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%BE%E3%81%A7%E3%82%A4%E3%83%83%E3%83%86Q%EF%BC%81%20%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "誰でも簡単！イッテQで話題沸騰！ハンドパンって何？【ずんだもん解説】",
+          "source": "YouTube",
+          "publishedAt": "2026-08-16T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWNjR3dmVyZEpGVzNUMFFYRVlfSExqc3NnX0xQY3JUZEZPRXZlSm5GRURXN005LUZic3dkcjFyNGdFcHkzT3hmRnlMRGpYTUdUTTBxbFFBbDlSdHlf?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWNjR3dmVyZEpGVzNUMFFYRVlfSExqc3NnX0xQY3JUZEZPRXZlSm5GRURXN005LUZic3dkcjFyNGdFcHkzT3hmRnlMRGpYTUdUTTBxbFFBbDlSdHlf?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【ハンドパンとオーボエ公演 福島公演 “Handpan & Oboe Duo Concert” ― 静寂と音の旅 ―】",
+          "source": "gurutto-fukushima.com",
+          "publishedAt": "2026-06-03T13:35:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ハンドパンとカリンバ演奏で癒しのひと時",
+          "source": "大宮経済新聞",
+          "publishedAt": "2026-05-15T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSbWNoMFVNTUVnM2ZaSlFQci1aWXFPWWVPTzNVUmVEb3hUSkxBa1lrcERUWGVkVmladzN4a1RsS2l4NXhCT3htbmlUb1A3V01BekJz?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSbWNoMFVNTUVnM2ZaSlFQci1aWXFPWWVPTzNVUmVEb3hUSkxBa1lrcERUWGVkVmladzN4a1RsS2l4NXhCT3htbmlUb1A3V01BekJz?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-24T03:41:40+09:00",
+          "summary": "NVIDIA WarpとMjWarpは、ロボティクスシミュレーションと学習ワークフローを加速するためのツールです。これらは、物理シミュレーションの高速化と、より効率的なロボット学習モデルの開発に貢献します。",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp#:~:text=NVIDIA%20Warp%E3%81%A8MjWarp%E3%81%AF%E3%80%81%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%AD%A6%E7%BF%92%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%99%E3%80%82",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "source": "Google AI",
+          "publishedAt": "2026-09-24T03:00:00+09:00",
+          "summary": "Google Beamは、新たに5カ国にサービスを拡大し、Industriousとの提携によりネットワークを拡張しています。これにより、より多くの地域と顧客にリーチできるようになります。",
+          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/#:~:text=We%E2%80%99re%20expanding%20Google%20Beam%20to%20five%20new%20countries%2C%20and%20partn",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "source": "DeepMind",
+          "publishedAt": "2026-09-24T01:00:57+09:00",
+          "summary": "DeepMindは、個人のAI向けにプライベートなサーバーサイドメモリをPrivate AI Computeに導入しました。これにより、AI計算におけるセキュリティとプライバシーが強化されます。",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "jumpUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/#:~:text=Introducing%20private%2C%20server-side%20memory%20to%20Private%20AI%20Comput",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Two years of OpenAI Academy",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-24T01:00:00+09:00",
+          "summary": "OpenAI Academyは設立2周年を迎え、より多くのコミュニティにAIスキルを提供しています。このプログラムは、AI技術の普及と教育に貢献しています。",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "jumpUrl": "https://openai.com/index/two-years-of-openai-academy#:~:text=Marking%20two%20years%20of%20OpenAI%20Academy%20and%20bringing%20AI%20skills%20t",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "source": "DeepMind",
+          "publishedAt": "2026-09-24T00:25:14+09:00",
+          "summary": "DeepMindは、テキスト読み上げモデルGemini 3.8を発表しました。このモデルは、より自然で人間らしい音声を生成し、感情やイントネーションを豊かに表現できる点が特徴です。",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "jumpUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/#:~:text=Gemini%203.8%20text-to-speech%20says%20hello",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-23T22:00:00+09:00",
+          "summary": "is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infras",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "jumpUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense#:~:text=is%20extending%20access%20to%20its%20Daybreak%20program%20to%20the%20Governmen",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-23T21:00:00+09:00",
+          "summary": "OpenAIのCEOであるサム・アルトマンは、国連安全保障理事会でAIの安全性、人間による制御、および国際協力について議論しました。彼は、AIが社会に利益をもたらすための国際的な枠組みの重要性を強調しました。",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "jumpUrl": "https://openai.com/index/sam-altman-un-security-council-remarks#:~:text=OpenAI%20CEO%20Sam%20Altman%20discusses%20AI%20safety%2C%20human%20control%2C%20an",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-22T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "jumpUrl": "https://huggingface.co/blog/evaleval-aisi",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Transformers now runs llama.cpp quants",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-22T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "jumpUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "New experts join Google’s AI & Economy team",
+          "source": "Google AI",
+          "publishedAt": "2026-09-18T23:00:00+09:00",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/#:~:text=We%20are%20expanding%20our%20AI%20%26%20Economy%20team%20with%20world-class%20acad",
+          "badge": "Google AI",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
