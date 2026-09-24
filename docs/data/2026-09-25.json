@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T08:46:33.735552+09:00",
+  "audioUrl": "audio/2026-09-25.mp3",
+  "audioScript": "9月25日、金曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、広報誌「広報けせんぬま」の令和8年10月1日号をウェブサイトに掲載しました。この号では、市内の最新情報やイベント、市民生活に役立つ情報などが紹介されています。気仙沼市公式。気仙沼市は、インフルエンザの感染拡大を防ぐため、市民に対し手洗いやマスク着用、ワクチン接種などの予防対策を徹底するよう呼びかけています。特に高齢者や基礎疾患を持つ人は重症化リスクが高いため、注意が必要です。気仙沼市公式。気仙沼市では、乳がんの早期発見、早期治療のため、2年に一度の乳がん検診を実施しています。対象は40歳以上の女性で、視触診とマンモグラフィ検査が行われます。検診を受けることで、乳がんによる死亡率の減少が期待されます。\n\n■ 分子栄養。Clinical nutrition ESPENによると、提供されたタイトルと出典のみでは、具体的なニュース記事の本文がないため、要約を作成することはできません。タイトルは、入院中の子供と青少年の栄養評価と臨床転帰に関連する栄養リスクに関する、中上腕囲に基づく研究へのコメントであることを示唆しています。と報告されています。Nature。ショウジョウバエにおいて、必須アミノ酸によって誘導されるタンパク質Lsp2は、mTORC1の重要な生理学的エフェクターです。Lsp2遺伝子を欠損する変異バエは、TOP mRNAの翻訳が減少し、寿命が延びることがNature誌で報告されました。Nature。ショウジョウバエの研究で、幼少期の食事、特にタンパク質制限が成虫の翻訳機能と寿命に影響を与えることが判明しました。Lsp2がこの早期の食事と成虫の生理機能をつなぐ重要な分子として特定されました。\n\n■ ハンドパン。Reddit。Redditユーザーが「Pures Music」という会社に関する情報を求めています。新規ユーザーであり、既存の投稿は確認済みですが、さらに詳しい情報を必要としています。Reddit。Master The Handpanとの協力により、ハンドパンの世界を探索する新しいプロジェクト「PanScapes」が開始されました。このプロジェクトは、ハンドパンスケールを音の特性やムードで分類し、インタラクティブな感覚マップを通じて探索できるほか、異なるアーティストやメーカーによる演奏を聴くことができます。スケール、動画、アーティスト、メーカー間を移動しながら、新しい音楽やプレイヤーを発見できるのが特徴です。Reddit。RedditユーザーIntelligentMix3605が、ハンドパンのメーカーや音色に関する助言を求めています。この投稿は、ハンドパンの購入や情報収集を検討している人々からのコメントやリンクを募るものです。\n\n■ AI。DeepMind。Gemini 3.8 Liveが発表され、特にLive Avatar機能が導入されました。この新機能により、ユーザーはよりリアルタイムでインタラクティブな体験が可能になります。Hugging Face。Hugging Faceは、ビジョン言語モデルの高速化を目的としたLFM2.5-VL-DSparkを発表しました。この新しいモデルは、効率的な処理と性能向上を通じて、大規模な視覚言語タスクの実行を加速させることが期待されています。Hugging Face。NVIDIA WarpとMjWarpは、ロボティクスシミュレーションと学習ワークフローを加速するためのツールです。これらは、物理シミュレーションの高速化と、学習アルゴリズムの効率的な実行を可能にします。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "「広報けせんぬま」令和8年10月1日号を掲載しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-25T08:30:00+09:00",
+          "summary": "気仙沼市は、広報誌「広報けせんぬま」の令和8年10月1日号をウェブサイトに掲載しました。この号では、市内の最新情報やイベント、市民生活に役立つ情報などが紹介されています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/010/108/081001/20260916131234.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/010/108/081001/20260916131234.html#:~:text=%E5%BA%83%E5%A0%B1%E3%81%91%E3%81%9B%E3%82%93%E3%81%AC%E3%81%BE%E3%80%8D%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%881%E6%97%A5%E5%8F%B7%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "インフルエンザの感染対策と予防対策の徹底を！",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-25T00:00:00+09:00",
+          "summary": "気仙沼市は、インフルエンザの感染拡大を防ぐため、市民に対し手洗いやマスク着用、ワクチン接種などの予防対策を徹底するよう呼びかけています。特に高齢者や基礎疾患を持つ人は重症化リスクが高いため、注意が必要です。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s044/010/010/010/010/2023231215.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s044/010/010/010/010/2023231215.html#:~:text=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E3%81%AE%E6%84%9F%E6%9F%93%E6%8B%A1%E5%A4%A7%E3%82%92%E9%98%B2%E3%81%90%E3%81%9F%E3%82%81%E3%80%81%E5%B8%82%E6%B0%91%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%AB%E3%81%AF%E6%84%9F%E6%9F%93%E5%AF%BE%E7%AD%96%E3%81%A8%E4%BA%88%E9%98%B2%E5%AF%BE%E7%AD%96%E3%81%AE%E5%BE%B9%E5%BA%95%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "乳がん検診",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-09-24T00:00:00+09:00",
+          "summary": "気仙沼市では、乳がんの早期発見・早期治療のため、2年に一度の乳がん検診を実施しています。対象は40歳以上の女性で、視触診とマンモグラフィ検査が行われます。検診を受けることで、乳がんによる死亡率の減少が期待されます。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s044/010/010/010/030/010/nyugan/20180911165720.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s044/010/010/010/030/010/nyugan/20180911165720.html#:~:text=%E4%B9%B3%E3%81%8C%E3%82%93%E3%81%AF%E6%97%A9%E6%9C%9F%E3%81%AB%E7%99%BA%E8%A6%8B%E3%81%97%E6%B2%BB%E7%99%82%E3%81%99%E3%82%8C%E3%81%B0%E6%B2%BB%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E9%AB%98%E3%81%84%E3%81%8C%E3%82%93%E3%81%A7%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "女性の視点で論戦展開 宮城・気仙沼市議会で新人２議員が初の一般質問",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-09-25T08:00:00+09:00",
+          "summary": "宮城県気仙沼市議会で、新人女性議員2名が初の一般質問に臨みました。2人は女性の視点を取り入れ、子育て支援や防災対策など多岐にわたるテーマで市当局に質問し、活発な議論を展開しました。",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05dHNrSFRfU1hYbXpvVUM4X3cxdGhGMkNWUUxVTmpUbWl5R1pyeXc3ajJjbEQ2OGl3QkJsNTZYd3JhcE52OW9JWkdSSDRGcVZQRXZjSmlLMm4ybHMzRzJhVg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05dHNrSFRfU1hYbXpvVUM4X3cxdGhGMkNWUUxVTmpUbWl5R1pyeXc3ajJjbEQ2OGl3QkJsNTZYd3JhcE52OW9JWkdSSDRGcVZQRXZjSmlLMm4ybHMzRzJhVg?oc=5#:~:text=%E5%A5%B3%E6%80%A7%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%A7%E8%AB%96%E6%88%A6%E5%B1%95%E9%96%8B%20%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E8%AD%B0%E4%BC%9A%E3%81%A7%E6%96%B0%E4%BA%BA%EF%BC%92%E8%AD%B0%E5%93%A1%E3%81%8C%E5%88%9D%E3%81%AE%E4%B8%80%E8%88%AC%E8%B3%AA%E5%95%8F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "2026年日本民間放送連盟賞においてABCラジオが教養番組部門およびCM部門にて優秀賞を受賞！",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-09-25T05:18:30+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13eVNXeTNPamNVcjI2Z2hqT3NucmV2em96S2xuLUFSWU9mYXF4UDRvUDQ1ajRwb2JYQkc5S21FVlJiODlGcXU3Q25HcFRZemRtV0RuUVMzakR3ckVUUTFBS1o1NU5vT1hlNW8tUG82amcxLXZXWnpaU003bw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13eVNXeTNPamNVcjI2Z2hqT3NucmV2em96S2xuLUFSWU9mYXF4UDRvUDQ1ajRwb2JYQkc5S21FVlJiODlGcXU3Q25HcFRZemRtV0RuUVMzakR3ckVUUTFBS1o1NU5vT1hlNW8tUG82amcxLXZXWnpaU003bw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "400食に長蛇の列! 気仙沼「戻りかつお祭り」で旬の“藁焼きカツオ”を食べてみた‐水揚げ日本一へ返り咲けるか?",
+          "source": "news.mynavi.jp",
+          "publishedAt": "2026-09-24T16:05:00+09:00",
+          "summary": "気仙沼市で「戻りかつお祭り」が開催され、旬の藁焼きカツオ400食に行列ができました。気仙沼はカツオの水揚げ日本一を目指しており、この祭りはその一環です。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qVUtDcTk4cElJS3JycXdaalZwSWhrSXJ0UkFIUTZ4OGNKaTllMzFac1BiVFdwLTNxbkE1akNoLUs3OTZPR2tSXzk5UlNhVi05aWFpdkhiQ3RjOWds?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qVUtDcTk4cElJS3JycXdaalZwSWhrSXJ0UkFIUTZ4OGNKaTllMzFac1BiVFdwLTNxbkE1akNoLUs3OTZPR2tSXzk5UlNhVi05aWFpdkhiQ3RjOWds?oc=5#:~:text=400%E9%A3%9F%E3%81%AB%E9%95%B7%E8%9B%87%E3%81%AE%E5%88%97%21%20%E6%B0%97%E4%BB%99%E6%B2%BC%E3%80%8C%E6%88%BB%E3%82%8A%E3%81%8B%E3%81%A4%E3%81%8A%E7%A5%AD%E3%82%8A%E3%80%8D%E3%81%A7%E6%97%AC%E3%81%AE%E2%80%9C%E8%97%81%E7%84%BC%E3%81%8D%E3%82%AB%E3%83%84%E3%82%AA%E2%80%9D%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%BF%E3%81%9F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "日本チャンピオン藤本選手迎えラージボール講習会 気仙沼",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-09-24T09:05:58+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meHZoSlJ5aEt5UXRqYXhzOHhFSFA4X0JSQXpzbi1sSHBwREpKVHEyeVpOLVlxdHh1LUFQaGFtNnhabWQ2LTZ2YWZRcGJUMnlVdDgxaHR0MHY?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meHZoSlJ5aEt5UXRqYXhzOHhFSFA4X0JSQXpzbi1sSHBwREpKVHEyeVpOLVlxdHh1LUFQaGFtNnhabWQ2LTZ2YWZRcGJUMnlVdDgxaHR0MHY?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "初のチャリティーコンサートがん克服石川さん 人工肛門患者を支援 気仙沼",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-09-24T09:05:58+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VNUt1V2JLYkFieGUtV2VUQmpYQWhXckRTWktiME53a3BadDZNRVpfazRwZ3RmU2lMTFhVUEZfT09Qb1VUSldXZHJha3l2V1VYcXlxVkVSUGg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VNUt1V2JLYkFieGUtV2VUQmpYQWhXckRTWktiME53a3BadDZNRVpfazRwZ3RmU2lMTFhVUEZfT09Qb1VUSldXZHJha3l2V1VYcXlxVkVSUGg?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼の漁師と「魚料理に合うコーヒー」を開発 - もうかの星やメカジキとも好相性",
+          "source": "news.mynavi.jp",
+          "publishedAt": "2026-09-24T07:35:16+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hRlFiczZiOEo5VTVmZzNVM2YzVDV6cFJjMDUxYS1vTm0xSHNVcU5kQ3p1Xy1UVWpkR2g1ZUJUWUkycXk4MHhMcUVKVVBpVlk1XzZFY0s3QkVPQXVm?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hRlFiczZiOEo5VTVmZzNVM2YzVDV6cFJjMDUxYS1vTm0xSHNVcU5kQ3p1Xy1UVWpkR2g1ZUJUWUkycXk4MHhMcUVKVVBpVlk1XzZFY0s3QkVPQXVm?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "萩本欽一〈47〉気仙沼ちゃんは民宿4軒経営の大女将に 説教してテレビで夫を募集させた甲斐があった【増田俊也 口述クロニクル「茶の間を変えたコメディアン 欽ちゃんのぜ～んぶ話しちゃう！」】",
+          "source": "au Webポータル",
+          "publishedAt": "2026-09-24T06:55:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MY2JSZHVzWmctQVZuNk1YTWpLM1lTREN6cjQ1YkZ0TXJVNFFWVHgzOVY4WlZOaGtHbS15WnljTFRJSE82ZDBmQ1l0MmtZNl92dDVBYzM2aFQyZjUtZnUtTjhzZ1VtM1U4WWxUX1dB?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MY2JSZHVzWmctQVZuNk1YTWpLM1lTREN6cjQ1YkZ0TXJVNFFWVHgzOVY4WlZOaGtHbS15WnljTFRJSE82ZDBmQ1l0MmtZNl92dDVBYzM2aFQyZjUtZnUtTjhzZ1VtM1U4WWxUX1dB?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Comment on \"Beyond weight and height: Mid-upper arm circumference-based nutritional assessment and nutritional risk associated with clinical outcomes in hospitalized children and adolescents\".",
+          "source": "Clinical nutrition ESPEN",
+          "publishedAt": "2026-09-23T00:00:00+09:00",
+          "summary": "提供されたタイトルと出典のみでは、具体的なニュース記事の本文がないため、要約を作成することはできません。タイトルは、入院中の子供と青少年の栄養評価と臨床転帰に関連する栄養リスクに関する、中上腕囲に基づく研究へのコメントであることを示唆しています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42777821/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42777821/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Lsp2 links mTORC1 to TOP mRNA translation and lifespan in Drosophila",
+          "source": "Nature",
+          "publishedAt": "2026-09-23T00:00:00+09:00",
+          "summary": "ショウジョウバエにおいて、必須アミノ酸によって誘導されるタンパク質Lsp2は、mTORC1の重要な生理学的エフェクターです。Lsp2遺伝子を欠損する変異バエは、TOP mRNAの翻訳が減少し、寿命が延びることがNature誌で報告されました。",
+          "url": "https://www.nature.com/articles/s41586-026-11029-x",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-11029-x#:~:text=mutant%20flies%20that%20lack%20the%20Lsp2%20gene%20exhibit%20reduced%20transla",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Lsp2 links early-life diet to adult translation and lifespan in Drosophila",
+          "source": "Nature",
+          "publishedAt": "2026-09-23T00:00:00+09:00",
+          "summary": "ショウジョウバエの研究で、幼少期の食事、特にタンパク質制限が成虫の翻訳機能と寿命に影響を与えることが判明しました。Lsp2がこの早期の食事と成虫の生理機能をつなぐ重要な分子として特定されました。",
+          "url": "https://www.nature.com/articles/s41586-026-11031-3",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-11031-3#:~:text=Lsp2%20as%20a%20key%20regulator%20of%20translation%20and%20lifespan%20that%20for",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Surprising protein links dietary restriction to increased lifespan in flies",
+          "source": "Nature",
+          "publishedAt": "2026-09-23T00:00:00+09:00",
+          "summary": "ショウジョウバエのタンパク質が、アミノ酸貯蔵だけでなく栄養不足にも反応し、発生期と成虫期の両方で寿命を延ばすことがNature誌で発表されました。この発見は、食事制限と寿命延長の関連性に関する新たな知見をもたらします。",
+          "url": "https://www.nature.com/articles/d41586-026-02774-0",
+          "jumpUrl": "https://www.nature.com/articles/d41586-026-02774-0#:~:text=A%20fruit-fly%20protein%20thought%20only%20to%20store%20amino%20acids%20in%20fac",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Prehabilitation for patients undergoing radical cystectomy: Patient selection and targeted interventions.",
+          "source": "Urologic oncology",
+          "publishedAt": "2026-09-22T00:00:00+09:00",
+          "summary": "根治的膀胱全摘除術を受ける患者は術前の脆弱性が高く、術後合併症のリスクも高いため、術前リハビリテーションが有効であると報告されています。本レビューでは、術前リハビリテーションの適切な患者選択と、エビデンスに基づいた介入方法に関する実践的な枠組みが提示されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42772020/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42772020/#:~:text=Although%20prehabilitation%20is%20safe%20and%20feasible%20and%20has%20demons",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Prehabilitation for Breast Reconstruction Surgery: A Practical and Evidence-based Guide.",
+          "source": "Plastic and reconstructive surgery. Global open",
+          "publishedAt": "2026-09-01T00:00:00+09:00",
+          "summary": "乳房再建手術におけるプレハビリテーションは、他の外科分野では確立されているものの、乳房再建においては活用が不十分であると報告されています。本レビューでは、栄養、機能、痛み、睡眠、精神社会学的健康にわたる多分野にわたるスクリーニングと介入の重要性が強調されており、高タンパク質補給や抵抗運動など、複数の介入が効果を示していると報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42781174/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42781174/#:~:text=Prehabilitation%2C%20the%20systematic%20optimization%20of%20physical%2C%20nu",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Gut microbiota-derived riboflavin mediates protective effects of MUC2 in acute pancreatitis via CD40-macrophage pathway.",
+          "source": "Microbiome",
+          "publishedAt": "2026-08-12T00:00:00+09:00",
+          "summary": "Gut barrier dysfunction is critical in the pathogenesis of acute pancreatitis (AP), yet the underlying mechanisms remain",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42778960/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42778960/#:~:text=Gut%20barrier%20dysfunction%20is%20critical%20in%20the%20pathogenesis%20of%20a",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Physician Experiences and Prescribing Preferences for Targeted B-complex and Vitamin C Supplementation in Daily Clinical Practice: A National KAP Survey in India.",
+          "source": "Cureus",
+          "publishedAt": "2026-08-01T00:00:00+09:00",
+          "summary": "Background Water-soluble vitamins, particularly B-complex vitamins and vitamin C, play essential roles in energy metabol",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42780970/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42780970/#:~:text=Background%20Water-soluble%20vitamins%2C%20particularly%20B-complex%20vi",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Iron and the lung: emerging roles of iron metabolism in pulmonary disease pathogenesis and therapy.",
+          "source": "European respiratory review : an official journal of the European Respiratory Society",
+          "publishedAt": "2026-07-01T00:00:00+09:00",
+          "summary": "Iron is an essential micronutrient, but its redox reactivity also renders it potentially toxic. The lungs are particular",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42778207/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42778207/#:~:text=Iron%20is%20an%20essential%20micronutrient%2C%20but%20its%20redox%20reactivity",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Nutritional support for severe malnutrition in newly diagnosed Crohn's disease: a case report.",
+          "source": "Frontiers in nutrition",
+          "publishedAt": "2026-01-01T00:00:00+09:00",
+          "summary": "Crohn's disease (CD) and ulcerative colitis are chronic inflammatory bowel diseases (IBDs) characterized by relapsing ex",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42780008/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42780008/#:~:text=Crohn%27s%20disease%20%28CD%29%20and%20ulcerative%20colitis%20are%20chronic%20infl",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "Info on “Pure’s Music”.",
+          "source": "Reddit",
+          "publishedAt": "2026-09-25T07:48:56+09:00",
+          "summary": "Redditユーザーが「Pures Music」という会社に関する情報を求めています。新規ユーザーであり、既存の投稿は確認済みですが、さらに詳しい情報を必要としています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1wpg2xg/info_on_pures_music/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1wpg2xg/info_on_pures_music/#:~:text=Does%20anyone%20have%20information%20on%20a%20company%20called%20%E2%80%9CPures%20Musi",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Launching PanScapes, a new way to explore the handpan world !",
+          "source": "Reddit",
+          "publishedAt": "2026-09-25T06:51:30+09:00",
+          "summary": "Master The Handpanとの協力により、ハンドパンの世界を探索する新しいプロジェクト「PanScapes」が開始されました。このプロジェクトは、ハンドパンスケールを音の特性やムードで分類し、インタラクティブな感覚マップを通じて探索できるほか、異なるアーティストやメーカーによる演奏を聴くことができます。スケール、動画、アーティスト、メーカー間を移動しながら、新しい音楽やプレイヤーを発見できるのが特徴です。",
+          "url": "https://www.reddit.com/r/handpan/comments/1wper01/launching_panscapes_a_new_way_to_explore_the/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1wper01/launching_panscapes_a_new_way_to_explore_the/#:~:text=At%20its%20heart%20is%20a%20sensory%20landscape%20of%20handpan%20scales%20%2C%20grou",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Handpan Assistance- maker? Sound?",
+          "source": "Reddit",
+          "publishedAt": "2026-09-24T22:30:34+09:00",
+          "summary": "RedditユーザーIntelligentMix3605が、ハンドパンのメーカーや音色に関する助言を求めています。この投稿は、ハンドパンの購入や情報収集を検討している人々からのコメントやリンクを募るものです。",
+          "url": "https://www.reddit.com/r/handpan/comments/1wp1pda/handpan_assistance_maker_sound/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1wp1pda/handpan_assistance_maker_sound/#:~:text=submitted%20by%20%2Fu%2FIntelligentMix3605%20%5Blink%5D%20%5Bcomments",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "INTERVIEW＠FUJI ROCK FESTIVAL ’26 YUUF",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-09-03T16:00:00+09:00",
+          "summary": "2026年のフジロックフェスティバルに出演したYUUFへのインタビュー記事がニコニコニュースで公開されました。この記事は、YUUFのパフォーマンスやフェスティバルでの体験に焦点を当てていると推測されます。",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WNl9CM0JwaFNabGpmb3AtSkdGRkVOZ0hmbUpGWFlpZklRNWJZa1Rqcmt4a2pwMDFOSmZ3SnNCRmNYUXdLLXN3TlR5UVpzbGoxLXVFZg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WNl9CM0JwaFNabGpmb3AtSkdGRkVOZ0hmbUpGWFlpZklRNWJZa1Rqcmt4a2pwMDFOSmZ3SnNCRmNYUXdLLXN3TlR5UVpzbGoxLXVFZg?oc=5#:~:text=INTERVIEW%EF%BC%A0FUJI%20ROCK%20ROCK%20FESTIVAL%20%E2%80%9926%20YUUF",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "女芸人の一芸合宿SP話題のハンドパンに挑戦!恒例の爆笑(秘)宴会芸も",
+          "source": "TVer",
+          "publishedAt": "2026-08-16T21:10:38+09:00",
+          "summary": "女芸人たちが一芸合宿を行い、話題のハンドパンに挑戦する。合宿では恒例の爆笑宴会芸も披露される予定。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LWjQ2dm1CeFE1UFlCaW1HREhzMFJNajVlcTVkZS1mczhPb0toR19GNnBqV1BOSGFRNEYwVFNGa2VYTENITjV6RVpvWQ?oc=5#:~:text=%E5%A5%B3%E8%8A%B8%E4%BA%BA%E3%81%AE%E4%B8%80%E8%8A%B8%E5%90%88%E5%AE%BFSP%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%AB%E6%8C%91%E6%88%A6%21%E6%81%92%E4%BE%8B%E3%81%AE%E7%88%86%E7%AC%91%28%E7%A7%98%29%E5%AE%B4%E4%BC%9A%E8%8A%B8%E3%82%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "女芸人一芸合宿 in 新潟｜世界の果てまでイッテQ！",
+          "source": "日本テレビ",
+          "publishedAt": "2026-08-16T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGpRZi1wdXpGUndxdEVNZjlwZFdwdS1YUkhEbHFjMUM4cjNMdlloVHFpejlqV19PRGUzNmFReGlldTk3Y29EaWFnQ3dwRnVEVjQwRVZLcTAzTjEtTXZ3TS0yWXpSdFlt?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGpRZi1wdXpGUndxdEVNZjlwZFdwdS1YUkhEbHFjMUM4cjNMdlloVHFpejlqV19PRGUzNmFReGlldTk3Y29EaWFnQ3dwRnVEVjQwRVZLcTAzTjEtTXZ3TS0yWXpSdFlt?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "新潟にイッテQの女芸人たちが大集結！『世界の果てまでイッテQ！』で『女芸人の一芸合宿SP』放送！8月16日19:58～",
+          "source": "にいがた速報",
+          "publishedAt": "2026-08-13T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UREtUM1ZiblpvM1lYVkFLOGhNbnFNQkl1Z1NDa2VLTkRGS2ZtNkNZc3Naa1l5S2VtTXlBdlpUdVoyWkZmQ3ZsSWpCa0s4aURtN3c?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UREtUM1ZiblpvM1lYVkFLOGhNbnFNQkl1Z1NDa2VLTkRGS2ZtNkNZc3Naa1l5S2VtTXlBdlpUdVoyWkZmQ3ZsSWpCa0s4aURtN3c?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "松戸の古民家で「ハンドパン・リトリート・デイ」 演奏体験や薬膳カレーも",
+          "source": "松戸経済新聞",
+          "publishedAt": "2026-06-22T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW9MTzdPSUhnOEQyYjA0YVQ4bWxaNFpLZnhzNXJrT2RYZkdYclFsMnhvZmRtN3M3Z2lGQkcwMzRRNzhWUmVNRXJMNkdXMVg2X3lV?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【ハンドパンとオーボエ公演 福島公演 “Handpan & Oboe Duo Concert” ― 静寂と音の旅 ―】",
+          "source": "gurutto-fukushima.com",
+          "publishedAt": "2026-06-03T13:35:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OMzdfZ200a2xIWHJkcGFwazNKMnl4MHVkRDgxeXIxOTNuLWFOcEtzZ0JBblY0WUMwR1ZoS0hEVlRmbS0wOU9YVmpHYm1yLThGLXplcnRCSWI?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ハンドパンとカリンバ演奏で癒しのひと時",
+          "source": "大宮経済新聞",
+          "publishedAt": "2026-05-15T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSbWNoMFVNTUVnM2ZaSlFQci1aWXFPWWVPTzNVUmVEb3hUSkxBa1lrcERUWGVkVmladzN4a1RsS2l4NXhCT3htbmlUb1A3V01BekJz?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSbWNoMFVNTUVnM2ZaSlFQci1aWXFPWWVPTzNVUmVEb3hUSkxBa1lrcERUWGVkVmladzN4a1RsS2l4NXhCT3htbmlUb1A3V01BekJz?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "source": "DeepMind",
+          "publishedAt": "2026-09-25T01:20:39+09:00",
+          "summary": "Gemini 3.8 Liveが発表され、特にLive Avatar機能が導入されました。この新機能により、ユーザーはよりリアルタイムでインタラクティブな体験が可能になります。",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "jumpUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/#:~:text=Introducing%20Gemini%203.8%20Live%20with%20Live%20Avatar",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-24T23:08:57+09:00",
+          "summary": "Hugging Faceは、ビジョン言語モデルの高速化を目的としたLFM2.5-VL-DSparkを発表しました。この新しいモデルは、効率的な処理と性能向上を通じて、大規模な視覚言語タスクの実行を加速させることが期待されています。",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "jumpUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark#:~:text=Accelerating%20vision-language%20models%20with%20LFM2.5-VL-DSpark",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-24T03:41:40+09:00",
+          "summary": "NVIDIA WarpとMjWarpは、ロボティクスシミュレーションと学習ワークフローを加速するためのツールです。これらは、物理シミュレーションの高速化と、学習アルゴリズムの効率的な実行を可能にします。",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp#:~:text=NVIDIA%20Warp%20and%20MjWarp%20to%20Accelerate%20Robotics%20Simulation%20and",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "source": "Google AI",
+          "publishedAt": "2026-09-24T03:00:00+09:00",
+          "summary": "Google Beamは、新たに5カ国にサービスを拡大し、Industriousとの提携によりネットワークを拡張しています。これにより、より多くの地域と顧客にリーチできるようになります。",
+          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/#:~:text=We%E2%80%99re%20expanding%20Google%20Beam%20to%20five%20new%20countries%2C%20and%20partn",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "source": "DeepMind",
+          "publishedAt": "2026-09-24T01:00:57+09:00",
+          "summary": "DeepMindは、個人のAI向けにプライベートなサーバーサイドメモリをPrivate AI Computeに導入しました。これにより、AI計算のセキュリティとプライバシーが強化されます。",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "jumpUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/#:~:text=Introducing%20private%2C%20server-side%20memory%20to%20Private%20AI%20Comput",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Two years of OpenAI Academy",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-24T01:00:00+09:00",
+          "summary": "Marking two years of Academy and bringing AI skills to even more communities.",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "jumpUrl": "https://openai.com/index/two-years-of-openai-academy#:~:text=Marking%20two%20years%20of%20Academy%20and%20bringing%20AI%20skills%20to%20even",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "source": "DeepMind",
+          "publishedAt": "2026-09-24T00:25:14+09:00",
+          "summary": "",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "jumpUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-23T22:00:00+09:00",
+          "summary": "is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infras",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "jumpUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense#:~:text=is%20extending%20access%20to%20its%20Daybreak%20program%20to%20the%20Governmen",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "source": "OpenAI",
+          "publishedAt": "2026-09-23T21:00:00+09:00",
+          "summary": "CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Securi",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "jumpUrl": "https://openai.com/index/sam-altman-un-security-council-remarks#:~:text=CEO%20Sam%20Altman%20discusses%20AI%20safety%2C%20human%20control%2C%20and%20inter",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "source": "Hugging Face",
+          "publishedAt": "2026-09-22T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "jumpUrl": "https://huggingface.co/blog/evaleval-aisi",
+          "badge": "Hugging Face",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
