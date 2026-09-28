@@ -711,6 +711,38 @@ class TestEndToEnd(_IsolatedState):
         self.assertIn("triage", err)
 
 
+class TestRealInboxShapes(unittest.TestCase):
+    """実際の受信箱（2026-09-28）で観測した形を固定する。"""
+
+    def setUp(self):
+        import gate as G
+
+        self.config = copy.deepcopy(G.load_config())
+        self.config["includeOffHoursReceived"] = True
+
+    def test_uppercase_recipient_is_still_direct(self):
+        """toRecipients に "SATO@sanrikutech.jp" と大文字で入っているメールが実在した。"""
+        message = {"id": "x", "sender": "shop@anahazeti.com", "toRecipients": ["SATO@sanrikutech.jp"],
+                   "date": "2026-09-27T11:03:11Z", "labelIds": ["INBOX"], "snippet": "ご確認ください"}
+        verdict = T.triage_message(message, {"id": "t", "messages": [message]}, self.config)
+        self.assertFalse(verdict["notDirectRecipient"])
+        self.assertEqual(verdict["verdict"], "proceed")
+
+    def test_preview_of_long_thread_is_rejected_whatever_the_order(self):
+        """13通のスレッドが検索結果では5通になっていた。ツールの説明は「古い方の約5通」だが、
+        実際に返ってきたのは新しい方の5通だった。どちらの順でも判定を保留すること。"""
+        def msg(i, sent=False):
+            return {"id": f"m{i:02d}", "sender": TARGET if sent else SENDER,
+                    "toRecipients": [SENDER if sent else TARGET],
+                    "labelIds": ["SENT"] if sent else ["INBOX"],
+                    "date": f"2026-09-{10 + i:02d}T03:00:00Z", "snippet": "ご確認ください"}
+        full = [msg(i, sent=(i % 2 == 0)) for i in range(13)]
+        for preview in (full[:5], full[-5:]):
+            result = T.triage_threads({"threads": [{"id": "long", "messages": preview}]}, self.config, {})
+            self.assertEqual(result["needsFullThread"], ["long"])
+            self.assertEqual(result["_manifestEntries"], [])
+
+
 class TestTriageOrdering(unittest.TestCase):
     """回帰テスト: 以前は messageId の文字列順で並べていた。"""
 

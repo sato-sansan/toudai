@@ -1,0 +1,47 @@
+name: mail-assistant tests
+
+# メール下書きアシスタントのテスト。灯台の日次ビルド（daily.yml）とは独立させている。
+# 送信を遮断するガードの規則はここで毎回検証する。ガードが弱まる変更は main に入れない。
+on:
+  push:
+    paths:
+      - "mail-assistant/**"
+      - ".claude/**"
+      - ".github/workflows/mail-assistant.yml"
+  pull_request:
+    paths:
+      - "mail-assistant/**"
+      - ".claude/**"
+      - ".github/workflows/mail-assistant.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 依存はない（標準ライブラリのみ）。pip install は不要。
+      - name: Run tests
+        run: python -m unittest discover -s mail-assistant -p 'test_*.py' -v
+
+      - name: Settings are valid JSON
+        run: python -c "import json; json.load(open('.claude/settings.json'))"
+
+      - name: Guard blocks send even when invoked as the harness would
+        run: |
+          out=$(echo '{"tool_name":"mcp__Gmail__send_message","tool_input":{"draftId":"r1"}}' \
+            | CLAUDE_PROJECT_DIR="$PWD" MAIL_ASSISTANT_STATE_DIR="$RUNNER_TEMP/state" \
+              python3 .claude/hooks/gmail_guard.py)
+          echo "$out"
+          echo "$out" | grep -q '"permissionDecision": "deny"'
