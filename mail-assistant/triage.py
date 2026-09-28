@@ -332,6 +332,9 @@ def triage_threads(payload: dict, config: dict, processed: dict) -> dict:
     # get_thread / search_threads は下書きを返さないので、既存の下書きは
     # list_drafts で別に集めて渡してもらう（手書きの返信途中を上書きしないため）
     draft_threads = set(payload.get("draftThreadIds") or [])
+    # list_drafts が失敗して下書きの有無が分からないときは、全件を降格する
+    # （どの会話に書きかけの返信があるか分からない以上、新しい下書きは作らない）
+    drafts_unknown = bool(payload.get("draftsUnavailable"))
     needs_full_thread: list[str] = []
 
     for thread in payload.get("threads", []):
@@ -378,6 +381,9 @@ def triage_threads(payload: dict, config: dict, processed: dict) -> dict:
             if thread_id in draft_threads and verdict["verdict"] != "skip":
                 verdict["verdict"] = "skip"
                 verdict["reasons"] = ["draft-exists"]
+            elif drafts_unknown and verdict["verdict"] == "proceed":
+                verdict["verdict"] = "downgrade"
+                verdict["reasons"] = ["drafts-unknown"]
             if verdict["verdict"] == "skip":
                 skipped.append(verdict)
             else:

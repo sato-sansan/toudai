@@ -705,6 +705,19 @@ class TestEndToEnd(_IsolatedState):
         self.assertTrue(denied)
         self.assertIn("triaged-as-skip", out)
 
+    def test_drafts_unavailable_downgrades_everything(self):
+        """list_drafts が失敗したら、書きかけの返信があるか分からないので下書きを作らない。"""
+        payload = self.threads()
+        payload["draftsUnavailable"] = True
+        _, out, _ = self.cli("triage", stdin=json.dumps(payload))
+        result = json.loads(out)
+        self.assertEqual([(v["messageId"], v["verdict"], v["reasons"]) for v in result["process"]],
+                         [("m1", "downgrade", ["drafts-unknown"])])
+        self.cli("inspect", stdin=json.dumps({"messageId": "m1", "body": "ご確認ください。"}))
+        _, denied, out = self.hook(draft_payload())
+        self.assertTrue(denied)
+        self.assertIn("downgraded-message", out)
+
     def test_inspect_requires_triaged_message(self):
         code, _, err = self.cli("inspect", stdin=json.dumps({"messageId": "m1", "body": "x"}))
         self.assertNotEqual(code, 0)
