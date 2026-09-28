@@ -11,10 +11,14 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import pathlib
+import re
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-LEDGER_PATH = ROOT / "mail-assistant" / "state" / "ledger.jsonl"
+# テストでは MAIL_ASSISTANT_STATE_DIR で差し替える（本番の履歴を汚さないため）
+STATE_DIR = pathlib.Path(os.environ.get("MAIL_ASSISTANT_STATE_DIR") or ROOT / "mail-assistant" / "state")
+LEDGER_PATH = STATE_DIR / "ledger.jsonl"
 
 FIELDS = (
     "processedAt",
@@ -46,8 +50,6 @@ class LedgerError(ValueError):
 
 def _redact(text: str) -> str:
     """念のためメールアドレスと電話番号を伏せる。"""
-    import re
-
     text = re.sub(
         r"[\w.+-]+@([\w-]+(?:\.[\w-]+)+)",
         lambda m: f"***@{m.group(1)}",

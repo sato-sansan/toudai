@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 scripts/test.mp3
 .DS_Store
+
+# mail-assistant の実行時状態（実行マニフェスト・ガードの監査ログ）。1回の実行でのみ使う
+mail-assistant/state/run/

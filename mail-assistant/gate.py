@@ -9,12 +9,15 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import pathlib
+import re
 
 import jp_holidays as H
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-CONFIG_PATH = ROOT / "mail-assistant" / "config.json"
+# テストでは MAIL_ASSISTANT_CONFIG で差し替える（dryRun=false の設定で統合テストするため）
+CONFIG_PATH = pathlib.Path(os.environ.get("MAIL_ASSISTANT_CONFIG") or ROOT / "mail-assistant" / "config.json")
 
 # DST を持たないタイムゾーンのみ対応（zoneinfo に頼らず決定的に扱う）
 TZ_OFFSETS = {
@@ -132,17 +135,31 @@ def search_window_start(moment: dt.datetime, config: dict) -> dt.datetime:
     return moment - dt.timedelta(hours=config.get("maxCatchupHours", 96))
 
 
-def build_search_query(moment: dt.datetime, config: dict) -> str:
+LABEL_ID_RE = re.compile(r"^[A-Za-z0-9_-]+$")
+
+
+def build_search_query(
+    moment: dt.datetime,
+    config: dict,
+    *,
+    done_label_id: str = "",
+    test_label_id: str = "",
+) -> str:
     """Gmail 検索クエリを組み立てる。
 
     - in:inbox          … 受信トレイのみ（アーカイブ済み・送信済みを拾わない）
     - -in:draft         … 下書きを拾わない
     - -from:me          … 自分の送信メールを除外
-    - after:YYYY/MM/DD  … 検索窓（日付粒度。細かい重複排除は ledger 側）
+    - after:YYYY/MM/DD  … 検索窓（日付粒度。時刻での絞り込みは triage 側）
+    - -label:<処理済み>  … 処理済みメッセージを除外（ID を渡したときのみ）
 
-    処理済みラベルによる除外はここでは行わない。スレッド検索は
-    「1通でも条件に合えばスレッド全体が返る」ため、ラベル除外は
-    続報メールの取りこぼしを招く。重複排除は ledger に一元化する。
+    処理済みラベルの除外が正しく働くのは、ラベルを label_message で「メッセージ単位」に
+    付けているから。Gmail 検索はメッセージ単位で条件を評価し、1通でも合致すれば
+    スレッドを返すので、処理済みの会話に続報が届けばそのスレッドは再び返ってくる。
+    （label_thread を使うと続報にもラベルが自動で付き、この前提が崩れる。guard で禁止済み）
+
+    Gmail 検索はラベルの表示名ではなく ID を取るため、ID は実行時に list_labels で解決して渡す。
+    ID はクエリに埋め込むので、形式を検証して検索条件の注入を防ぐ。
     """
     start = search_window_start(moment, config)
     parts = [
@@ -152,9 +169,17 @@ def build_search_query(moment: dt.datetime, config: dict) -> str:
         "-from:me",
         f"after:{start.strftime('%Y/%m/%d')}",
     ]
-    senders = config.get("testSenders") or []
-    if config.get("testMode", False) and senders:
-        parts.append("(" + " OR ".join(f"from:{s}" for s in senders) + ")")
+    for label_id in (done_label_id, test_label_id):
+        if label_id and not LABEL_ID_RE.match(label_id):
+            raise ConfigError(f"ラベル ID の形式が不正です: {label_id!r}")
+    if done_label_id:
+        parts.append(f"-label:{done_label_id}")
+    if config.get("testMode", False):
+        if test_label_id:
+            parts.append(f"label:{test_label_id}")
+        senders = config.get("testSenders") or []
+        if senders:
+            parts.append("(" + " OR ".join(f"from:{s}" for s in senders) + ")")
     return " ".join(parts)
 
 

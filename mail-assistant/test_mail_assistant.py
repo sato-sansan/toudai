@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import pathlib
 import subprocess
 import sys
@@ -715,6 +716,14 @@ class TestSummary(unittest.TestCase):
 class TestCli(unittest.TestCase):
     """CLI をサブプロセスで叩き、スキルが使う入出力契約を固定する。"""
 
+    def setUp(self):
+        # 本物の state/（履歴・実行マニフェスト）を汚さないよう一時ディレクトリへ向ける
+        self.tmp = tempfile.TemporaryDirectory()
+        self.env = {**os.environ, "MAIL_ASSISTANT_STATE_DIR": self.tmp.name}
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
     def run_cli(self, args: list[str], stdin: str = "") -> tuple[int, str]:
         proc = subprocess.run(
             [sys.executable, "mail-assistant/assistant.py", *args],
@@ -722,6 +731,7 @@ class TestCli(unittest.TestCase):
             input=stdin,
             capture_output=True,
             text=True,
+            env=self.env,
         )
         return proc.returncode, proc.stdout + proc.stderr
 
@@ -796,10 +806,7 @@ class TestCli(unittest.TestCase):
         result = json.loads(out)
         self.assertEqual(result["written"], 0)
         self.assertIn("dry-run", result["reason"])
-        self.assertNotIn(
-            "cli-dry-run-should-not-write",
-            (L.LEDGER_PATH.read_text("utf-8") if L.LEDGER_PATH.exists() else ""),
-        )
+        self.assertFalse((pathlib.Path(self.tmp.name) / "ledger.jsonl").exists())
 
     def test_summary_command(self):
         code, out = self.run_cli(["summary", "--date", "2026-01-01"])

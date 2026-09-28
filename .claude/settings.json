@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__reply",
+      "mcp__Gmail__forward",
+      "mcp__Gmail__trash_message",
+      "mcp__Gmail__trash_thread",
+      "mcp__Gmail__delete_draft",
+      "mcp__Gmail__mark_message_spam",
+      "mcp__Gmail__mark_thread_spam",
+      "mcp__Gmail__apply_sensitive_message_label",
+      "mcp__Gmail__apply_sensitive_thread_label",
+      "mcp__Gmail__update_draft",
+      "mcp__Gmail__label_thread",
+      "mcp__Gmail__unlabel_message",
+      "mcp__Gmail__unlabel_thread",
+      "mcp__Gmail__delete_label"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/gmail_guard.py\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
