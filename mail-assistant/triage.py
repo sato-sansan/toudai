@@ -36,6 +36,12 @@ from email.utils import parsedate_to_datetime
 
 import gate as G
 
+# search_threads はスレッドの「古い方の約5通」しか返さず、新しいメッセージは省かれる
+# （省略の印も付かない）。省かれた中に佐藤の返信があると「未返信」と誤判定し、
+# 返信済みの会話に二重の下書きを作ってしまう。取りこぼし（二重下書き）の害の方が
+# 余分な get_thread 1回より大きいので、「約5」より1少ない件数から全体取得を要求する。
+SEARCH_PREVIEW_SAFE_LIMIT = 4
+
 # Gmail のカテゴリラベル。プロモーション・SNS・フォーラムは返信対象外とみなす。
 SKIP_CATEGORY_LABELS = {
     "CATEGORY_PROMOTIONS",  # メールマガジン・広告
@@ -307,6 +313,12 @@ def triage_threads(payload: dict, config: dict, processed: dict) -> dict:
     payload["labelIds"]["done"] に処理済みラベルの ID を渡すと、
     そのラベルが付いたメッセージも処理済みとして扱う。
     ラベルは Gmail 側に残るので、ledger の push に失敗しても重複処理にならない。
+
+    payload["draftThreadIds"] に既存の下書きがあるスレッド ID を渡すと、そのスレッドの
+    メッセージは draft-exists として除外する（コネクタの検索結果には下書きが出ないため）。
+
+    メッセージが SEARCH_PREVIEW_SAFE_LIMIT 通以上あり "complete": true の無いスレッドは
+    判定せず needsFullThread に返す（search_threads の省略で返信済みを見落とさないため）。
     """
     to_process: list[dict] = []
     skipped: list[dict] = []
@@ -317,9 +329,18 @@ def triage_threads(payload: dict, config: dict, processed: dict) -> dict:
     limit = config.get("maxMessagesPerRun", 20)
     target = config["targetEmail"].lower()
     done_label = ((payload.get("labelIds") or {}).get("done")) or ""
+    # get_thread / search_threads は下書きを返さないので、既存の下書きは
+    # list_drafts で別に集めて渡してもらう（手書きの返信途中を上書きしないため）
+    draft_threads = set(payload.get("draftThreadIds") or [])
+    needs_full_thread: list[str] = []
 
     for thread in payload.get("threads", []):
         thread_messages = thread.get("messages") or []
+        thread_id = thread.get("id", "")
+        if len(thread_messages) >= SEARCH_PREVIEW_SAFE_LIMIT and not thread.get("complete"):
+            # 新しいメッセージが省かれている可能性がある。全体を見ずに判定しない。
+            needs_full_thread.append(thread_id)
+            continue
         cc_allowed = (
             cc_previously_used_by_target(thread_messages, target)
             if config.get("ccMode") == "mirror-previous"
@@ -354,6 +375,9 @@ def triage_threads(payload: dict, config: dict, processed: dict) -> dict:
                 continue
 
             verdict = triage_message(message, thread, config)
+            if thread_id in draft_threads and verdict["verdict"] != "skip":
+                verdict["verdict"] = "skip"
+                verdict["reasons"] = ["draft-exists"]
             if verdict["verdict"] == "skip":
                 skipped.append(verdict)
             else:
@@ -392,6 +416,9 @@ def triage_threads(payload: dict, config: dict, processed: dict) -> dict:
             "outOfScope": len(out_of_scope),
             "truncated": truncated,
         },
+        # 空でなければ、これらを get_thread(messageFormat="MINIMAL") で取り直し、
+        # "complete": true を付けて triage をやり直す
+        "needsFullThread": needs_full_thread,
         "_manifestEntries": manifest_entries,
     }
 

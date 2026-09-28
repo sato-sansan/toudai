@@ -523,7 +523,7 @@ class TestTriageThreads(unittest.TestCase):
     def test_honours_max_messages_per_run(self):
         messages = [message(id=f"m{i:02d}") for i in range(10)]
         result = self.run_triage(
-            [{"id": "t1", "messages": messages}], maxMessagesPerRun=3
+            [{"id": "t1", "complete": True, "messages": messages}], maxMessagesPerRun=3
         )
         self.assertEqual(len(result["process"]), 3)
         self.assertTrue(result["stats"]["truncated"])
@@ -760,6 +760,7 @@ class TestCli(unittest.TestCase):
     def test_triage_command(self):
         payload = json.dumps(
             {
+                "draftThreadIds": [],
                 "threads": [
                     {"id": "t1", "messages": [message(id="good")]},
                     {

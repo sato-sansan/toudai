@@ -103,6 +103,13 @@ def cmd_triage(args: argparse.Namespace) -> int:
 
     config = G.load_config()
     payload = _read_stdin_json()
+    if not isinstance(payload.get("draftThreadIds"), list):
+        # 下書きは検索結果に出ないので、list_drafts で確認しないと重複を防げない。
+        # 確認を飛ばせないよう、キーの存在自体を必須にする（下書きが無ければ空配列）。
+        raise SystemExit(
+            "draftThreadIds（既存の下書きがあるスレッド ID の配列）が必要です。"
+            "list_drafts で集めて渡してください。下書きが無ければ [] を渡します。"
+        )
     result = T.triage_threads(payload, config, L.processed_map())
     entries = result.pop("_manifestEntries")
     M.write(M.build(entries))

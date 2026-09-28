@@ -552,6 +552,7 @@ class TestEndToEnd(_IsolatedState):
     def threads(self, snippet="ご質問があります。ご確認をお願いします。", to=None):
         return {
             "labelIds": {"done": "Label_DONE"},
+            "draftThreadIds": [],
             "threads": [
                 {
                     "id": "t1",
@@ -683,6 +684,27 @@ class TestEndToEnd(_IsolatedState):
         self.assertNotEqual(code, 0)
         self.assertIn("--test-label-id", err)
 
+    def test_triage_requires_draft_thread_ids(self):
+        """下書きは検索結果に出ない。list_drafts の確認を飛ばせないようにキーを必須にする。"""
+        payload = self.threads()
+        del payload["draftThreadIds"]
+        code, _, err = self.cli("triage", stdin=json.dumps(payload))
+        self.assertNotEqual(code, 0)
+        self.assertIn("draftThreadIds", err)
+
+    def test_existing_draft_blocks_new_draft(self):
+        """手書きの返信途中がある会話には下書きを作らない（フックも拒否する）。"""
+        payload = self.threads()
+        payload["draftThreadIds"] = ["t1"]
+        _, out, _ = self.cli("triage", stdin=json.dumps(payload))
+        result = json.loads(out)
+        self.assertEqual(result["process"], [])
+        self.assertIn("m1", [v["messageId"] for v in result["skip"]])
+        self.cli("inspect", stdin=json.dumps({"messageId": "m1", "body": "x"}))
+        _, denied, out = self.hook(draft_payload())
+        self.assertTrue(denied)
+        self.assertIn("triaged-as-skip", out)
+
     def test_inspect_requires_triaged_message(self):
         code, _, err = self.cli("inspect", stdin=json.dumps({"messageId": "m1", "body": "x"}))
         self.assertNotEqual(code, 0)
@@ -714,6 +736,44 @@ class TestTriageOrdering(unittest.TestCase):
         self.assertTrue(result["stats"]["truncated"])
         # 打ち切った分はマニフェストにも載らない（今回は下書きを作らせない）
         self.assertNotIn("19f00fff", [e["messageId"] for e in result["_manifestEntries"]])
+
+    def test_possibly_truncated_thread_is_not_judged(self):
+        """search_threads は古い約5通しか返さない。省かれた返信を見落として
+        返信済みの会話に二重の下書きを作らないよう、全体取得を要求する。"""
+        import gate as G
+
+        config = copy.deepcopy(G.load_config())
+        config["includeOffHoursReceived"] = True
+        messages = [
+            {"id": f"m{i}", "sender": SENDER, "toRecipients": [TARGET],
+             "date": f"2026-09-28T0{i}:00:00Z", "labelIds": ["INBOX"], "snippet": "ご確認ください"}
+            for i in range(T.SEARCH_PREVIEW_SAFE_LIMIT)
+        ]
+        preview = {"id": "long", "messages": messages}
+        result = T.triage_threads({"threads": [preview]}, config, {})
+        self.assertEqual(result["needsFullThread"], ["long"])
+        self.assertEqual(result["process"], [])
+        self.assertEqual(result["_manifestEntries"], [])
+
+        # get_thread で取り直した全体（佐藤の返信を含む）を渡せば正しく判定できる
+        full = {"id": "long", "complete": True, "messages": messages + [
+            {"id": "reply", "sender": TARGET, "labelIds": ["SENT"], "date": "2026-09-28T09:00:00Z"},
+        ]}
+        result = T.triage_threads({"threads": [full]}, config, {})
+        self.assertEqual(result["needsFullThread"], [])
+        self.assertEqual(result["process"], [])
+        self.assertTrue(all("already-replied" in v["reasons"] for v in result["skip"] if v["messageId"].startswith("m")))
+
+    def test_short_thread_needs_no_full_fetch(self):
+        import gate as G
+
+        config = copy.deepcopy(G.load_config())
+        config["includeOffHoursReceived"] = True
+        messages = [{"id": "a", "sender": SENDER, "toRecipients": [TARGET],
+                     "date": "2026-09-28T01:00:00Z", "labelIds": ["INBOX"], "snippet": "ご確認ください"}]
+        result = T.triage_threads({"threads": [{"id": "t", "messages": messages}]}, config, {})
+        self.assertEqual(result["needsFullThread"], [])
+        self.assertEqual(len(result["process"]), 1)
 
     def test_cc_previously_used_by_target(self):
         thread = [
