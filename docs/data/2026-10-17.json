@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T08:17:02.265473+09:00",
+  "audioUrl": "audio/2026-10-17.mp3",
+  "audioScript": "10月17日、土曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、11月3日の文化の日に施設の無料観覧を実施し、翌4日を振り替え休館とすることを発表しました。この措置は、文化の日の特別な開館に伴うものです。気仙沼市公式。気仙沼市は、令和8年度の市政懇談会について、大島地区の資料をウェブサイトに公開しました。この懇談会は、市民と市政の対話を促進することを目的としています。気仙沼市公式。提供された情報が不足しているため、ニュース記事を要約できません。タイトルと出典のみでは、具体的な内容を把握することができません。\n\n■ 分子栄養。International ophthalmologyによると、アジア太平洋地域の眼形成外科医を対象としたパイロット調査により、甲状腺眼症（TED）の非外科的治療における実態が明らかになりました。調査では、グルココルチコイド、特に静脈内メチルプレドニゾロンが主要な全身治療として報告されており、特定の投与レジメンが広く選択されていることが示されました。また、眼周囲注射や眼窩放射線療法も頻繁に用いられていると報告されています。と報告されています。The British journal of nutritionによると、本研究は、大うつ病性障害の症状改善における地中海食の効果を検証する二重盲検偽薬対照無作為化摂食試験「OPTIMISM」のプロトコルに関する訂正報告です。栄養精神医学的治療の最適化を目指し、地中海食が主要な介入として調査されています。と報告されています。厚労省。厚生労働省は、11月6日に開催される「健康的で持続可能な食環境戦略イニシアチブ オープンフォーラム2026」の登壇者を決定しました。このフォーラムは、健康と持続可能性をテーマにした食環境戦略について議論する場となります。\n\n■ ハンドパン。Reddit。Yataoのエンバースチールパンについて、Ayasa製かどうか、またAyasaから直接購入するよりも安価である理由について質問が投稿されました。Ayasaが設計、成形に関わっていると記載されているため、両者の違いに関心が寄せられています。Reddit。RedditユーザーがAtlas Handpanスタンドの使用経験を共有し、スタンドがハンドパンの共鳴を減衰させ、特に美しい音色のハンドパンで音質が低下することに失望を表明しています。マグネットとパンの間にシリコンバリアを挟む解決策を検討中です。Reddit。Redditユーザーが理想のハンドパンの音数について意見を求めています。操作しやすい小型レイアウトか、探索の幅が広がる大型レイアウトかに関心が集まっています。\n\n■ AI。Hugging Face。Hugging Faceは、インド系言語の事前学習を大規模化するため、2.8兆トークンとオープンなデータ生成パイプラインを開発しました。この取り組みは、多様なインド系言語モデルの性能向上とアクセス性向上を目指しています。OpenAI。Stack Overflow for Agentsは、ChatGPTプラグインの導入によりサインアップ数が3倍に増加しました。このプラグインは、エージェント作成数を最大10倍にまで成長させるのに貢献しました。Hugging Face。Hugging Faceは、ユーザーが所有、カスタマイズ、スケールできるオープンモデル「Beam 501B」を発表しました。このモデルは、ユーザーがAIモデルをより柔軟に利用できるように設計されています。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "11月3日（火曜日）文化の日:無料観覧／4日（水曜日）振り替え休館のご案内",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-16T16:47:00+09:00",
+          "summary": "気仙沼市は、11月3日の文化の日に施設の無料観覧を実施し、翌4日を振り替え休館とすることを発表しました。この措置は、文化の日の特別な開館に伴うものです。",
+          "url": "https://www.kesennuma.miyagi.jp/riasark/news/2026/1103/20261016131036.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/riasark/news/2026/1103/20261016131036.html#:~:text=11%E6%9C%883%E6%97%A5%EF%BC%88%E7%81%AB%E6%9B%9C%E6%97%A5%EF%BC%89%E6%96%87%E5%8C%96%E3%81%AE%E6%97%A5%3A%E7%84%A1%E6%96%99%E8%A6%B3%E8%A6%A7%EF%BC%8F4%E6%97%A5%EF%BC%88%E6%B0%B4%E6%9B%9C%E6%97%A5%EF%BC%89%E6%8C%AF%E3%82%8A%E6%9B%BF%E3%81%88%E4%BC%91%E9%A4%A8%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "令和8年度市政懇談会について（大島地区市政懇談会資料をアップしました）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-16T13:55:00+09:00",
+          "summary": "気仙沼市は、令和8年度の市政懇談会について、大島地区の資料をウェブサイトに公開しました。この懇談会は、市民と市政の対話を促進することを目的としています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E5%A4%A7%E5%B3%B6%E5%9C%B0%E5%8C%BA%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E8%B3%87%E6%96%99%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "記者発表資料 令和8年10月更新しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-16T12:00:00+09:00",
+          "summary": "提供された情報が不足しているため、ニュース記事を要約できません。タイトルと出典のみでは、具体的な内容を把握することができません。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/07/20261001133733.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/07/20261001133733.html",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "【気仙沼市】とんかつ店『ミナトノトウヤ』が移転のため、現店舗での営業を、2026年10月15日で終了に。",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-10-16T21:03:56+09:00",
+          "summary": "気仙沼市のとんかつ店「ミナトノトウヤ」は、移転のため現在の店舗での営業を2026年10月15日に終了します。",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yMGN1ZEtoT1FXZi0yZFQtYXo1cW95LU9Kczh0VUdXaGZZYURzMXd4RXpIWHM5NWpnN185ZzFyN2dwWUlmSTlucktKXzFaa3dMems1czhUNUZSaW5sc29ELXpR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yMGN1ZEtoT1FXZi0yZFQtYXo1cW95LU9Kczh0VUdXaGZZYURzMXd4RXpIWHM5NWpnN185ZzFyN2dwWUlmSTlucktKXzFaa3dMems1czhUNUZSaW5sc29ELXpR?oc=5#:~:text=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E5%BA%97%E3%80%8E%E3%83%9F%E3%83%8A%E3%83%88%E3%83%8E%E3%83%88%E3%82%A6%E3%83%A4%E3%80%8F%E3%81%8C%E7%A7%BB%E8%BB%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%80%81%E7%8F%BE%E5%BA%97%E8%88%97%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%92%E3%80%812026%E5%B9%B410%E6%9C%8815%E6%97%A5%E3%81%A7%E7%B5%82%E4%BA%86%E3%81%AB%E3%80%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城・気仙沼のガラス作家、菊田佳代さんが仙台市のギャラリーで個展 18日まで",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-10-16T19:00:00+09:00",
+          "summary": "宮城県気仙沼市のガラス作家、菊田佳代さんが仙台市内のギャラリーで個展を開催しています。この個展は18日まで開催されており、菊田さんの作品が展示されています。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85dFhPNW50LUNDci03VU5hWWpQOTVBQzBXNUxTZmMxRk1IQUxKUHJvb3dsODZSWEFabmpqZFhOTExLZm9qbmg5RG9pYVZtMWhvU1JxZ0h1VEI0M1k?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85dFhPNW50LUNDci03VU5hWWpQOTVBQzBXNUxTZmMxRk1IQUxKUHJvb3dsODZSWEFabmpqZFhOTExLZm9qbmg5RG9pYVZtMWhvU1JxZ0h1VEI0M1k?oc=5#:~:text=%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AE%E3%82%AC%E3%83%A9%E3%82%B9%E4%BD%9C%E5%AE%B6%E3%80%81%E8%8F%8A%E7%94%B0%E4%BD%B3%E4%BB%A3%E3%81%95%E3%82%93%E3%81%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E3%81%AE%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC%E3%81%A7%E5%80%8B%E5%B1%95%2018%E6%97%A5%E3%81%BE%E3%81%A7",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "カツオやフカヒレ、海外に売り込もう ジェトロ仙台が気仙沼市に輸出支援窓口",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-10-16T18:15:00+09:00",
+          "summary": "ジェトロ仙台は、気仙沼市の水産加工品であるカツオやフカヒレの海外輸出を支援するため、市内に輸出支援窓口を開設しました。これにより、地域の特産品の国際市場への展開を促進し、販路拡大を目指します。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XNnMxYW1tc2FDWGo1S1M4TU4ydzdIaVhIWnh3NEFyVXNJQ2dfelY4YXdzV2hoVTZvb0l2eUFFMENHZktfbVQzR25CTzJPaS13WlB4bzJfOEt6VkU?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XNnMxYW1tc2FDWGo1S1M4TU4ydzdIaVhIWnh3NEFyVXNJQ2dfelY4YXdzV2hoVTZvb0l2eUFFMENHZktfbVQzR25CTzJPaS13WlB4bzJfOEt6VkU?oc=5#:~:text=%E3%82%AB%E3%83%84%E3%82%AA%E3%82%84%E3%83%95%E3%82%AB%E3%83%92%E3%83%AC%E3%80%81%E6%B5%B7%E5%A4%96%E3%81%AB%E5%A3%B2%E3%82%8A%E8%BE%BC%E3%82%82%E3%81%86%20%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E4%BB%99%E5%8F%B0%E3%81%8C%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%81%AB%E8%BC%B8%E5%87%BA%E6%94%AF%E6%8F%B4%E7%AA%93%E5%8F%A3",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「酒蔵レストラン宝」で味わう、気仙沼×三陸の秋のごちそう 東北の人気キャラクター「ホヤぼーや」と過ごす“大人のハロウィン”",
+          "source": "MANTANWEB",
+          "publishedAt": "2026-10-16T17:25:18+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IQUJhb1U3cW5HeUNyS3U5VUE3c1M3S2JsYUxpblpWV0hhOEhaQkw5ZjZBejdJSnFxb0NqUzNwQTNYUWIxWlhaRGVfNjd4ZWYzbFVob1lyVlZacXdQZHU4UUI5emRSN253Q1dGTW9QdC1lOC02VkE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IQUJhb1U3cW5HeUNyS3U5VUE3c1M3S2JsYUxpblpWV0hhOEhaQkw5ZjZBejdJSnFxb0NqUzNwQTNYUWIxWlhaRGVfNjd4ZWYzbFVob1lyVlZacXdQZHU4UUI5emRSN253Q1dGTW9QdC1lOC02VkE?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "台風30号(2026年)の宮城県気仙沼地域の暴風域に入る確率",
+          "source": "tenki.jp",
+          "publishedAt": "2026-10-16T15:00:00+09:00",
+          "summary": "tenki.jpによると、2026年の台風30号が宮城県気仙沼地域に暴風域をもたらす確率が発表されました。この情報は、今後の台風進路予測に基づいています。",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3R05rc0dWeVZjOVBiVUdnalZXSDNfNmR6YTJhaXhIam9Ja0VRSWNnazVXRXI3UktfcWFtZTBzV3AweVE5RjE5TTk1Ul9hbVFDSTV5VWpFUFpPMjgxNEd0YURfZjRnRVY5?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3R05rc0dWeVZjOVBiVUdnalZXSDNfNmR6YTJhaXhIam9Ja0VRSWNnazVXRXI3UktfcWFtZTBzV3AweVE5RjE5TTk1Ul9hbVFDSTV5VWpFUFpPMjgxNEd0YURfZjRnRVY5?oc=5#:~:text=%E5%8F%B0%E9%A2%A830%E5%8F%B7%282026%E5%B9%B4%29%E3%81%AE%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%B0%97%E4%BB%99%E6%B2%BC%E5%9C%B0%E5%9F%9F%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87%20tenki.jp",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "王子ネピア、気仙沼で15年ぶり「出張うんち教室」へ 携帯用保湿ティシュも刷新 | 黃信維（コウ・シンイ） | ニュース",
+          "source": "風傳媒",
+          "publishedAt": "2026-10-16T11:07:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GRklRczNhYWUwWVo0aG1lUDQxSGo0YUI3dTRRa2dnM0cydVU3cy13Z1JMTVY2M2xaSG1yZlI3WE5ycXZ0WnFKSkdJc0Z3eGJj?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GRklRczNhYWUwWVo0aG1lUDQxSGo0YUI3dTRRa2dnM0cydVU3cy13Z1JMTVY2M2xaSG1yZlI3WE5ycXZ0WnFKSkdJc0Z3eGJj?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "“学びの場”確保に向けて…中学校再編の現状と課題＜宮城＞",
+          "source": "TVer",
+          "publishedAt": "2026-10-16T09:49:17+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hcUJMS1lKbE1ZSnIwMnIwLUZyTktBamZrS2FzZlFSNzVQY2Q3eHFKdEhSdS0xcmN3VXJvSlZWRnk2YmxKNHZHSXV2RQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hcUJMS1lKbE1ZSnIwMnIwLUZyTktBamZrS2FzZlFSNzVQY2Q3eHFKdEhSdS0xcmN3VXJvSlZWRnk2YmxKNHZHSXV2RQ?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Non-surgical management of thyroid eye disease: a pilot survey of oculoplastic surgeons.",
+          "source": "International ophthalmology",
+          "publishedAt": "2026-10-16T00:00:00+09:00",
+          "summary": "アジア太平洋地域の眼形成外科医を対象としたパイロット調査により、甲状腺眼症（TED）の非外科的治療における実態が明らかになりました。調査では、グルココルチコイド、特に静脈内メチルプレドニゾロンが主要な全身治療として報告されており、特定の投与レジメンが広く選択されていることが示されました。また、眼周囲注射や眼窩放射線療法も頻繁に用いられていると報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42886427/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42886427/#:~:text=All%20respondents%20reported%20using%20glucocorticoids%2C%20and%20intraven",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Optimising Nutritional Psychiatry Treatment: Investigating the Mediterranean Diet to Improve Symptoms of Major Depressive Disorder (OPTIMISM): a double-blind sham-controlled randomised feeding trial protocol - CORRIGENDUM.",
+          "source": "The British journal of nutrition",
+          "publishedAt": "2026-10-16T00:00:00+09:00",
+          "summary": "本研究は、大うつ病性障害の症状改善における地中海食の効果を検証する二重盲検偽薬対照無作為化摂食試験「OPTIMISM」のプロトコルに関する訂正報告です。栄養精神医学的治療の最適化を目指し、地中海食が主要な介入として調査されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42885695/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42885695/#:~:text=Optimising%20Nutritional%20Psychiatry%20Treatment%3A%20Investigating%20t",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "11月6日開催 健康的で持続可能な食環境戦略イニシアチブ オープンフォーラム2026登壇者決定",
+          "source": "厚労省",
+          "publishedAt": "2026-10-15T14:00:00+09:00",
+          "summary": "厚生労働省は、11月6日に開催される「健康的で持続可能な食環境戦略イニシアチブ オープンフォーラム2026」の登壇者を決定しました。このフォーラムは、健康と持続可能性をテーマにした食環境戦略について議論する場となります。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76660.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_76660.html#:~:text=11%E6%9C%886%E6%97%A5%E9%96%8B%E5%82%AC%20%E5%81%A5%E5%BA%B7%E7%9A%84%E3%81%A7%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E9%A3%9F%E7%92%B0%E5%A2%83%E6%88%A6%E7%95%A5%E3%82%A4%E3%83%8B%E3%82%B7%E3%82%A2%E3%83%81%E3%83%96%20%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E7%99%BB%E5%A3%87%E8%80%85%E6%B1%BA%E5%AE%9A",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Do's and Don'ts in Mealtime Management for People with Oropharyngeal Dysphagia: A Modified Delphi Consensus Study from the Italian Society of Deglutology.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-04T00:00:00+09:00",
+          "summary": "嚥下障害を持つ人々の食事管理に関するイタリア嚥下障害学会のコンセンサス研究では、食事の姿勢、食品の選択、食事中の注意点など、具体的な「すべきこと」と「すべきでないこと」が特定されました。この研究は、エビデンスに基づいた実践を支援するためのガイドラインを提供することを目的としています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884720/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884720/#:~:text=Do%27s%20and%20Don%27ts%20in%20Mealtime%20Management%20for%20People%20with%20Oroph",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Dietary and Parenteral Nutritional Management of Short Bowel Syndrome with Intestinal Failure in Adults: A Narrative Review.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-02T00:00:00+09:00",
+          "summary": "成人における短腸症候群（SBS）による腸管不全の栄養管理に関するレビューが報告されています。このレビューでは、食事療法と非経口栄養サポートの2つの柱に焦点を当て、残存腸管の解剖学的構造と腸管適応の段階に基づいた実践的なアプローチが提示されています。目標は、経腸栄養の自立性を最大化し、長期的な静脈栄養による合併症を防ぐこととされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884714/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884714/#:~:text=Its%20management%20is%2C%20at%20its%20core%2C%20a%20nutritional%20problem.",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Vitamin D Supplementation in Community-Dwelling Adults.",
+          "source": "American family physician",
+          "publishedAt": "2026-10-01T00:00:00+09:00",
+          "summary": "成人におけるビタミンDのスクリーニングやサプリメント摂取については、一般集団での有効性を示すエビデンスは不足していると報告されています。ただし、70歳以下の人は1日600 IU、70歳を超える人は1日800 IUの摂取が推奨されており、これは食事やサプリメントで達成可能とされています。一部の糖尿病予備群患者では、3年以上のビタミンDサプリメント摂取が2型糖尿病への進行リスクを低減する可能性が報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42886195/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42886195/#:~:text=Evidence%20is%20lacking%20to%20support%20vitamin%20D%20screening%20or%20supple",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Combined Association of High-Sensitivity C-Reactive Protein and Vitamin D with Short-Term Functional Outcomes in Acute Ischemic Stroke.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-01T00:00:00+09:00",
+          "summary": "急性虚血性脳卒中患者において、高感度C反応性タンパク質（hs-CRP）とビタミンDの組み合わせが、短期的な機能的転帰と関連することが報告されています。特に、高hs-CRPと低ビタミンDレベルの組み合わせは、機能的転帰不良のリスク増加と関連するとされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884695/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884695/#:~:text=Combined%20Association%20of%20High-Sensitivity%20C-Reactive%20Protein%20",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Vitamin D Receptor Polymorphisms Are Associated with 25(OH)D",
+          "source": "Nutrients",
+          "publishedAt": "2026-09-30T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884685/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884685/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Nutritional Status and Cognition in Older Adults: Modification by Apolipoprotein E ε4.",
+          "source": "Nutrients",
+          "publishedAt": "2026-09-29T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884668/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884668/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Avoidant/Restrictive Food Intake Disorder in Children and Adolescents: Nutritional Risk, Diagnostic Boundaries, and Multidisciplinary Care-A Narrative Review.",
+          "source": "Nutrients",
+          "publishedAt": "2026-09-26T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884625/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884625/",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "Yatao ember steel pans",
+          "source": "Reddit",
+          "publishedAt": "2026-10-17T02:51:19+09:00",
+          "summary": "Yataoのエンバースチールパンについて、Ayasa製かどうか、またAyasaから直接購入するよりも安価である理由について質問が投稿されました。Ayasaが設計・成形に関わっていると記載されているため、両者の違いに関心が寄せられています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1x7n0v4/yatao_ember_steel_pans/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1x7n0v4/yatao_ember_steel_pans/#:~:text=They%20description%20states%20they%20are%20designed%20and%20shaped%20by%20Ayas",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Atlas Handpan",
+          "source": "Reddit",
+          "publishedAt": "2026-10-16T01:51:02+09:00",
+          "summary": "RedditユーザーがAtlas Handpanスタンドの使用経験を共有し、スタンドがハンドパンの共鳴を減衰させ、特に美しい音色のハンドパンで音質が低下することに失望を表明しています。マグネットとパンの間にシリコンバリアを挟む解決策を検討中です。",
+          "url": "https://www.reddit.com/r/handpan/comments/1x6qxk7/atlas_handpan/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1x6qxk7/atlas_handpan/#:~:text=I%20got%20an%20Atlas%20Handpan%20stand%20and%20it%20absolutely%20dampens%20the%20r",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "How many notes does your ideal handpan have?",
+          "source": "Reddit",
+          "publishedAt": "2026-10-15T21:15:35+09:00",
+          "summary": "Redditユーザーが理想のハンドパンの音数について意見を求めています。操作しやすい小型レイアウトか、探索の幅が広がる大型レイアウトかに関心が集まっています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1x6k1wy/how_many_notes_does_your_ideal_handpan_have/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1x6k1wy/how_many_notes_does_your_ideal_handpan_have/#:~:text=Do%20you%20prefer%20a%20smaller%20layout%20that%27s%20easy%20to%20navigate%2C%20or%20a",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "SHIRYU HANDPAN - Handpan Improvisation | Eb La Sirena 15",
+          "source": "YouTube",
+          "publishedAt": "2026-10-12T20:00:04+09:00",
+          "summary": "SHIRYU HANDPANは、Eb La Sirena 15というハンドパンを用いた即興演奏をYouTubeで公開しました。この動画は、ハンドパンの音色と演奏技術を披露するものです。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5WlRpSW42czNDWWozUEVXbmJBM2NOR3pZNmQtczZyQmtoWmlXdVZqOVpxMURGREFLcHdDUURpeWVYczRZQ3Vxb0wzRG9acHVRUWt1eFY3a2NtOFVh?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5WlRpSW42czNDWWozUEVXbmJBM2NOR3pZNmQtczZyQmtoWmlXdVZqOVpxMURGREFLcHdDUURpeWVYczRZQ3Vxb0wzRG9acHVRUWt1eFY3a2NtOFVh?oc=5#:~:text=SHIRYU%20HANDPAN%20-%20Handpan%20Improvisation%20%7C%20Eb%20La%20Sirena%2015%20You",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "人生を奏でる音色―ハンドパンと生き方に出会うトーク＆ライブー",
+          "source": "徳島新聞デジタル",
+          "publishedAt": "2026-10-11T16:00:00+09:00",
+          "summary": "徳島新聞デジタルで「人生を奏でる音色―ハンドパンと生き方に出会うトーク＆ライブー」というイベントが紹介されました。このイベントは、ハンドパンという楽器を通して、参加者が自身の生き方について考えるきっかけを提供するものです。",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYkJ4NEFyTjBQNFBVQ0ZreUtNYkVDTjFZbXdaOW5Yd0ZKR0pxUk05ZDRVcWRJY2gyNm5tSXFkcEhIS2YtbVR4cHZWa2h5WVNRRGdieWhpNDBGTWhWWmlhY1JNVnEzSVJUaFEw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYkJ4NEFyTjBQNFBVQ0ZreUtNYkVDTjFZbXdaOW5Yd0ZKR0pxUk05ZDRVcWRJY2gyNm5tSXFkcEhIS2YtbVR4cHZWa2h5WVNRRGdieWhpNDBGTWhWWmlhY1JNVnEzSVJUaFEw?oc=5#:~:text=%E4%BA%BA%E7%94%9F%E3%82%92%E5%A5%8F%E3%81%A7%E3%82%8B%E9%9F%B3%E8%89%B2%E2%80%95%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%A8%E7%94%9F%E3%81%8D%E6%96%B9%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%86%E3%83%88%E3%83%BC%E3%82%AF%EF%BC%86%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BC",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校",
+          "source": "YTS山形テレビ",
+          "publishedAt": "2026-10-09T23:25:59+09:00",
+          "summary": "村山市の小学校で、児童たちがスイス発祥の打楽器「ハンドパン」を体験しました。この体験は、珍しい楽器に触れる機会を提供し、子供たちの音楽への興味を深めることを目的としています。",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzlOcEV0eU90RDFMclZ5NEcycUpuNHpXbmgtNGZqdkE3SUZqZVlfSVFfc0lGUVkyNXlVNHFtQloxZktBa3R1YnpXWnhHcGxx?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzlOcEV0eU90RDFMclZ5NEcycUpuNHpXbmgtNGZqdkE3SUZqZVlfSVFfc0lGUVkyNXlVNHFtQloxZktBa3R1YnpXWnhHcGxx?oc=5#:~:text=%E5%85%90%E7%AB%A5%E3%81%8C%E3%82%B9%E3%82%A4%E3%82%B9%E7%99%BA%E7%A5%A5%E3%81%AE%E6%89%93%E6%A5%BD%E5%99%A8%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%80%8D%E4%BD%93%E9%A8%93%20%E6%9D%91%E5%B1%B1%E5%B8%82%E3%81%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "スイス生まれの優しい音色「ハンドパン」 小学生が演奏体験・楽器の魅力に触れる 山形・村山市｜ニュース",
+          "source": "さくらんぼテレビ",
+          "publishedAt": "2026-10-09T18:54:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNG5KcmFJSTBtUUdMZW14Z3BsaUgxcFVsaFRjRVV0ZUR6U0lYakYtMDFWdVdsZUYtZ0k0S2RTRV9zM2ZxQU5EdEJKcDREcENZX2F6dDlvMmRNY1FYZXprRXJkRnhoRGR3d052RDNSSTZyNXM?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNG5KcmFJSTBtUUdMZW14Z3BsaUgxcFVsaFRjRVV0ZUR6U0lYakYtMDFWdVdsZUYtZ0k0S2RTRV9zM2ZxQU5EdEJKcDREcENZX2F6dDlvMmRNY1FYZXprRXJkRnhoRGR3d052RDNSSTZyNXM?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTYk5TSkZmcHVvcXJHQjh5a2tNRHIzQzUycnlwclhONTVuOHlEMThHdEtyZ3lRYmdIYmZ2X2NLbEY4UTZTU25neDliZDNVRDBSSDBCd3YyZlhiQTU3TUhNSXowUEgxZEE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTYk5TSkZmcHVvcXJHQjh5a2tNRHIzQzUycnlwclhONTVuOHlEMThHdEtyZ3lRYmdIYmZ2X2NLbEY4UTZTU25neDliZDNVRDBSSDBCd3YyZlhiQTU3TUhNSXowUEgxZEE?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "星空の天体観測やハンドパン！『ビュー福島潟』で『ガタベリング2026 in 福島潟』開催！10月11日。",
+          "source": "にいがた速報",
+          "publishedAt": "2026-10-09T08:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZlBBa1JrekU4dkR0cHB3a2ZoR0tSYzVHNGhOUFJWODhUUGZOZHktaThFYy0zOWZucm5PXzAycnNkRjkzS2RrWGVZMVBObjRZUnc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZlBBa1JrekU4dkR0cHB3a2ZoR0tSYzVHNGhOUFJWODhUUGZOZHktaThFYy0zOWZucm5PXzAycnNkRjkzS2RrWGVZMVBObjRZUnc?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "燕市初のシティプロモーション地域おこし協力隊に東京の23歳デザイナー ハンドパンに魅了される – kenoh.com",
+          "source": "kenoh.com",
+          "publishedAt": "2026-10-08T09:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yMUEyZmtNcVZvUW9YaEpUN2w4R3FWMTJFRG82UHpDOUZGSl9ZNzNYZnByYWlxQmctZkQ5YVJvbkoyZWotQmdsNQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yMUEyZmtNcVZvUW9YaEpUN2w4R3FWMTJFRG82UHpDOUZGSl9ZNzNYZnByYWlxQmctZkQ5YVJvbkoyZWotQmdsNQ?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-16T10:44:47+09:00",
+          "summary": "Hugging Faceは、インド系言語の事前学習を大規模化するため、2.8兆トークンとオープンなデータ生成パイプラインを開発しました。この取り組みは、多様なインド系言語モデルの性能向上とアクセス性向上を目指しています。",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining#:~:text=Scaling%20Indic%20Pretraining%3A%202.8%20Trillion%20Tokens%20and%20an%20Open%20D",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-16T09:00:00+09:00",
+          "summary": "Stack Overflow for Agentsは、ChatGPTプラグインの導入によりサインアップ数が3倍に増加しました。このプラグインは、エージェント作成数を最大10倍にまで成長させるのに貢献しました。",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "jumpUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin#:~:text=its%20ChatGPT%20plugin%20helped%20drive%20up%20to%2010%C3%97%20growth%20in%20agent%20cr",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-16T09:00:00+09:00",
+          "summary": "Hugging Faceは、ユーザーが所有、カスタマイズ、スケールできるオープンモデル「Beam 501B」を発表しました。このモデルは、ユーザーがAIモデルをより柔軟に利用できるように設計されています。",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "jumpUrl": "https://huggingface.co/blog/reflection-beam#:~:text=Welcome%20Beam%3A%20a%20501B%20open%20model%20you%20can%20own%2C%20customize%2C%20and%20",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-16T05:34:01+09:00",
+          "summary": "Hugging FaceがGranite Switch 4.1を発表しました。この新バージョンでは、チャット、意思決定、音声認識といった複数の機能を単一のエンドポイントで処理できるようになり、AIモデルの統合と利用がより効率的になります。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "jumpUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1#:~:text=Granite%20Switch%204.1%3A%20Chat%2C%20Decisions%2C%20and%20Speech%20from%20One%20End",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-16T04:00:00+09:00",
+          "summary": "OpenAIは、適格な学術研究室向けに「Rosalind Academic Plan」を発表しました。このプランは、GPT-Rosalindへのスポンサー付きアクセスと、生命科学研究を推進するためのツールを提供します。",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "jumpUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan#:~:text=Introducing%20the%20Rosalind%20Academic%20Plan%2C%20offering%20eligible%20ac",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "source": "DeepMind",
+          "publishedAt": "2026-10-16T01:08:03+09:00",
+          "summary": "DeepMindは、Google Antigravity for Scienceを活用し、新しい抗菌ペプチドの探索を加速しています。この技術により、創薬プロセスの効率化と迅速化が期待されます。",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "jumpUrl": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/#:~:text=Accelerating%20the%20search%20for%20novel%20antimicrobial%20peptides%20usi",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Teaching students to think and learn through questions",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-15T22:00:00+09:00",
+          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support a",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "jumpUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions#:~:text=Celebrate%20Teachers%E2%80%99%20Day%20with%20AI%20for%20Educators%20in%20Brazilian%20P",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "source": "DeepMind",
+          "publishedAt": "2026-10-14T11:00:14+09:00",
+          "summary": "Learn how Google and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in priv",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "jumpUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/#:~:text=Learn%20how%20Google%20and%20GovTech%20Singapore%20uses%20lightweight%20on-d",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "source": "DeepMind",
+          "publishedAt": "2026-10-14T04:43:07+09:00",
+          "summary": "",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "jumpUrl": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "source": "Google AI",
+          "publishedAt": "2026-10-14T01:00:00+09:00",
+          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/#:~:text=We%E2%80%99re%20giving%20developers%2C%20enterprises%2C%20scientists%2C%20and%20consum",
+          "badge": "Google AI",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
