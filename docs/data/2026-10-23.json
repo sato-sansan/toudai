@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:53:57.594724+09:00",
+  "audioUrl": "audio/2026-10-23.mp3",
+  "audioScript": "10月23日、金曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市スポーツ施設予約システムは、メンテナンスのため一時停止します。利用者は停止期間を確認し、早めの手続きが推奨されます。気仙沼市公式。気仙沼市は、公式LINEアカウントの利用を再開しました。これにより、市民はLINEを通じて市政情報や災害情報を受け取れるようになります。気仙沼市公式。気仙沼市防災ポータルサイトは、システムメンテナンスのため、2024年11月13日（水）午前9時から午後5時までの間、一時的に利用できなくなります。利用者の皆様にはご不便をおかけしますが、ご理解とご協力をお願いいたします。\n\n■ 分子栄養。Food microbiologyによると、大腸菌の軽度熱ストレス下での生存におけるribA遺伝子の役割について、Zhangらの研究におけるリボフラビン（RF）と熱処理の関連付けに疑問が呈されています。変異株の培養および回復過程でのRF補給が、内因性RF生合成の熱特異的依存性を不明瞭にする可能性が指摘されており、熱適応における特定の役割を検証するための戦略が提案されています。と報告されています。Food microbiologyによると、大腸菌の軽度熱ストレスに対する適応応答が電気化学的観点から調査され、リボフラビン（RF）を介したレドックス適応が報告されています。特に、RF関連の電気化学信号の増強がストレス誘発性の代謝適応に起因することが確認されました。と報告されています。The Lancetによると、常染色体優性多発性嚢胞腎（ADPKD）の患者において、腎臓の肥大が栄養失調を引き起こす可能性が報告されています。これは、ADPKDの病態生理における重要な側面として注目されています。と報告されています。\n\n■ ハンドパン。Reddit。D Kurd 10は、クラシックなハンドパンのレイアウトの一つであり、その音色は演奏に没頭しやすい特徴を持っています。この楽器は、多くのプレイヤーに愛されているモデルです。Reddit。テキサス州ヒューストン地域でハンドパンを始めたばかりのユーザーが、他のプレイヤーとの交流を求めています。一緒に演奏したり、学び合ったり、音楽を楽しめる仲間を探しており、地域のコミュニティやイベントに関する情報を求めています。Reddit。Redditユーザーの/u/MeandThorneは、趣味が続くか不確かなため、初心者向けの予算に優しい選択肢を探しています。高価なものには手を出したくないと考えています。\n\n■ AI。Hugging Face。データベースの採点プロセスを強化学習の報酬として利用し、ThinkingBoxを用いてエージェントを後学習させることで、効率的なトレーニング手法を開発しました。このアプローチにより、データベース関連タスクにおけるエージェントのパフォーマンス向上が期待されます。OpenAI。OpenAIは、あらゆるアプリケーション向けに、迅速で焦点を絞った低コストの意思決定を可能にするDecisions APIを発表しました。このAPIにより、より応答性の高いアプリケーションの構築が促進されます。Hugging Face。OlmoEarth v1.3は、地球全体をカバーする最先端の埋め込みモデルです。このモデルは、地理空間データ分析において、より高度な性能と効率を提供します。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "気仙沼市スポーツ施設予約システム メンテナンスに伴う一時停止のお知らせ",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-22T19:29:00+09:00",
+          "summary": "気仙沼市スポーツ施設予約システムは、メンテナンスのため一時停止します。利用者は停止期間を確認し、早めの手続きが推奨されます。",
+          "url": "https://www.kesennuma.miyagi.jp/edu/s167/020/010/010/070/20251203114534.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/edu/s167/020/010/010/070/20251203114534.html#:~:text=%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AB%E4%BC%B4%E3%81%84%E3%80%81%E4%B8%8B%E8%A8%98%E6%9C%9F%E9%96%93%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市公式LINEアカウントの利用再開のお知らせ",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-22T19:00:00+09:00",
+          "summary": "気仙沼市は、公式LINEアカウントの利用を再開しました。これにより、市民はLINEを通じて市政情報や災害情報を受け取れるようになります。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/070/20261022082218.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/070/20261022082218.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E5%85%AC%E5%BC%8FLINE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E5%88%A9%E7%94%A8%E3%82%92%E5%86%8D%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼市防災ポータルサイト メンテナンスに伴う一時停止のお知らせ",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-22T12:43:00+09:00",
+          "summary": "気仙沼市防災ポータルサイトは、システムメンテナンスのため、2024年11月13日（水）午前9時から午後5時までの間、一時的に利用できなくなります。利用者の皆様にはご不便をおかけしますが、ご理解とご協力をお願いいたします。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s009/010/010/010/20261022123113.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s009/010/010/010/20261022123113.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E9%98%B2%E7%81%BD%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AF%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%9F%E3%82%81%E3%80%81%E4%B8%8B%E8%A8%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "宮城・気仙沼の唐桑中 24日に最後の運動会 大漁旗掲げ地域に感謝",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-10-23T05:00:00+09:00",
+          "summary": "宮城県気仙沼市の唐桑中学校は、閉校を前に最後の運動会を5月24日に開催します。生徒たちは大漁旗を掲げ、地域への感謝を表現する予定です。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zSkk0MVBNMXdub0hFZUZGMEI2blpWd1J0c0hJdWNEMjl4cVNpLWlEX1Rub0R3V1RJLTVkNzRWTmdudkIxSWRDSkplcVVPdzJBVlUzWFR0cDByUzg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zSkk0MVBNMXdub0hFZUZGMEI2blpWd1J0c0hJdWNEMjl4cVNpLWlEX1Rub0R3V1RJLTVkNzRWTmdudkIxSWRDSkplcVVPdzJBVlUzWFR0cDByUzg?oc=5#:~:text=%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AE%E5%94%90%E6%A1%91%E4%B8%AD%2024%E6%97%A5%E3%81%AB%E6%9C%80%E5%BE%8C%E3%81%AE%E9%81%8B%E5%8B%95%E4%BC%9A%20%E5%A4%A7%E6%BC%81%E6%97%97%E6%8E%B2%E3%81%92%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%84%9F%E8%AC%9D",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "フェンシング王国の今 宮城・気仙沼で実力を伸ばすジュニアクラブ 将来の五輪選手へ研さん",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-10-22T12:00:00+09:00",
+          "summary": "宮城県気仙沼市で、ジュニアフェンシングクラブが将来のオリンピック選手を目指し、実力を伸ばしています。このクラブは、フェンシング王国と呼ばれる地域で、次世代の選手育成に力を入れています。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEl6THdVNDlxSkI4QnNDQmJpc1p5WFZsLVJJTldLb25IYXJBc0tETmcwd0lPYlFFUmxFLWVPaFJiek5EbXRVemdhaUY1dkE5NDlKdm9zRWF3ODA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEl6THdVNDlxSkI4QnNDQmJpc1p5WFZsLVJJTldLb25IYXJBc0tETmcwd0lPYlFFUmxFLWVPaFJiek5EbXRVemdhaUY1dkE5NDlKdm9zRWF3ODA?oc=5#:~:text=%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%A7%E5%AE%9F%E5%8A%9B%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%99%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%82%AF%E3%83%A9%E3%83%96%20%E5%B0%86%E6%9D%A5%E3%81%AE%E4%BA%94%E8%BC%AA%E9%81%B8%E6%89%8B%E3%81%B8%E7%A0%94%E3%81%95%E3%82%93",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城・気仙沼市の亀山 「夕焼けモノレール」を試験実施 最終便を1時間延長",
+          "source": "47NEWS",
+          "publishedAt": "2026-10-22T10:49:25+09:00",
+          "summary": "宮城県気仙沼市の亀山で、「夕焼けモノレール」の試験運行が実施されました。最終便の運行時間を1時間延長し、夕焼けの景色を楽しめるようにする試みです。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTFhUOG0xbllFWkR3Qnp3RFc4Tmp1M196ejBuT2JaMWItUWRtU1FpTlhmbmlZVWVGa1VUbTJRZDd0TmpYTERmcWtqaw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTFhUOG0xbllFWkR3Qnp3RFc4Tmp1M196ejBuT2JaMWItUWRtU1FpTlhmbmlZVWVGa1VUbTJRZDd0TmpYTERmcWtqaw?oc=5#:~:text=%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%81%AE%E4%BA%80%E5%B1%B1%20%E3%80%8C%E5%A4%95%E7%84%BC%E3%81%91%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E3%80%8D%E3%82%92%E8%A9%A6%E9%A8%93%E5%AE%9F%E6%96%BD%20%E6%9C%80%E7%B5%82%E4%BE%BF%E3%82%921%E6%99%82%E9%96%93%E5%BB%B6%E9%95%B7",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城・気仙沼市の亀山 「夕焼けモノレール」を試験実施 最終便を1時間延長（河北新報）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T10:48:10+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNTNHUFhTOXlnbFpJeHdtVzJJRXlIWXpxRUhVaVlodDZkNUZBb1lLbEVYck54elFhb0g1WkFYR3ZaODJnc3BsYm44aVhTNzZtRUdHU1ZuQXFUc3R3VUJaV3hJSkVPRngxbFhvM3RNdWJuaW5yUkVyQi1tZ1c4d00?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNTNHUFhTOXlnbFpJeHdtVzJJRXlIWXpxRUhVaVlodDZkNUZBb1lLbEVYck54elFhb0g1WkFYR3ZaODJnc3BsYm44aVhTNzZtRUdHU1ZuQXFUc3R3VUJaV3hJSkVPRngxbFhvM3RNdWJuaW5yUkVyQi1tZ1c4d00?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城・気仙沼市の亀山 「夕焼けモノレール」を試験実施 最終便を1時間延長 (河北新報)",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T10:48:10+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajFvQUNyWjNSY1BzaFp4bW5RY0Fva1RXeHVzaUR5ODQwdTBnSTU0eUhhWXQxU2JWM1N3U3RfRGtsUVhfM01zYmRWd2lHaUlqbDJDNWdjaEJiOVdLTlJrQXpxdGxWb0d3eGVqUGNDSGtzMFRaZG54OHYwZm4wZHV0TmJUVm9jN1ZRT2tKWHRn?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajFvQUNyWjNSY1BzaFp4bW5RY0Fva1RXeHVzaUR5ODQwdTBnSTU0eUhhWXQxU2JWM1N3U3RfRGtsUVhfM01zYmRWd2lHaUlqbDJDNWdjaEJiOVdLTlJrQXpxdGxWb0d3eGVqUGNDSGtzMFRaZG54OHYwZm4wZHV0TmJUVm9jN1ZRT2tKWHRn?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「ホヤぼーや」が東京・有楽町にやってくる! 気仙沼サンマやホヤ、地酒を楽しむハロウィンイベント開催",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-22T07:15:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwZkVPLXlDWVBDS1pIc0I0Y1V2UW41ZHZMem5zZnlWNHVDZjhldGNlbFBHdnZrZVhEVlN5M1NKd0dmdTRycU1rZHJvWUdLS3VDZ29zS014M2NTSk9M?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwZkVPLXlDWVBDS1pIc0I0Y1V2UW41ZHZMem5zZnlWNHVDZjhldGNlbFBHdnZrZVhEVlN5M1NKd0dmdTRycU1rZHJvWUdLS3VDZ29zS014M2NTSk9M?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城：排便の大切さ学ぶ 気仙沼の小学校 ：地域ニュース",
+          "source": "読売新聞",
+          "publishedAt": "2026-10-22T05:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84NkZTUXVfdUU2cmQwMlcwT3NOeWs0ZmV3RXJJT1p2eGhnM0hfMlE1QTNacHBBQ1RTWWpRXzh4WHZOUXhnQWM0NDA0aW5FanUwdmNYT1hrUTc3Y3JSa1ZSazlyY1hGOE5sVkpSNWwyQW5sQQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE84NkZTUXVfdUU2cmQwMlcwT3NOeWs0ZmV3RXJJT1p2eGhnM0hfMlE1QTNacHBBQ1RTWWpRXzh4WHZOUXhnQWM0NDA0aW5FanUwdmNYT1hrUTc3Y3JSa1ZSazlyY1hGOE5sVkpSNWwyQW5sQQ?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Clarifying ribA-dependent survival under mild heat stress in Escherichia coli.",
+          "source": "Food microbiology",
+          "publishedAt": "2027-03-01T00:00:00+09:00",
+          "summary": "大腸菌の軽度熱ストレス下での生存におけるribA遺伝子の役割について、Zhangらの研究におけるリボフラビン（RF）と熱処理の関連付けに疑問が呈されています。変異株の培養および回復過程でのRF補給が、内因性RF生合成の熱特異的依存性を不明瞭にする可能性が指摘されており、熱適応における特定の役割を検証するための戦略が提案されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42901646/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42901646/#:~:text=We%20highlight%20how%20RF%20supplementation%20during%20mutant%20pre-cultur",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Electrochemical identification of riboflavin-mediated redox adaptation in Escherichia coli under mild heat stress.",
+          "source": "Food microbiology",
+          "publishedAt": "2027-03-01T00:00:00+09:00",
+          "summary": "大腸菌の軽度熱ストレスに対する適応応答が電気化学的観点から調査され、リボフラビン（RF）を介したレドックス適応が報告されています。特に、RF関連の電気化学信号の増強がストレス誘発性の代謝適応に起因することが確認されました。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42901641/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42901641/#:~:text=Under%20MHT%20condition%2C%20the%20RF-associated%20electrochemical%20signa",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease",
+          "source": "The Lancet",
+          "publishedAt": "2026-10-24T00:00:00+09:00",
+          "summary": "常染色体優性多発性嚢胞腎（ADPKD）の患者において、腎臓の肥大が栄養失調を引き起こす可能性が報告されています。これは、ADPKDの病態生理における重要な側面として注目されています。",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01050-0/fulltext?rss=yes",
+          "jumpUrl": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01050-0/fulltext?rss=yes#:~:text=Nephromegaly-driven%20malnutrition%20in%20autosomal%20dominant%20polyc",
+          "badge": "The Lancet",
+          "primary": true
+        },
+        {
+          "title": "第８回医療扶助・健康管理支援等に関する検討会の開催について（報道発表）",
+          "source": "厚労省",
+          "publishedAt": "2026-10-21T14:00:00+09:00",
+          "summary": "厚生労働省は、第8回医療扶助・健康管理支援等に関する検討会を開催すると発表しました。この検討会は、医療扶助制度の適切な運用と被保護者の健康管理支援について議論することを目的としています。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76805.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_76805.html#:~:text=%E7%AC%AC%EF%BC%98%E5%9B%9E%E5%8C%BB%E7%99%82%E6%89%B6%E5%8A%A9%E3%83%BB%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E6%94%AF%E6%8F%B4%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "New horizons in cooking and mealtime interventions for mild cognitive impairment and early dementia: a scoping review.",
+          "source": "The journal of nutrition, health & aging",
+          "publishedAt": "2026-10-20T00:00:00+09:00",
+          "summary": "軽度認知障害や初期の認知症患者とその介護者に対する料理や食事介入に関する文献を調査した結果、食事ルーチンの確立や介護者の対処スキルが介入の潜在的なメカニズムとして報告されています。これらの介入は、栄養摂取や社会的つながりを改善し、介護者のストレス軽減に寄与する可能性が示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42901024/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42901024/#:~:text=Qualitative%20and%20mixed%20methods%20studies%20%28n%3D12%29%20highlighted%20pot",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "「事業場における労働者の健康保持増進のための指針」について（公示）",
+          "source": "厚労省",
+          "publishedAt": "2026-10-19T14:00:00+09:00",
+          "summary": "",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76807.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_76807.html",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Vitamin D Supplementation and Improvement in Insomnia Symptoms Among Malaysian Women With Vitamin D Deficiency: Protocol for a Randomized Controlled Trial.",
+          "source": "JMIR research protocols",
+          "publishedAt": "2026-10-19T00:00:00+09:00",
+          "summary": "Insomnia is a prevalent sleep disorder associated with adverse physical, psychological, and functional outcomes. Emergin",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42896117/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42896117/#:~:text=Insomnia%20is%20a%20prevalent%20sleep%20disorder%20associated%20with%20adver",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Association of early life adversity and peer victimisation with psychopathology and inflammatory-metabolic risk in adolescents from the eBRAIN study: the role of sex and diet.",
+          "source": "Brain, behavior, and immunity",
+          "publishedAt": "2026-10-19T00:00:00+09:00",
+          "summary": "Adolescence is a sensitive developmental period during which psychosocial stress can become biologically embedded, incre",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42896764/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42896764/#:~:text=Adolescence%20is%20a%20sensitive%20developmental%20period%20during%20which",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Optimising Nutritional Psychiatry Treatment: Investigating the Mediterranean Diet to Improve Symptoms of Major Depressive Disorder (OPTIMISM): a double-blind sham-controlled randomised feeding trial protocol - CORRIGENDUM.",
+          "source": "The British journal of nutrition",
+          "publishedAt": "2026-10-16T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42885695/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42885695/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Whole systems traditional Chinese medicine utilization among women undergoing frozen embryo transfers at an academic fertility center.",
+          "source": "F&S reports",
+          "publishedAt": "2026-10-01T00:00:00+09:00",
+          "summary": "To investigate sociodemographic and clinical variables associated with Whole Systems Traditional Chinese Medicine (WS-TC",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42903621/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42903621/#:~:text=To%20investigate%20sociodemographic%20and%20clinical%20variables%20assoc",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "A little look at the D Kurd 10 in action. One of the classic handpan layouts, with a sound that makes it easy to get lost in playing.",
+          "source": "Reddit",
+          "publishedAt": "2026-10-22T22:00:07+09:00",
+          "summary": "D Kurd 10は、クラシックなハンドパンのレイアウトの一つであり、その音色は演奏に没頭しやすい特徴を持っています。この楽器は、多くのプレイヤーに愛されているモデルです。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xchwhx/a_little_look_at_the_d_kurd_10_in_action_one_of/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xchwhx/a_little_look_at_the_d_kurd_10_in_action_one_of/#:~:text=One%20of%20the%20classic%20handpan%20layouts%2C%20with%20a%20sound%20that%20makes%20",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Handpan Community",
+          "source": "Reddit",
+          "publishedAt": "2026-10-22T12:37:36+09:00",
+          "summary": "テキサス州ヒューストン地域でハンドパンを始めたばかりのユーザーが、他のプレイヤーとの交流を求めています。一緒に演奏したり、学び合ったり、音楽を楽しめる仲間を探しており、地域のコミュニティやイベントに関する情報を求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xc7zt8/handpan_community/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xc7zt8/handpan_community/#:~:text=I%E2%80%99m%20looking%20to%20connect%20with%20other%20handpan%20players%20in%20the%20are",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Budget friendly beginner option",
+          "source": "Reddit",
+          "publishedAt": "2026-10-22T10:01:09+09:00",
+          "summary": "Redditユーザーの/u/MeandThorneは、趣味が続くか不確かなため、初心者向けの予算に優しい選択肢を探しています。高価なものには手を出したくないと考えています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xc4t60/budget_friendly_beginner_option/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xc4t60/budget_friendly_beginner_option/#:~:text=Not%20sure%20I%E2%80%99ll%20stay%20with%20it%20so%20don%E2%80%99t%20want%20to%20go%20expensive",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "奥村 将和 on Instagram: \"10/31 新穂高ロープウェイ 素敵な場所でハンドパン演奏させていただきます 15時と18時30分からの予定です #handpan #ハンドパン\"",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-21T16:32:19+09:00",
+          "summary": "奥村将和さんが10月31日に新穂高ロープウェイでハンドパンの演奏会を開催します。演奏は15時と18時30分の2回を予定しています。",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BWjR6czhkUDRxdzhlVjJXRGsxcWgtS1dsT04xd2s5U0oyZEVwdkNSNVVUbU5talMtQ0FV?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BWjR6czhkUDRxdzhlVjJXRGsxcWgtS1dsT04xd2s5U0oyZEVwdkNSNVVUbU5talMtQ0FV?oc=5#:~:text=10%2F31%20%E6%96%B0%E7%A9%82%E9%AB%98%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E7%B4%A0%E6%95%B5%E3%81%AA%E5%A0%B4%E6%89%80%E3%81%A7%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E6%BC%94%E5%A5%8F%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "日本の秋の歌メドレー | GARDEN WINDS feat.奥村将和 | Oboe:山本直人 Piano:岩瀬貴浩 Handpan:奥村将和 | 三井オーシャンフジ OCEAN STAGE",
+          "source": "YouTube",
+          "publishedAt": "2026-10-18T20:20:33+09:00",
+          "summary": "YouTubeチャンネル「GARDEN WINDS」が、オーボエの山本直人、ピアノの岩瀬貴浩、ハンドパンの奥村将和をフィーチャーした日本の秋の歌メドレーを公開しました。この演奏は三井オーシャンフジのOCEAN STAGEで行われました。",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90UEE3SUhaUGp0aFZxZDFheWxqUktUQ1JRYmZZdk1PYmttWlpUakhUSmRZdGx2TmZQS2N6UzFLZnBpZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90UEE3SUhaUGp0aFZxZDFheWxqUktUQ1JRYmZZdk1PYmttWlpUakhUSmRZdGx2TmZQS2N6UzFLZnBpZw?oc=5#:~:text=%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%8B%E3%81%AE%E6%AD%8C%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20%7C%20GARDEN%20WINDS%20feat.%E5%A5%A5%E6%9D%91%E5%B0%86%E5%92%8C%20%7C%20Oboe%3A%E5%B1%B1%E6%9C%AC%E7%9B%B4%E4%BA%BA%20Piano%3A%E5%B2%A9%E7%80%AC%E8%B2%B4%E6%B5%A9%20H",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "人生を奏でる音色―ハンドパンと生き方に出会うトーク＆ライブー",
+          "source": "徳島新聞デジタル",
+          "publishedAt": "2026-10-13T15:02:31+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYkJ4NEFyTjBQNFBVQ0ZreUtNYkVDTjFZbXdaOW5Yd0ZKR0pxUk05ZDRVcWRJY2gyNm5tSXFkcEhIS2YtbVR4cHZWa2h5WVNRRGdieWhpNDBGTWhWWmlhY1JNVnEzSVJUaFEw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYkJ4NEFyTjBQNFBVQ0ZreUtNYkVDTjFZbXdaOW5Yd0ZKR0pxUk05ZDRVcWRJY2gyNm5tSXFkcEhIS2YtbVR4cHZWa2h5WVNRRGdieWhpNDBGTWhWWmlhY1JNVnEzSVJUaFEw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校",
+          "source": "YTS山形テレビ",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzlOcEV0eU90RDFMclZ5NEcycUpuNHpXbmgtNGZqdkE3SUZqZVlfSVFfc0lGUVkyNXlVNHFtQloxZktBa3R1YnpXWnhHcGxx?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzlOcEV0eU90RDFMclZ5NEcycUpuNHpXbmgtNGZqdkE3SUZqZVlfSVFfc0lGUVkyNXlVNHFtQloxZktBa3R1YnpXWnhHcGxx?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "スイス生まれの優しい音色「ハンドパン」 小学生が演奏体験・楽器の魅力に触れる 山形・村山市",
+          "source": "FNNプライムオンライン",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZeF9jYVdxLWtMblJxNk8tTURXRVk5eGt0MndLZHVfaGg3ZHlmdjlvU21DQzVJUGNqY0doTUpUd0pUXzF1MThoNU5adjhjdw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZeF9jYVdxLWtMblJxNk8tTURXRVk5eGt0MndLZHVfaGg3ZHlmdjlvU21DQzVJUGNqY0doTUpUd0pUXzF1MThoNU5adjhjdw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "星空の天体観測やハンドパン！『ビュー福島潟』で『ガタベリング2026 in 福島潟』開催！10月11日。",
+          "source": "にいがた速報",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZlBBa1JrekU4dkR0cHB3a2ZoR0tSYzVHNGhOUFJWODhUUGZOZHktaThFYy0zOWZucm5PXzAycnNkRjkzS2RrWGVZMVBObjRZUnc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZlBBa1JrekU4dkR0cHB3a2ZoR0tSYzVHNGhOUFJWODhUUGZOZHktaThFYy0zOWZucm5PXzAycnNkRjkzS2RrWGVZMVBObjRZUnc?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "燕市初のシティプロモーション地域おこし協力隊に東京の23歳デザイナー ハンドパンに魅了される – kenoh.com",
+          "source": "kenoh.com",
+          "publishedAt": "2026-10-08T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yMUEyZmtNcVZvUW9YaEpUN2w4R3FWMTJFRG82UHpDOUZGSl9ZNzNYZnByYWlxQmctZkQ5YVJvbkoyZWotQmdsNQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yMUEyZmtNcVZvUW9YaEpUN2w4R3FWMTJFRG82UHpDOUZGSl9ZNzNYZnByYWlxQmctZkQ5YVJvbkoyZWotQmdsNQ?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-23T07:24:34+09:00",
+          "summary": "データベースの採点プロセスを強化学習の報酬として利用し、ThinkingBoxを用いてエージェントを後学習させることで、効率的なトレーニング手法を開発しました。このアプローチにより、データベース関連タスクにおけるエージェントのパフォーマンス向上が期待されます。",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "jumpUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training#:~:text=Turning%20Database%20Grading%20into%20RL%20Rewards%3A%20Post-Training%20Agen",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Build more responsive apps with the Decisions API",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-23T04:00:00+09:00",
+          "summary": "OpenAIは、あらゆるアプリケーション向けに、迅速で焦点を絞った低コストの意思決定を可能にするDecisions APIを発表しました。このAPIにより、より応答性の高いアプリケーションの構築が促進されます。",
+          "url": "https://openai.com/index/decisions-api",
+          "jumpUrl": "https://openai.com/index/decisions-api#:~:text=Fast%2C%20focused%2C%20low-cost%20decisions%20for%20any%20application.",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-23T01:11:31+09:00",
+          "summary": "OlmoEarth v1.3は、地球全体をカバーする最先端の埋め込みモデルです。このモデルは、地理空間データ分析において、より高度な性能と効率を提供します。",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "jumpUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3#:~:text=OlmoEarth%20v1.3%3A%20State-of-the-art%20embeddings%20for%20the%20whole%20pl",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "source": "DeepMind",
+          "publishedAt": "2026-10-22T23:30:24+09:00",
+          "summary": "DeepMindは、地球上の10メートル四方の土地を異なる森林タイプに分類する世界地図を作成しました。この地図は、単なる樹木被覆を超えて、世界の森林タイプを詳細にマッピングするものです。",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "jumpUrl": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/#:~:text=A%20global%20map%20categorizing%20every%2010-meter%20patch%20of%20land%20on%20Ea",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-22T16:51:31+09:00",
+          "summary": "IBMは、Hugging Face上でGranite時系列モデルを公開し、アンサンブル予測の性能向上を目指しています。これらのモデルは、時系列データ分析における最先端技術を提供し、予測精度を高めることを目的としています。",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "jumpUrl": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1#:~:text=IBM%20has%20released%20its%20Granite%20time-series%20models%20on%20Hugging%20F",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-22T09:00:00+09:00",
+          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentatio",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "jumpUrl": "https://openai.com/index/uber-chatgpt-work-rollout#:~:text=Uber%20is%20rolling%20out%20ChatGPT%20Work%20to%20more%20than%2030%2C000%20employe",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Broad access through consistent standards",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-22T06:00:00+09:00",
+          "summary": "How works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectatio",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "jumpUrl": "https://openai.com/index/broad-access-through-consistent-standards#:~:text=How%20works%20with%20distribution%20partners%20to%20uphold%20consistent%20sa",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Southeast Asia’s digital economy to hit $368 billion",
+          "source": "Google AI",
+          "publishedAt": "2026-10-21T13:00:00+09:00",
+          "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillio",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "jumpUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/#:~:text=Widespread%20AI%20adoption%20is%20propelling%20Southeast%20Asia%27s%20digita",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "現場・開発向けエージェントで業務スピードを「5～10倍」に ― Snowflakeの統合基盤で変革する日本企業の挑戦 (1/4)",
+          "source": "ASCII.jp",
+          "publishedAt": "2026-10-23T08:30:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mLVlkX21Yck42Smx6V3Z1VTBIbFJacllpY2R2ZlhvbWd4SDhHVU9ERlhpM2MzdE56djM1WW4wWVRSQlRkVDNKV2xzZnZWZWpiMWpqWQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mLVlkX21Yck42Smx6V3Z1VTBIbFJacllpY2R2ZlhvbWd4SDhHVU9ERlhpM2MzdE56djM1WW4wWVRSQlRkVDNKV2xzZnZWZWpiMWpqWQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "米大手行、サードパーティー製ＡＩエージェントの口座アクセス遮断＝関係筋（ロイター）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-23T08:15:15+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVDByR3d5ZHpVZVNKbjZjV1JjdGFTZjFjeUFHS01fUnVfdXVXVFlLODhxeVVUUVUzT1pIVkpyUmxUcThaQ3N1clpxT3dZZnZHN25SbTlsNjRieDZwVGpEWWJ2UkhWZFp6U0NVaVNZYmw1ZGlIX2Y0cEhaMGowVFk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVDByR3d5ZHpVZVNKbjZjV1JjdGFTZjFjeUFHS01fUnVfdXVXVFlLODhxeVVUUVUzT1pIVkpyUmxUcThaQ3N1clpxT3dZZnZHN25SbTlsNjRieDZwVGpEWWJ2UkhWZFp6U0NVaVNZYmw1ZGlIX2Y0cEhaMGowVFk?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    }
+  ]
+}
