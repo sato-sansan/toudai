@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T09:16:24.300913+09:00",
+  "audioUrl": "audio/2026-10-28.mp3",
+  "audioScript": "10月28日、水曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、広報誌「広報けせんぬま」の令和8年11月1日号をウェブサイトに掲載しました。この号では、市の最新情報やイベント、市民生活に役立つ情報などが提供されています。気仙沼市公式。気仙沼市は、令和8年11月請求分の水道基本料金を減免すると発表しました。これは市民の経済的負担を軽減するための一時的な措置です。気仙沼市公式。気仙沼市は、令和8年度の市政懇談会を面瀬地区で開催し、その資料を公開しました。この懇談会は、市民と市政の対話を促進することを目的としています。\n\n■ 分子栄養。Current opinion in psychiatryによると、ケトジェニックダイエット（KD）は、気分障害（MDs）の補助的治療法として注目されており、特にうつ病症状の改善に有効であると報告されています。しかし、標準化された実施基準の欠如や潜在的な副作用も指摘されており、日常的な臨床実践にはさらなる研究が必要とされています。と報告されています。The Lancetによると、常染色体優性多発性嚢胞腎（ADPKD）に関するレビューが発表され、腎臓病学分野への重要な貢献であると報告されています。このレビューは、ADPKDにおける腎臓肥大に起因する栄養失調について深く掘り下げています。と報告されています。厚労省。厚生労働省は、第38回アルコール健康障害対策関係者会議を2024年3月27日に開催すると発表しました。この会議は、アルコール健康障害対策基本法に基づき、アルコール関連問題への対策を議論することを目的としています。\n\n■ ハンドパン。Reddit。申し訳ありませんが、提供された記事の抜粋には要約できるほどの情報が含まれていません。タイトルと出典、投稿者名のみで、具体的な内容が不足しています。Reddit。投稿者は2つのタンドラム（Rav VastとNew Wave 10）の購入を検討しており、直接試奏できないため悩んでいます。Rav Vastの音は良いがサイズが大きく、幼児が扱えるかどうかも懸念しています。価格は問題ではないため、意見や考慮すべき点を求めています。Reddit。ハンドパンの底面シェルにある高音域の音を出すのが難しいか、また、それらの音を効果的に使用して良い音を出すことができるかについて、ユーザーが経験談を求めています。多くの動画でこれらの音があまり使われていないことに疑問を抱いています。\n\n■ AI。Hugging Face。Hugging Faceは、LFM3（Large Function Model for Multimodal Models）を発表しました。これは、多様なモダリティに対応する特殊なマルチモーダルモデルを構築するための新しいフレームワークです。LFM3は、既存の基盤モデルを特定のタスクやデータセットに合わせて調整することを可能にし、より効率的で高性能なモデル開発を支援します。Hugging Face。大規模言語モデル（LLM）が研究アイデアの新規性を評価できるかという疑問に対し、Hugging Faceの研究者たちは、LLMが既存の論文を特定し、アイデアの新規性を判断する能力を検証しました。彼らの実験では、LLMが新規性評価において有望な結果を示す一方で、その判断の信頼性にはまだ課題があることが示唆されています。DeepMind。DeepMindは、リアルタイムシミュレーションにおいて前例のないリアリズムを実現する新しい世界モデル「Genie 4」を発表しました。このモデルは、世界シミュレーションの新たな世代を切り開くものです。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "「広報けせんぬま」令和8年11月1日号を掲載しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-28T08:30:00+09:00",
+          "summary": "気仙沼市は、広報誌「広報けせんぬま」の令和8年11月1日号をウェブサイトに掲載しました。この号では、市の最新情報やイベント、市民生活に役立つ情報などが提供されています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/010/108/081101/20261027184014.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/010/108/081101/20261027184014.html#:~:text=%E5%BA%83%E5%A0%B1%E3%81%91%E3%81%9B%E3%82%93%E3%81%AC%E3%81%BE%E3%80%8D%E4%BB%A4%E5%92%8C8%E5%B9%B411%E6%9C%881%E6%97%A5%E5%8F%B7%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "令和8年11月請求分の水道基本料金を減免します",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-28T08:30:00+09:00",
+          "summary": "気仙沼市は、令和8年11月請求分の水道基本料金を減免すると発表しました。これは市民の経済的負担を軽減するための一時的な措置です。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s142/20261013100021.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s142/20261013100021.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B411%E6%9C%88%E8%AB%8B%E6%B1%82%E5%88%86%E3%81%AE%E6%B0%B4%E9%81%93%E5%9F%BA%E6%9C%AC%E6%96%99%E9%87%91%E3%82%92%E6%B8%9B%E5%85%8D%E3%81%97%E3%81%BE%E3%81%99",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "令和8年度市政懇談会について（面瀬地区市政懇談会資料をアップしました）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-10-27T17:00:00+09:00",
+          "summary": "気仙沼市は、令和8年度の市政懇談会を面瀬地区で開催し、その資料を公開しました。この懇談会は、市民と市政の対話を促進することを目的としています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E3%82%92%E9%9D%A2%E7%80%AC%E5%9C%B0%E5%8C%BA%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%80%81%E3%81%9D%E3%81%AE%E8%B3%87%E6%96%99%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "カツオ水揚げ３万㌧突破",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-10-28T09:05:38+09:00",
+          "summary": "三陸新報社によると、カツオの水揚げ量が3万トンを突破しました。これは漁業関係者にとって重要な節目となります。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pLXRuVlZiU0ltUXJSUEV0dDdMalBDVUZOMk9KcTF5VzRXaU02RVptZFJBSTgzUDFuczFnbVZQcUtEUm9kS2dlT1loVl9mRDRxa1hPbkNjVGI?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pLXRuVlZiU0ltUXJSUEV0dDdMalBDVUZOMk9KcTF5VzRXaU02RVptZFJBSTgzUDFuczFnbVZQcUtEUm9kS2dlT1loVl9mRDRxa1hPbkNjVGI?oc=5#:~:text=%E3%82%AB%E3%83%84%E3%82%AA%E6%B0%B4%E6%8F%9A%E3%81%92%EF%BC%93%E4%B8%87%E3%8C%A7%E7%AA%81%E7%A0%B4",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「地域の人たちに支えてもらった」気仙沼市・唐桑中学校で「最後の運動会」＜宮城＞（ミヤギテレビ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-27T20:06:00+09:00",
+          "summary": "宮城県気仙沼市の唐桑中学校で、閉校を前に「最後の運動会」が開催されました。生徒たちは地域住民の温かい声援を受けながら、伝統ある運動会を締めくくりました。この運動会は、長年にわたり学校を支えてきた地域への感謝を示す場となりました。",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdWZnaWJPZ2Y5R2lKVXBJcWowaUlRMzJlM0tIQlVpd1lCQXExQ2NfSHktS2lfMUkzbmdxOGloc3l5ZXRvRlQ3a1IzWmFfVGlsTmNaU2xnekk2ZUlsQVNuR1p2WFdWYnkweXN3Vzdud094clBYM1djYk5WSXZFT0U?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdWZnaWJPZ2Y5R2lKVXBJcWowaUlRMzJlM0tIQlVpd1lCQXExQ2NfSHktS2lfMUkzbmdxOGloc3l5ZXRvRlQ3a1IzWmFfVGlsTmNaU2xnekk2ZUlsQVNuR1p2WFdWYnkweXN3Vzdud094clBYM1djYk5WSXZFT0U?oc=5#:~:text=%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%AB%E6%94%AF%E3%81%88%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%80%8D%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%83%BB%E5%94%90%E6%A1%91%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%80%8C%E6%9C%80%E5%BE%8C%E3%81%AE%E9%81%8B%E5%8B%95%E4%BC%9A",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "生鮮カツオ日本一の気仙沼港、味わうなら刺し身：漁船支え、350年の歴史（nippon.com）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-27T16:20:09+09:00",
+          "summary": "気仙沼港は生鮮カツオの水揚げ量が日本一であり、その歴史は350年にも及びます。新鮮なカツオを味わうなら刺し身が最もおすすめとされています。",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGc5ckV1ZUZJQ19HZGdkbHBlWGRBa1F0MXhtOXk2STZIVW5LTmY3VGZGaVFqOWUwZGg2WUNkMXh1ODc5Njd6SnV3VWw4NjV6anFvbVkxeGZEOUNOTFdPOC1wWUtwOXQ3OGJJMVJQc0pGeGNmSk5oZGlURUZlNWxfbC11Y0w2N1Fh?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGc5ckV1ZUZJQ19HZGdkbHBlWGRBa1F0MXhtOXk2STZIVW5LTmY3VGZGaVFqOWUwZGg2WUNkMXh1ODc5Njd6SnV3VWw4NjV6anFvbVkxeGZEOUNOTFdPOC1wWUtwOXQ3OGJJMVJQc0pGeGNmSk5oZGlURUZlNWxfbC11Y0w2N1Fh?oc=5#:~:text=%E7%94%9F%E9%AE%AE%E3%82%AB%E3%83%84%E3%82%AA%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%AE%E6%B0%97%E4%BB%99%E6%B2%BC%E6%B8%AF%E3%80%81%E5%91%B3%E3%82%8F%E3%81%86%E3%81%AA%E3%82%89%E5%88%BA%E3%81%97%E8%BA%AB",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "生鮮カツオ日本一の気仙沼港、味わうなら刺し身：漁船支え、350年の歴史 (nippon.com)",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-27T16:20:09+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2lnLWdvMUdEUmt6RmJLbEs3RjZyblk3ejVsZTc4NmtKc3V1aWdnZ0REUERZVnRGNWpkVnAwT2kxSkhJRWZramdNTkx0dFVvRlVYTFYyaTE3akZfTWJjSFdFVFQ2clpxRkQ1aGFqQU9Bb0ZkejFnYzkxV0lwem5uNVA5MDVrbldDTlZObUhn?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2lnLWdvMUdEUmt6RmJLbEs3RjZyblk3ejVsZTc4NmtKc3V1aWdnZ0REUERZVnRGNWpkVnAwT2kxSkhJRWZramdNTkx0dFVvRlVYTFYyaTE3akZfTWJjSFdFVFQ2clpxRkQ1aGFqQU9Bb0ZkejFnYzkxV0lwem5uNVA5MDVrbldDTlZObUhn?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「少しでも事故が少なくなってくれたら」10月は漁業の安全月間 宮城海保と高校生が漁港へ 宮城・気仙沼市（tbc東北放送）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-27T16:00:33+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYnVHY213cWFvVzhvT1J2V2ZQUmxMd21sZko0emo5Nm1qTmhiTEtfdWRvUUR6V3JGWXFVc0ZpMGg5b0JkdndmSi1MOXkzUG9ITnpQcEV4alJGMUJQTHBiNnlDYlQ3MThaemc2ZExLMnhPNHNGbDFNdXJxRDVsVVE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYnVHY213cWFvVzhvT1J2V2ZQUmxMd21sZko0emo5Nm1qTmhiTEtfdWRvUUR6V3JGWXFVc0ZpMGg5b0JkdndmSi1MOXkzUG9ITnpQcEV4alJGMUJQTHBiNnlDYlQ3MThaemc2ZExLMnhPNHNGbDFNdXJxRDVsVVE?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城 化石が多数発見された気仙沼で「化石展」",
+          "source": "NHKニュース",
+          "publishedAt": "2026-10-27T15:16:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZE9ZXy1jNW1WY1F0NWQ2cV9aRTZHcWZxQ01IWmVtZFlJTDVWR1M5VjhFNHEzcm9tWm41TzUwZ2o0c2dseG9vaDA4RmNrSUlELVczekZKVXkzT0p6SGVr?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZE9ZXy1jNW1WY1F0NWQ2cV9aRTZHcWZxQ01IWmVtZFlJTDVWR1M5VjhFNHEzcm9tWm41TzUwZ2o0c2dseG9vaDA4RmNrSUlELVczekZKVXkzT0p6SGVr?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼市産業まつりに内外から２万人超",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-10-27T09:03:04+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ldmRhRUxxRFIwT2JnNTREbWJtelJ1RmVDUWMxcGZVcHEwNDA5Z0UwRWxWUGdsV09YNm1Vb1VVMG9YcVVtZlJqUm5JRWhoZ3Bkbm83RGhPX3k?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ldmRhRUxxRFIwT2JnNTREbWJtelJ1RmVDUWMxcGZVcHEwNDA5Z0UwRWxWUGdsV09YNm1Vb1VVMG9YcVVtZlJqUm5JRWhoZ3Bkbm83RGhPX3k?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Is a ketogenic diet useful in the management of mood disorders?",
+          "source": "Current opinion in psychiatry",
+          "publishedAt": "2026-10-27T00:00:00+09:00",
+          "summary": "ケトジェニックダイエット（KD）は、気分障害（MDs）の補助的治療法として注目されており、特にうつ病症状の改善に有効であると報告されています。しかし、標準化された実施基準の欠如や潜在的な副作用も指摘されており、日常的な臨床実践にはさらなる研究が必要とされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42937055/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42937055/#:~:text=Randomized%20and%20prospective%20studies%20have%20strengthened%20the%20cli",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease",
+          "source": "The Lancet",
+          "publishedAt": "2026-10-24T00:00:00+09:00",
+          "summary": "常染色体優性多発性嚢胞腎（ADPKD）に関するレビューが発表され、腎臓病学分野への重要な貢献であると報告されています。このレビューは、ADPKDにおける腎臓肥大に起因する栄養失調について深く掘り下げています。",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01050-0/fulltext?rss=yes",
+          "jumpUrl": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01050-0/fulltext?rss=yes#:~:text=We%20read%20with%20great%20interest%20the%20Review%20by%20Albert%20C%20M%20Ong%20and",
+          "badge": "The Lancet",
+          "primary": true
+        },
+        {
+          "title": "第38回アルコール健康障害対策関係者会議の開催について",
+          "source": "厚労省",
+          "publishedAt": "2026-10-23T14:00:00+09:00",
+          "summary": "厚生労働省は、第38回アルコール健康障害対策関係者会議を2024年3月27日に開催すると発表しました。この会議は、アルコール健康障害対策基本法に基づき、アルコール関連問題への対策を議論することを目的としています。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76788.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_76788.html#:~:text=%E7%AC%AC38%E5%9B%9E%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E5%81%A5%E5%BA%B7%E9%9A%9C%E5%AE%B3%E5%AF%BE%E7%AD%96%E9%96%A2%E4%BF%82%E8%80%85%E4%BC%9A%E8%AD%B0%E3%82%92%E4%B8%8B%E8%A8%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "第８回医療扶助・健康管理支援等に関する検討会の開催について（報道発表）",
+          "source": "厚労省",
+          "publishedAt": "2026-10-21T14:00:00+09:00",
+          "summary": "第8回医療扶助・健康管理支援等に関する検討会が開催されることになりました。この検討会は、生活保護受給者の医療扶助や健康管理支援について議論することを目的としています。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76805.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_76805.html#:~:text=%E7%AC%AC%EF%BC%98%E5%9B%9E%E5%8C%BB%E7%99%82%E6%89%B6%E5%8A%A9%E3%83%BB%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E6%94%AF%E6%8F%B4%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Beyond Body Weight: Mapping Vitamin, Mineral, and Trace-Element Status in Anorexia Nervosa-Scoping Review.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-21T00:00:00+09:00",
+          "summary": "神経性やせ症（AN）患者のビタミン、ミネラル、微量元素の状態に関する研究をまとめたレビューによると、これらの栄養素の欠乏が報告されています。特に、ビタミンD、カルシウム、亜鉛、鉄などの欠乏が頻繁に指摘されており、骨密度低下や免疫機能障害などの合併症と関連している可能性が示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42943021/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42943021/#:~:text=%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3D%E3%80%81%E3%82%AB%E3%83%AB%E3%82%B7%E3%82%A6%E3%83%A0%E3%80%81%E4%BA%9C%E9%89%9B%E3%80%81%E9%89%84%E3%81%AA%E3%81%A9%E3%81%AE%E6%AC%A0%E4%B9%8F%E3%81%8C%E9%A0%BB%E7%B9%81%E3%81%AB%E6%8C%87%E6%91%98%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "MTHFR C677T and Brain MRI Patterns Across Cognitive and Vascular Disorders: A Systematic Review.",
+          "source": "Biomedicines",
+          "publishedAt": "2026-10-17T00:00:00+09:00",
+          "summary": "MTHFR C677T遺伝子多型と脳MRIパターンに関する認知・血管障害における関連性を調査したシステマティックレビューが報告されています。このレビューは、MTHFR C677Tが脳の構造的変化や認知機能に与える影響について、既存の研究を統合し、その関連性を評価しています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42940174/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42940174/#:~:text=MTHFR%20C677T%20and%20Brain%20MRI%20Patterns%20Across%20Cognitive%20and%20Vasc",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Changes in Bile Acid Metabolism and Nutrient-Stimulated Hormone Responses After Malabsorptive Metabolic Surgery: RYGB Versus SADI-S.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-16T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42942969/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42942969/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Emotional Eating Beyond Obesity: A Transdiagnostic Conceptual Analysis of Phenotyping, Measurement, and Priorities for Clinical Validation.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-16T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42942970/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42942970/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Dietary Vitamin Intake and Cognitive Performance in Adults with Long COVID: The BioICOPER Study.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-14T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42942941/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42942941/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Comparative Effectiveness of Nutritional Strategies for Sarcopenia-Related Outcomes in Older Adults: A Systematic Review and Network Meta-Analysis.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-14T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42942938/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42942938/",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "In a old rocky stream passway.",
+          "source": "Reddit",
+          "publishedAt": "2026-10-27T23:07:57+09:00",
+          "summary": "申し訳ありませんが、提供された記事の抜粋には要約できるほどの情報が含まれていません。タイトルと出典、投稿者名のみで、具体的な内容が不足しています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xgtiym/in_a_old_rocky_stream_passway/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xgtiym/in_a_old_rocky_stream_passway/#:~:text=submitted%20by%20%2Fu%2FPoil-au-dents%20%5Blink%5D%20%5Bcomments",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Rav moon or New Wave 10",
+          "source": "Reddit",
+          "publishedAt": "2026-10-27T22:35:31+09:00",
+          "summary": "投稿者は2つのタンドラム（Rav VastとNew Wave 10）の購入を検討しており、直接試奏できないため悩んでいます。Rav Vastの音は良いがサイズが大きく、幼児が扱えるかどうかも懸念しています。価格は問題ではないため、意見や考慮すべき点を求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xgspjf/rav_moon_or_new_wave_10/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xgspjf/rav_moon_or_new_wave_10/#:~:text=The%20Rav%20vast%20sounds%20great%20but%20I%20just%20don%E2%80%99t%20know%20if%20I%E2%80%99m%20up%20fo",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "High notes on bottom shell",
+          "source": "Reddit",
+          "publishedAt": "2026-10-27T00:31:15+09:00",
+          "summary": "ハンドパンの底面シェルにある高音域の音を出すのが難しいか、また、それらの音を効果的に使用して良い音を出すことができるかについて、ユーザーが経験談を求めています。多くの動画でこれらの音があまり使われていないことに疑問を抱いています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xg02wo/high_notes_on_bottom_shell/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xg02wo/high_notes_on_bottom_shell/#:~:text=With%20handpans%20that%20have%20the%20high%20notes%20on%20the%20front%20part%20of%20",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "人生を奏でる音色―ハンドパンと生き方に出会うトーク＆ライブー",
+          "source": "徳島新聞デジタル",
+          "publishedAt": "2026-10-13T15:02:31+09:00",
+          "summary": "徳島新聞デジタルで「人生を奏でる音色―ハンドパンと生き方に出会うトーク＆ライブー」というイベントが紹介されました。このイベントは、ハンドパンの演奏を通じて、参加者が自身の生き方について考えるきっかけを提供するものです。",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYkJ4NEFyTjBQNFBVQ0ZreUtNYkVDTjFZbXdaOW5Yd0ZKR0pxUk05ZDRVcWRJY2gyNm5tSXFkcEhIS2YtbVR4cHZWa2h5WVNRRGdieWhpNDBGTWhWWmlhY1JNVnEzSVJUaFEw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYkJ4NEFyTjBQNFBVQ0ZreUtNYkVDTjFZbXdaOW5Yd0ZKR0pxUk05ZDRVcWRJY2gyNm5tSXFkcEhIS2YtbVR4cHZWa2h5WVNRRGdieWhpNDBGTWhWWmlhY1JNVnEzSVJUaFEw?oc=5#:~:text=%E4%BA%BA%E7%94%9F%E3%82%92%E5%A5%8F%E3%81%A7%E3%82%8B%E9%9F%B3%E8%89%B2%E2%80%95%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%A8%E7%94%9F%E3%81%8D%E6%96%B9%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%86%E3%83%88%E3%83%BC%E3%82%AF%EF%BC%86%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BC",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校",
+          "source": "YTS山形テレビ",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "山形県村山市の小学校で、児童がスイス発祥の打楽器「ハンドパン」を体験しました。この体験は、珍しい楽器に触れる機会を提供し、児童たちはその独特の音色を楽しみました。",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzlOcEV0eU90RDFMclZ5NEcycUpuNHpXbmgtNGZqdkE3SUZqZVlfSVFfc0lGUVkyNXlVNHFtQloxZktBa3R1YnpXWnhHcGxx?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzlOcEV0eU90RDFMclZ5NEcycUpuNHpXbmgtNGZqdkE3SUZqZVlfSVFfc0lGUVkyNXlVNHFtQloxZktBa3R1YnpXWnhHcGxx?oc=5#:~:text=%E5%85%90%E7%AB%A5%E3%81%8C%E3%82%B9%E3%82%A4%E3%82%B9%E7%99%BA%E7%A5%A5%E3%81%AE%E6%89%93%E6%A5%BD%E5%99%A8%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%80%8D%E4%BD%93%E9%A8%93%20%E6%9D%91%E5%B1%B1%E5%B8%82%E3%81%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "スイス生まれの優しい音色「ハンドパン」 小学生が演奏体験・楽器の魅力に触れる 山形・村山市",
+          "source": "FNNプライムオンライン",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZeF9jYVdxLWtMblJxNk8tTURXRVk5eGt0MndLZHVfaGg3ZHlmdjlvU21DQzVJUGNqY0doTUpUd0pUXzF1MThoNU5adjhjdw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZeF9jYVdxLWtMblJxNk8tTURXRVk5eGt0MndLZHVfaGg3ZHlmdjlvU21DQzVJUGNqY0doTUpUd0pUXzF1MThoNU5adjhjdw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "画像・写真 | ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS 2枚目",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "南日本新聞",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSVZ5aHA5aG9TclNPd0M0ZS1SdHJJN2pGR2FmLUlhM2VSczdZdjRxcHVnWk1SS1ltYjRoSTZTN3U5OU11X1hQMUZNYmhKa0p5Yi1nVDZyNnYxRDFnY2hfcU9xSTg4Zw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSVZ5aHA5aG9TclNPd0M0ZS1SdHJJN2pGR2FmLUlhM2VSczdZdjRxcHVnWk1SS1ltYjRoSTZTN3U5OU11X1hQMUZNYmhKa0p5Yi1nVDZyNnYxRDFnY2hfcU9xSTg4Zw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "特別企画・展覧会「シルクロードの商人」× ハンドパン演奏",
+          "source": "アットエス",
+          "publishedAt": "2026-09-28T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeTVQZTJ5SldPSWlZd0FaZVByallsLS1ZNnJoTWZMbXlHZUgtMnRNN0tWaFFtRkxxNXYwYUpFb1VzYktmVG85TngzeWpaal9MVkgxRA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeTVQZTJ5SldPSWlZd0FaZVByallsLS1ZNnJoTWZMbXlHZUgtMnRNN0tWaFFtRkxxNXYwYUpFb1VzYktmVG85TngzeWpaal9MVkgxRA?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【募集終了】癒やしの響きハンドパンコンサート",
+          "source": "柏市",
+          "publishedAt": "2026-09-25T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Build specialized multimodal models with LFM3",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-28T02:16:52+09:00",
+          "summary": "Hugging Faceは、LFM3（Large Function Model for Multimodal Models）を発表しました。これは、多様なモダリティに対応する特殊なマルチモーダルモデルを構築するための新しいフレームワークです。LFM3は、既存の基盤モデルを特定のタスクやデータセットに合わせて調整することを可能にし、より効率的で高性能なモデル開発を支援します。",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "jumpUrl": "https://huggingface.co/blog/LiquidAI/lfm3#:~:text=Build%20specialized%20multimodal%20models%20with%20LFM3",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-28T01:12:42+09:00",
+          "summary": "大規模言語モデル（LLM）が研究アイデアの新規性を評価できるかという疑問に対し、Hugging Faceの研究者たちは、LLMが既存の論文を特定し、アイデアの新規性を判断する能力を検証しました。彼らの実験では、LLMが新規性評価において有望な結果を示す一方で、その判断の信頼性にはまだ課題があることが示唆されています。",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "jumpUrl": "https://huggingface.co/blog/allenai/novelty-bench#:~:text=Can%20we%20trust%20LLMs%20to%20judge%20whether%20a%20research%20idea%20is%20novel%3F",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "source": "DeepMind",
+          "publishedAt": "2026-10-28T01:01:38+09:00",
+          "summary": "DeepMindは、リアルタイムシミュレーションにおいて前例のないリアリズムを実現する新しい世界モデル「Genie 4」を発表しました。このモデルは、世界シミュレーションの新たな世代を切り開くものです。",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "jumpUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/#:~:text=Genie%204%3A%20our%20new%20world%20model%20unlocking%20unprecedented%20realism",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-28T00:00:00+09:00",
+          "summary": "RetellはOpenAIモデルを活用し、月間1億件の通話を処理しています。特にGPT-6 Astraは音声エージェントのベンチマークでトップを飾り、Codexは従業員1人あたり年間160万ドルの収益達成に貢献しています。",
+          "url": "https://openai.com/index/retell-ai",
+          "jumpUrl": "https://openai.com/index/retell-ai#:~:text=GPT-6%20Astra%20tops%20Retell%E2%80%99s%20voice%20agent%20benchmark%2C%20while%20Codex",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-27T16:00:00+09:00",
+          "summary": "OpenAIはOracleとの提携を拡大し、ビジネスアプリケーションとAIエージェントをChatGPTに統合します。これにより、Oracleの新しいサービスも強化されます。",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "jumpUrl": "https://openai.com/index/oracle-apps-in-chatgpt#:~:text=OpenAI%20and%20Oracle%20are%20expanding%20their%20partnership%20to%20bring%20b",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "source": "OpenAI",
+          "publishedAt": "2026-10-27T09:00:00+09:00",
+          "summary": "Check PointはOpenAI Daybreakを活用し、新たなセキュリティ保護に関する研究を加速させています。これにより、アナリストは脆弱性情報を顧客防御に迅速に転換できるようになります。",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "jumpUrl": "https://openai.com/index/check-point-daybreak#:~:text=With%20OpenAI%20Daybreak%2C%20Check%20Point%20speeds%20up%20the%20research%20beh",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "source": "Google AI",
+          "publishedAt": "2026-10-27T01:00:00+09:00",
+          "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/#:~:text=Learn%20AI%20literacy%20via%20Google%E2%80%99s%20latest%20AI%20Quests%20lesson%20on%20ne",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "source": "Hugging Face",
+          "publishedAt": "2026-10-23T09:00:00+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "jumpUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "source": "DeepMind",
+          "publishedAt": "2026-10-22T23:30:24+09:00",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "jumpUrl": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/#:~:text=A%20global%20map%20categorizing%20every%2010-meter%20patch%20of%20land%20on%20Ea",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Southeast Asia’s digital economy to hit $368 billion",
+          "source": "Google AI",
+          "publishedAt": "2026-10-21T13:00:00+09:00",
+          "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillio",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "jumpUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/#:~:text=Widespread%20AI%20adoption%20is%20propelling%20Southeast%20Asia%27s%20digita",
+          "badge": "Google AI",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
