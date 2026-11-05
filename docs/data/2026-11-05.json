@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:19:30.907728+09:00",
+  "audioUrl": "audio/2026-11-05.mp3",
+  "audioScript": "11月5日、木曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は令和8年度市政懇談会の資料を公開しました。これは気仙沼地区の市政に関する市民との意見交換を目的としたものです。気仙沼市公式。気仙沼市は、令和8年11月に記者発表資料を更新しました。この更新は、市の公式情報提供の一環として行われたものです。気仙沼市公式。気仙沼市は、市が送付する封筒に広告を掲載する無償提供者を募集しています。これにより、市は封筒の作成費用を削減し、提供者は広告を通じて事業をPRできます。募集は令和9年度に使用する封筒が対象です。\n\n■ 分子栄養。厚労省。厚生労働省は、令和8年度に実施される管理栄養士国家試験の出題基準（ガイドライン）改定に向けた第1回検討会を開催しました。この検討会では、試験内容の見直しに関する資料が提示され、今後の改定作業の方向性が議論されました。厚労省。第41回管理栄養士国家試験は、2027年3月7日（日）に実施される予定です。試験地は北海道、宮城県、東京都、愛知県、大阪府、広島県、福岡県、および沖縄県です。試験科目や受験資格などの詳細は、後日発表される予定です。Nature。Nature誌の新しい研究によると、風味と栄養素の関連付けには、扁桃体基底外側部へのドーパミン経路が不可欠であることが明らかになりました。この経路は、食べ物の風味と栄養価を結びつける学習プロセスにおいて重要な役割を果たすと考えられます。\n\n■ ハンドパン。Reddit。RedditユーザーがF2 Hijaz 17 (432 Hz)のハンドパンを初めて製作し、その過程には多くの苦労があったと報告しています。音の特性、音の分離、美観など、あらゆるフィードバックを求めています。Reddit。RedditユーザーJo-Pan-Jo氏のハンドパン楽曲が111人に保存されたことが報告されました。同氏は、他のユーザーにも自身の楽曲を聴いてみるよう勧めています。Reddit。HandpanNotation.netは、ハンドパンの楽譜作成を支援する無料ツールです。シンプルなグリッド表示で、楽譜の知識がなくても独自の表記を作成できます。MIDIファイルの変換や、オフラインで使用できるPDF出力機能も備わっています。\n\n■ AI。Hugging Face。Dharma Field Extractorは、Hugging Faceが開発したツールで、あらゆるドキュメントから構造化されたフィールドをJSON形式で抽出します。これにより、非構造化データから必要な情報を効率的に取得し、データ処理を自動化できます。OpenAI。OpenAIはPierre Computer Companyを買収すると発表しました。この買収により、Codexのコード構築、理解、レビューのためのツールが強化されます。OpenAI。OpenAIは、Linuxカーネル内の948件のローカル権限昇格の脆弱性を特定し、検証し、パッチを生成する自律的なパイプラインを構築しました。これにより、システムへの不正アクセス経路が大幅に減少しました。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "令和8年度市政懇談会について（気仙沼地区市政懇談会資料をアップしました）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-05T08:00:00+09:00",
+          "summary": "気仙沼市は令和8年度市政懇談会の資料を公開しました。これは気仙沼地区の市政に関する市民との意見交換を目的としたものです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E6%B0%97%E4%BB%99%E6%B2%BC%E5%9C%B0%E5%8C%BA%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E8%B3%87%E6%96%99%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "記者発表資料 令和8年11月更新しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-04T13:40:00+09:00",
+          "summary": "気仙沼市は、令和8年11月に記者発表資料を更新しました。この更新は、市の公式情報提供の一環として行われたものです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/08/20261101153916.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/08/20261101153916.html#:~:text=%E8%A8%98%E8%80%85%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%20%E4%BB%A4%E5%92%8C8%E5%B9%B411%E6%9C%88%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "広告入り封筒の無償提供者募集について（令和９年度分）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-04T00:00:00+09:00",
+          "summary": "気仙沼市は、市が送付する封筒に広告を掲載する無償提供者を募集しています。これにより、市は封筒の作成費用を削減し、提供者は広告を通じて事業をPRできます。募集は令和9年度に使用する封筒が対象です。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s232/010/020/010/05/20231002152704.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s232/010/020/010/05/20231002152704.html#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%81%A7%E3%81%AF%E3%80%81%E5%B8%82%E3%81%AE%E5%B0%81%E7%AD%92%E3%81%AB%E5%BA%83%E5%91%8A%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%82%8B%E4%BA%8B%E6%A5%AD%E8%80%85%E7%AD%89%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "津波防災の日、詠んで欲しい17音 気仙沼伝承館が川柳を表彰 宮城 [宮城県] [東日本大震災]",
+          "source": "朝日新聞",
+          "publishedAt": "2026-11-05T10:00:01+09:00",
+          "summary": "気仙沼伝承館は「津波防災の日」に合わせ、津波防災をテーマにした川柳を募集し、優秀作品を表彰しました。これは東日本大震災の教訓を後世に伝えるための取り組みの一環です。",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YWExXTnZfUFlobjMzQWpMeHRqN0NVT2dONGtTd0Q4VTItWUxuVUw4MjZ3cndwTERtUVN2T21mZGF1MWRNY0Zjd0FiV2hSVldVeHlCazZlLTFRYkRpYjB6WlltRERvSzA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YWExXTnZfUFlobjMzQWpMeHRqN0NVT2dONGtTd0Q4VTItWUxuVUw4MjZ3cndwTERtUVN2T21mZGF1MWRNY0Zjd0FiV2hSVldVeHlCazZlLTFRYkRpYjB6WlltRERvSzA?oc=5#:~:text=%E6%B4%A5%E6%B3%A2%E9%98%B2%E7%81%BD%E3%81%AE%E6%97%A5%E3%80%81%E8%A9%A0%E3%82%93%E3%81%A7%E6%AC%B2%E3%81%97%E3%81%8417%E9%9F%B3%20%E6%B0%97%E4%BB%99%E6%B2%BC%E4%BC%9D%E6%89%BF%E9%A4%A8%E3%81%8C%E5%B7%9D%E6%9F%B3%E3%82%92%E8%A1%A8%E5%BD%B0",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼魚市場２年ぶりに２００億円突破",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-05T09:04:16+09:00",
+          "summary": "気仙沼魚市場の年間水揚げ金額が2年ぶりに200億円を突破しました。これは、市場にとって重要な節目となります。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3NDJRRDRMQTl3RS1oUWpKTkMtN0t5RndUTm4wTUZqR0R3UVcxTFBzenJGZnk1V3c0LWV6QzhOcE5VZlNEaDhuVFo5Z1hOaWtDejhvMGhKRWc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3NDJRRDRMQTl3RS1oUWpKTkMtN0t5RndUTm4wTUZqR0R3UVcxTFBzenJGZnk1V3c0LWV6QzhOcE5VZlNEaDhuVFo5Z1hOaWtDejhvMGhKRWc?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E9%AD%9A%E5%B8%82%E5%A0%B4%EF%BC%92%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%EF%BC%92%EF%BC%90%EF%BC%90%E5%84%84%E5%86%86%E7%AA%81%E7%A0%B4",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "岩手県で最大震度1の地震 岩手県・大船渡市、釜石市、住田町、一関市、宮城県・気仙沼市、涌谷町、石巻市、東松島市",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-11-05T04:28:00+09:00",
+          "summary": "岩手県で最大震度1の地震が発生しました。岩手県の大船渡市、釜石市、住田町、一関市、および宮城県の気仙沼市、涌谷町、石巻市、東松島市で観測されました。",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMksybmRjWXFJd1htbWpkcVJHVllFS2ZITmdCcWNhMFNQcnZfWEgwT0RKeG9kRWJLQkEtUGM4aUU0bHQwQ0dhYVBtUWdRbGdoMHJzUmVBUzBoTTcybkJfTTJnbEtiOEpRbFZyS2pR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMksybmRjWXFJd1htbWpkcVJHVllFS2ZITmdCcWNhMFNQcnZfWEgwT0RKeG9kRWJLQkEtUGM4aUU0bHQwQ0dhYVBtUWdRbGdoMHJzUmVBUzBoTTcybkJfTTJnbEtiOEpRbFZyS2pR?oc=5#:~:text=%E5%B2%A9%E6%89%8B%E7%9C%8C%E3%81%A7%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A61%E3%81%AE%E5%9C%B0%E9%9C%87%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E3%83%BB%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82%E3%80%81%E9%87%9C%E7%9F%B3%E5%B8%82%E3%80%81%E4%BD%8F%E7%94%B0%E7%94%BA%E3%80%81%E4%B8%80%E9%96%A2%E5%B8%82%E3%80%81%E5%AE%AE%E5%9F%8E%E7%9C%8C%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E3%80%81%E6%B6%8C%E8%B0%B7%E7%94%BA%E3%80%81%E7%9F%B3%E5%B7%BB%E5%B8%82%E3%80%81%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "岩手県、宮城県で最大震度1の地震 岩手県・大船渡市、釜石市、住田町、一関市、宮城県・気仙沼市、涌谷町",
+          "source": "TBS NEWS DIG",
+          "publishedAt": "2026-11-05T04:24:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FVE1CM1VNeTdSd0VvblVyOGZxOWNVZHR3MmdiVFBQZlJiTDhKdjRadUYxYlRHVXN0anJ4OFhWb1RyWEdhLTVrY09pTUJta09pYUx6ZncxQlhvWnZ0NkxKaVM4bUM?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FVE1CM1VNeTdSd0VvblVyOGZxOWNVZHR3MmdiVFBQZlJiTDhKdjRadUYxYlRHVXN0anJ4OFhWb1RyWEdhLTVrY09pTUJta09pYUx6ZncxQlhvWnZ0NkxKaVM4bUM?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "タイヤを会社名義で無断購入約80回で逮捕 宮城 気仙沼",
+          "source": "NHKニュース",
+          "publishedAt": "2026-11-04T20:16:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Id1NuVzlMX1ltc3MyeFBRc1RwQTAxZ3RFY2F3NVdFeFh1aWk1UjJlNE1wRjAwLXVLV2U3VTBoZ2FNTkRTUC1BLWpZOWo5Vklhd2c5OVNpX0RjZ05QcEJB?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Id1NuVzlMX1ltc3MyeFBRc1RwQTAxZ3RFY2F3NVdFeFh1aWk1UjJlNE1wRjAwLXVLV2U3VTBoZ2FNTkRTUC1BLWpZOWo5Vklhd2c5OVNpX0RjZ05QcEJB?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "（宮城）気仙沼市松崎鶴巻でクマ出没　１１月４日",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-11-04T20:15:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2Z4Q2pXZWE3WHF4NW8xNFJhYXMtM2w0S3E4UEQtZENJUHZ3aHluZm92bE9ieW5zdUJpQUlDNTB1UE95Qk95STRKdFRjZWF0VTIyaWJXd0phMDVydW5SRHMxR3BLbnN5MHRMbzdqNnNtT0h3RDktZnR6U2pYVmRUUjJ5UHl1TVZBVW8wZS1vNTlVRFFWX0R1VGVVbGIyaXQzdDU0Tzd0bVIzMy1hdzgzSEJjWXNEUkQ3bTVOM3ZHN1dvSUxleEU3b3NTbFViNTBMQVdPamtqS2F3djNNc3VscUJ1OEFERFB1MzBldmc0VjJRZ9IBogFBVV95cUxNNXRDMFU2UC1GeFZNOXd6eG9yZEhzYmpSUktMdUw5OU1oWVNwdFc4amdudk9NSG5sNUpSRXZBblpLZkhZUWQ1VTFlaVBIN1g4bHZPRTFKN09jdTlxRUw1SVg5VUotZHJ0Vks1TzhBMkxHaFhPbXc3ZzZZeXcxX3A0V2puZUFEaDd2cWFtTWszeGt1UURIZEx3WDdXNmhEM1VQYlE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2Z4Q2pXZWE3WHF4NW8xNFJhYXMtM2w0S3E4UEQtZENJUHZ3aHluZm92bE9ieW5zdUJpQUlDNTB1UE95Qk95STRKdFRjZWF0VTIyaWJXd0phMDVydW5SRHMxR3BLbnN5MHRMbzdqNnNtT0h3RDktZnR6U2pYVmRUUjJ5UHl1TVZBVW8wZS1vNTlVRFFWX0R1VGVVbGIyaXQzdDU0Tzd0bVIzMy1hdzgzSEJjWXNEUkQ3bTVOM3ZHN1dvSUxleEU3b3NTbFViNTBMQVdPamtqS2F3djNNc3VscUJ1OEFERFB1MzBldmc0VjJRZ9IBogFBVV95cUxNNXRDMFU2UC1GeFZNOXd6eG9yZEhzYmpSUktMdUw5OU1oWVNwdFc4amdudk9NSG5sNUpSRXZBblpLZkhZUWQ1VTFlaVBIN1g4bHZPRTFKN09jdTlxRUw1SVg5VUotZHJ0Vks1TzhBMkxHaFhPbXc3ZzZZeXcxX3A0V2puZUFEaDd2cWFtTWszeGt1UURIZEx3WDdXNmhEM1VQYlE?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "自分のために会社の金で約2470万円分のタイヤ注文 会社に損害与えた特別背任の疑いで元取締役の男(44)逮捕 宮城・気仙沼市",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-11-04T20:07:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FT2YxdHhBbGU3LWo5UE4xRFFDU0xvWUNaWVE0dnBDLU9NOUZyV3YyMDR1Ql9YVlprbkJ6OHFsYjdSTjVaNGZuS2pDTHZmLUNBSm1raHRWYnk1MEliVUNaVUxIeGN4NWVhaHdFSWc4OA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FT2YxdHhBbGU3LWo5UE4xRFFDU0xvWUNaWVE0dnBDLU9NOUZyV3YyMDR1Ql9YVlprbkJ6OHFsYjdSTjVaNGZuS2pDTHZmLUNBSm1raHRWYnk1MEliVUNaVUxIeGN4NWVhaHdFSWc4OA?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "第１回令和８年度管理栄養士国家試験出題基準（ガイドライン）改定検討会 資料",
+          "source": "厚労省",
+          "publishedAt": "2026-11-04T14:00:00+09:00",
+          "summary": "厚生労働省は、令和8年度に実施される管理栄養士国家試験の出題基準（ガイドライン）改定に向けた第1回検討会を開催しました。この検討会では、試験内容の見直しに関する資料が提示され、今後の改定作業の方向性が議論されました。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77142.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_77142.html#:~:text=%E7%AC%AC%EF%BC%91%E5%9B%9E%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E7%AE%A1%E7%90%86%E6%A0%84%E9%A4%8A%E5%A3%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93%E5%87%BA%E9%A1%8C%E5%9F%BA%E6%BA%96%EF%BC%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%89%E6%94%B9%E5%AE%9A%E6%A4%9C%E8%A8%8E%E4%BC%9A%20%E8%B3%87%E6%96%99",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "第41回管理栄養士国家試験の実施について",
+          "source": "厚労省",
+          "publishedAt": "2026-11-04T10:00:00+09:00",
+          "summary": "第41回管理栄養士国家試験は、2027年3月7日（日）に実施される予定です。試験地は北海道、宮城県、東京都、愛知県、大阪府、広島県、福岡県、および沖縄県です。試験科目や受験資格などの詳細は、後日発表される予定です。",
+          "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html",
+          "jumpUrl": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html#:~:text=%E7%AC%AC41%E5%9B%9E%E7%AE%A1%E7%90%86%E6%A0%84%E9%A4%8A%E5%A3%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93%E3%82%922027%E5%B9%B43%E6%9C%887%E6%97%A5%EF%BC%88%E6%97%A5%EF%BC%89%E3%81%AB%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "The neural basis of flavour–nutrient learning",
+          "source": "Nature",
+          "publishedAt": "2026-11-04T00:00:00+09:00",
+          "summary": "Nature誌の新しい研究によると、風味と栄養素の関連付けには、扁桃体基底外側部へのドーパミン経路が不可欠であることが明らかになりました。この経路は、食べ物の風味と栄養価を結びつける学習プロセスにおいて重要な役割を果たすと考えられます。",
+          "url": "https://www.nature.com/articles/s41586-026-11229-5",
+          "jumpUrl": "https://www.nature.com/articles/s41586-026-11229-5#:~:text=A%20dopamine%20pathway%20to%20the%20basolateral%20amygdala%20is%20necessary%20",
+          "badge": "Nature",
+          "primary": true
+        },
+        {
+          "title": "Paternal Preconception Calcitriol Intervention Rescued DBDPE-Induced Transgenerational Developmental and Visual Toxicity in Zebrafish.",
+          "source": "Environmental science & technology",
+          "publishedAt": "2026-11-03T00:00:00+09:00",
+          "summary": "ゼブラフィッシュを用いた研究で、難燃剤DBDPEへの父親の曝露が、子孫（F1、F2世代）の発達および視覚毒性を引き起こすことが報告されています。特に、F2世代では眼の奇形が低用量でも発生し、視覚系がDBDPEの世代を超えた毒性に非常に敏感であることが示されました。この毒性は、ステロイド生合成、特にカルシトリオール合成の障害と関連しており、父親へのカルシトリオール補給が毒性を軽減する可能性が示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42975500/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42975500/#:~:text=Paternal%20DBDPE%20exposure%20severely%20impaired%20sperm%20quality%20in%20F",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Treatment and tracking algorithm for iron deficiency anaemia among children and adolescents- a policy informed evidence- based framework for India.",
+          "source": "The Indian journal of medical research",
+          "publishedAt": "2026-11-01T00:00:00+09:00",
+          "summary": "インドにおける鉄欠乏性貧血の治療と追跡に関するエビデンスに基づいたアルゴリズムが、小児および青年向けに開発されました。これは、既存のプログラムの課題に対処し、診断、治療、フォローアップを標準化することを目的としています。軽度および中等度から重度の貧血に対応する2つのアルゴリズムが作成され、ヘモグロビン測定が第一選択の検査として提案されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42981346/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42981346/#:~:text=Two%20algorithms%20one%20each%20for%20%28i%29%20mild%2C%20and%20%28ii%29%20moderate-to%20s",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "輸入食品に対する検査命令の実施 （中国産おくら、その加工品）",
+          "source": "厚労省",
+          "publishedAt": "2026-10-30T16:00:00+09:00",
+          "summary": "厚生労働省は、中国産オクラとその加工品に対し、残留農薬の検査命令を実施しました。これは、過去の検査で基準値を超える農薬が検出されたことを受けた措置です。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77091.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_77091.html#:~:text=%E4%B8%AD%E5%9B%BD%E7%94%A3%E3%82%AA%E3%82%AF%E3%83%A9%E5%8F%8A%E3%81%B3%E3%81%9D%E3%81%AE%E5%8A%A0%E5%B7%A5%E5%93%81%E3%81%8B%E3%82%89%E5%9F%BA%E6%BA%96%E5%80%A4%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E8%BE%B2%E8%96%AC%E3%81%8C%E6%A4%9C%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F%E3%81%9F%E3%82%81",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Tryptophan metabolism within the gut-brain axis in depression: mechanisms, association with heterogeneity, and therapeutic opportunities.",
+          "source": "Molecular psychiatry",
+          "publishedAt": "2026-10-29T00:00:00+09:00",
+          "summary": "Depression is a highly heterogeneous psychiatric disorder, characterized by substantial variability in clinical manifest",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42957828/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42957828/#:~:text=Depression%20is%20a%20highly%20heterogeneous%20psychiatric%20disorder%2C%20c",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Metronidazole-Induced Sensorimotor Deficits in Rats Are Associated With Cerebral Cortex-Related Thiamine Dysmetabolism and Ameliorated by High-Dose Thiamine.",
+          "source": "Frontiers in bioscience (Landmark edition)",
+          "publishedAt": "2026-10-21T00:00:00+09:00",
+          "summary": "Metronidazole neurotoxicity is a well-known phenomenon, but the underlying mechanisms remain poorly understood and may b",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42980002/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42980002/#:~:text=Metronidazole%20neurotoxicity%20is%20a%20well-known%20phenomenon%2C%20but",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Anorexia nervosa or pediatric acute-onset neuropsychiatric syndrome? A case report.",
+          "source": "Journal of eating disorders",
+          "publishedAt": "2026-09-29T00:00:00+09:00",
+          "summary": "Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS) is a rare heterogeneous condition characterized by rapid onset ob",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42972472/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42972472/#:~:text=Pediatric%20Acute-Onset%20Neuropsychiatric%20Syndrome%20%28PANS%29%20is%20a",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Endocrine-Immune Crosstalk in Pediatric Autoimmune Diseases: A Systematic Review of the Role of Micronutrients, with Emphasis on Vitamin D.",
+          "source": "Nutrients",
+          "publishedAt": "2026-09-24T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884601/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884601/",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "I’ve built an F2 Hijaz 17 (432 Hz)",
+          "source": "Reddit",
+          "publishedAt": "2026-11-05T00:36:44+09:00",
+          "summary": "RedditユーザーがF2 Hijaz 17 (432 Hz)のハンドパンを初めて製作し、その過程には多くの苦労があったと報告しています。音の特性、音の分離、美観など、あらゆるフィードバックを求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xnrb0i/ive_built_an_f2_hijaz_17_432_hz/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xnrb0i/ive_built_an_f2_hijaz_17_432_hz/#:~:text=This%20is%20the%20first%20F2%20handpan%20I%E2%80%99ve%20built%2C%20and%20there%20were%20lots",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "111 saves of my discography 🥳🙏🏼. You also want to give it a try?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-04T04:47:07+09:00",
+          "summary": "RedditユーザーJo-Pan-Jo氏のハンドパン楽曲が111人に保存されたことが報告されました。同氏は、他のユーザーにも自身の楽曲を聴いてみるよう勧めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xn32r6/111_saves_of_my_discography_you_also_want_to_give/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xn32r6/111_saves_of_my_discography_you_also_want_to_give/#:~:text=My%20very%20own%20handpan%20songs%20now%20followed%20by%20111%20people%20%F0%9F%A4%97.",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Handpan notation",
+          "source": "Reddit",
+          "publishedAt": "2026-11-02T17:30:36+09:00",
+          "summary": "HandpanNotation.netは、ハンドパンの楽譜作成を支援する無料ツールです。シンプルなグリッド表示で、楽譜の知識がなくても独自の表記を作成できます。MIDIファイルの変換や、オフラインで使用できるPDF出力機能も備わっています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xlrtxq/handpan_notation/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xlrtxq/handpan_notation/#:~:text=HandpanNotation.net%20is%20a%20free%20tool%20that%20will%20help%20you%20create",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "スイス生まれの優しい音色「ハンドパン」 小学生が演奏体験・楽器の魅力に触れる 山形・村山市｜ニュース",
+          "source": "さくらんぼテレビ",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "山形県村山市で、スイス生まれの楽器「ハンドパン」の演奏体験会が開かれ、地元の小学生がその優しい音色に触れました。子どもたちは実際にハンドパンを叩き、楽器の魅力や音の響きを楽しみました。",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNG5KcmFJSTBtUUdMZW14Z3BsaUgxcFVsaFRjRVV0ZUR6U0lYakYtMDFWdVdsZUYtZ0k0S2RTRV9zM2ZxQU5EdEJKcDREcENZX2F6dDlvMmRNY1FYZXprRXJkRnhoRGR3d052RDNSSTZyNXM?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNG5KcmFJSTBtUUdMZW14Z3BsaUgxcFVsaFRjRVV0ZUR6U0lYakYtMDFWdVdsZUYtZ0k0S2RTRV9zM2ZxQU5EdEJKcDREcENZX2F6dDlvMmRNY1FYZXprRXJkRnhoRGR3d052RDNSSTZyNXM?oc=5#:~:text=%E3%82%B9%E3%82%A4%E3%82%B9%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%AE%E5%84%AA%E3%81%97%E3%81%84%E9%9F%B3%E8%89%B2%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%80%8D%20%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%81%8C%E6%BC%94%E5%A5%8F%E4%BD%93%E9%A8%93%E3%83%BB%E6%A5%BD%E5%99%A8%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%AB%E8%A7%A6%E3%82%8C%E3%82%8B",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【山形】児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校（YTS山形テレビ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "山形県村山市の小学校で、児童たちがスイス発祥の打楽器「ハンドパン」を体験しました。珍しい楽器の音色に触れ、児童たちは興味津々の様子でした。",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5#:~:text=%E5%85%90%E7%AB%A5%E3%81%8C%E3%82%B9%E3%82%A4%E3%82%B9%E7%99%BA%E7%A5%A5%E3%81%AE%E6%89%93%E6%A5%BD%E5%99%A8%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%80%8D%E4%BD%93%E9%A8%93",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "画像・写真 | ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS 2枚目",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "福井新聞社",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wdDlQdS10SFFMaFhFdlF6M3JnVmhhMXJLbnRBeWJXVVFfbVFPbmpjWDlxTWFFdlk2b1d1OXZrUUFuMHV5T2hqdFdpSmxDYW9kRnp1THlhaURLc25nZ3c?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wdDlQdS10SFFMaFhFdlF6M3JnVmhhMXJLbnRBeWJXVVFfbVFPbmpjWDlxTWFFdlk2b1d1OXZrUUFuMHV5T2hqdFdpSmxDYW9kRnp1THlhaURLc25nZ3c?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "特別企画・展覧会「シルクロードの商人」× ハンドパン演奏",
+          "source": "アットエス",
+          "publishedAt": "2026-09-28T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeTVQZTJ5SldPSWlZd0FaZVByallsLS1ZNnJoTWZMbXlHZUgtMnRNN0tWaFFtRkxxNXYwYUpFb1VzYktmVG85TngzeWpaal9MVkgxRA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeTVQZTJ5SldPSWlZd0FaZVByallsLS1ZNnJoTWZMbXlHZUgtMnRNN0tWaFFtRkxxNXYwYUpFb1VzYktmVG85TngzeWpaal9MVkgxRA?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【募集終了】癒やしの響きハンドパンコンサート",
+          "source": "柏市",
+          "publishedAt": "2026-09-25T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "第276回 ハンドパン｜あぁ、だから一人はいやなんだ。｜いとうあさこ",
+          "source": "幻冬舎plus",
+          "publishedAt": "2026-08-30T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMDBqY2ktV205NjJqMkk4Q3g2eTY3Q3VFTU9lWWpLVlpzazNqX245bnBWYzMtVXNUTXNNQjFqcUx4cjk3a1Q0VHF2Mkp1Zm8?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMDBqY2ktV205NjJqMkk4Q3g2eTY3Q3VFTU9lWWpLVlpzazNqX245bnBWYzMtVXNUTXNNQjFqcUx4cjk3a1Q0VHF2Mkp1Zm8?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-05T02:50:10+09:00",
+          "summary": "Dharma Field Extractorは、Hugging Faceが開発したツールで、あらゆるドキュメントから構造化されたフィールドをJSON形式で抽出します。これにより、非構造化データから必要な情報を効率的に取得し、データ処理を自動化できます。",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "jumpUrl": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor#:~:text=Dharma%20Field%20Extractor%3A%20Any%20Document%20In%2C%20Structured%20Fields%20i",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-04T23:30:00+09:00",
+          "summary": "OpenAIはPierre Computer Companyを買収すると発表しました。この買収により、Codexのコード構築、理解、レビューのためのツールが強化されます。",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "jumpUrl": "https://openai.com/index/openai-to-acquire-pierre#:~:text=OpenAI%20will%20acquire%20Pierre%20Computer%20Company%2C%20expanding%20Codex",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "A thousand fewer paths to root",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-04T17:00:00+09:00",
+          "summary": "OpenAIは、Linuxカーネル内の948件のローカル権限昇格の脆弱性を特定し、検証し、パッチを生成する自律的なパイプラインを構築しました。これにより、システムへの不正アクセス経路が大幅に減少しました。",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "jumpUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root#:~:text=OpenAI%20built%20an%20autonomous%20pipeline%20that%20found%2C%20validated%2C%20a",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-04T16:00:00+09:00",
+          "summary": "Daybreak RedがAWS GovCloud (US-East)で利用可能になりました。このサービスは、承認された顧客がAmazon Bedrockを通じてGPT-5.6 Cyberを利用し、サイバーセキュリティ業務を行うことを可能にします。",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "jumpUrl": "https://openai.com/index/daybreak-red-aws-govcloud#:~:text=Daybreak%20Red%20brings%20GPT-5.6%20Cyber%20to%20approved%20customers%20in%20A",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "StateBench: Testing how language models track state changes over long documents",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-04T02:15:21+09:00",
+          "summary": "StateBenchは、長い文書における言語モデルの状態変化追跡能力を評価するための新しいベンチマークです。このベンチマークは、モデルが文書全体で情報を保持し、更新する能力を測定することを目的としています。",
+          "url": "https://huggingface.co/blog/allenai/statebench",
+          "jumpUrl": "https://huggingface.co/blog/allenai/statebench#:~:text=StateBench%3A%20Testing%20how%20language%20models%20track%20state%20changes%20",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-04T01:35:36+09:00",
+          "summary": "",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "jumpUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "The latest AI news we announced in October 2026",
+          "source": "Google AI",
+          "publishedAt": "2026-11-03T02:45:00+09:00",
+          "summary": "Here are Google’s latest AI updates from October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/#:~:text=Here%20are%20Google%E2%80%99s%20latest%20AI%20updates%20from%20October%202026",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "HIX AIが「アプリ連携」機能を大幅アップデート！Microsoft 365やGoogle Workspaceと直結し、日常業務を自動化",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-05T10:10:02+09:00",
+          "summary": "",
+          "url": "https://prtimes.jp/main/html/rd/p/000000030.000175497.html",
+          "jumpUrl": "https://prtimes.jp/main/html/rd/p/000000030.000175497.html",
+          "badge": "PR TIMES",
+          "primary": false
+        },
+        {
+          "title": "Zscaler ThreatLabz：AIを活用したランサムウェア攻撃が加速、大規模なデータ窃取や経営層を狙った攻撃が拡大",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-05T10:10:02+09:00",
+          "summary": "ThreatLabzの2026年調査によると、ランサムウェアによるデータ窃取量は約900テラバイトに達し、生成AIを活用した攻撃の効率化や経営層を含む高権限ユーザーへの標的化が進行。日本でもランサムウェア被害組織数が...",
+          "url": "https://prtimes.jp/main/html/rd/p/000000121.000055108.html",
+          "jumpUrl": "https://prtimes.jp/main/html/rd/p/000000121.000055108.html#:~:text=ThreatLabz%E3%81%AE2026%E5%B9%B4%E8%AA%BF%E6%9F%BB%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E3%80%81%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E7%AA%83%E5%8F%96%E9%87%8F%E3%81%AF%E7%B4%84900%E3%83%86%E3%83%A9%E3%83%90%E3%82%A4%E3%83%88%E3%81%AB%E9%81%94%E3%81%97%E3%80%81%E7%94%9F%E6%88%90AI%E3%82%92%E6%B4%BB%E7%94%A8",
+          "badge": "PR TIMES",
+          "primary": false
+        },
+        {
+          "title": "イベントを追体験する新サービス『BRAND TAIKEN(TM) ReeLIVE』の提供開始",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-05T10:10:02+09:00",
+          "summary": "",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000185473.html",
+          "jumpUrl": "https://prtimes.jp/main/html/rd/p/000000004.000185473.html",
+          "badge": "PR TIMES",
+          "primary": false
+        }
+      ]
+    }
+  ]
+}
