@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:40.213602+09:00",
+  "audioUrl": "audio/2026-11-14.mp3",
+  "audioScript": "11月14日、土曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、令和8年度の第3回職員採用試験の最終合格者を発表しました。合格者は市のウェブサイトで確認できます。気仙沼市公式。気仙沼市は、令和8年度市政懇談会について、松岩地区の資料をウェブサイトに公開しました。この懇談会は、市民と市政の対話を促進することを目的としています。気仙沼市公式。気仙沼市は、令和8年11月に記者発表資料を更新しました。この更新は、市の公式情報提供の一環として行われたものです。\n\n■ 分子栄養。厚労省。厚生労働省は、国民健康、栄養調査企画解析検討会を開催します。この会議は、国民健康、栄養調査の企画、解析、評価に関する専門的な検討を行うことを目的としています。Journal of medical case reportsによると、エチオピア北西部の刑務所で、ビタミンC欠乏症の囚人3人が報告されました。彼らは9ヶ月の投獄後、下肢の硬直、歯肉出血、体重減少、貧血の兆候を示し、果物や野菜を含まない食事を摂取していました。アスコルビン酸補給により症状は改善したと報告されています。と報告されています。The Journal of neuroscience : the official journal of the Society for Neuroscienceによると、本レビューでは、母体の免疫活性化（MIA）が神経発達障害（NDDs）のリスクを高めるメカニズムについて、臨床コホートと前臨床モデルを横断して考察されています。MIAは、サイトカインシグナル伝達、酸化的、栄養ストレス、胎盤機能不全、エピジェネティック修飾などを介して胎児の神経発達に影響を及ぼすと報告されています。と報告されています。\n\n■ ハンドパン。Reddit。RedditユーザーのFew_Bottle3987さんが、認識できない音楽のタイトルを探しています。投稿には曲を見つけるのが難しいと書かれています。Reddit。RedditユーザーがMAGinstruments製のハンドパン「D kurd 13 (cyclops model)」の購入を検討しており、メーカー自身のYouTubeチャンネル以外で演奏動画が見つからないため、実際に使用した経験のある人からの個人的な推薦や意見を求めている。Reddit。中古のハンドパン購入に関する一般的な経験について、新品購入と比較して費用対効果があるのか、それとも新品に投資すべきだったと後悔するケースがあるのか、という疑問がRedditに投稿されました。\n\n■ AI。Hugging Face。Hugging Faceは、SimReadyアセットを使用してロボットのピックアンドプレースシミュレーションを構築する方法についての記事を公開しました。この記事では、NVIDIAのIsaac SimとOmniverseプラットフォームを活用し、物理的に正確なシミュレーション環境を効率的に作成する手順を解説しています。これにより、開発者はリアルなロボットアプリケーションのテストと開発を加速できます。Hugging Face。Hugging Faceが開発したXYBenchは、大規模言語モデル（LLM）の幻覚（ハルシネーション）問題に対処するための新しいベンチマークです。このツールは、LLMが事実を正確に記憶し、推論する能力を評価し、幻覚の根本原因を特定するのに役立ちます。OpenAI。OpenAIは、ChatGPT Work、Codex、dotsのエージェントがユーザーの承認と既存のカード保護を利用して購入を完了できる安全な方法として、「ChatGPT Wallet」を導入しました。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "令和8年度 第3回職員採用試験最終合格者",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-13T12:00:00+09:00",
+          "summary": "気仙沼市は、令和8年度の第3回職員採用試験の最終合格者を発表しました。合格者は市のウェブサイトで確認できます。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s005/010/010/010/20261111155805.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s005/010/010/010/20261111155805.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E7%AC%AC3%E5%9B%9E%E8%81%B7%E5%93%A1%E6%8E%A1%E7%94%A8%E8%A9%A6%E9%A8%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%90%88%E6%A0%BC%E8%80%85%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "令和8年度市政懇談会について（松岩地区市政懇談会資料をアップしました）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-11T18:23:00+09:00",
+          "summary": "気仙沼市は、令和8年度市政懇談会について、松岩地区の資料をウェブサイトに公開しました。この懇談会は、市民と市政の対話を促進することを目的としています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E6%9D%BE%E5%B2%A9%E5%9C%B0%E5%8C%BA%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E8%B3%87%E6%96%99%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "記者発表資料 令和8年11月更新しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-11T11:15:00+09:00",
+          "summary": "気仙沼市は、令和8年11月に記者発表資料を更新しました。この更新は、市の公式情報提供の一環として行われたものです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/08/20261101153916.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/08/20261101153916.html#:~:text=%E8%A8%98%E8%80%85%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%20%E4%BB%A4%E5%92%8C8%E5%B9%B411%E6%9C%88%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "三陸沖カツオ終漁へ 気仙沼の日本一奪還確実",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-14T09:04:02+09:00",
+          "summary": "三陸沖でのカツオ漁が終漁を迎え、気仙沼漁港が今年のカツオ水揚げ量で日本一を奪還することが確実となりました。これは、気仙沼市にとって重要な経済的成果となります。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80aWtadVYtRmhzUGVmRy1YemU1WnBEM2NBVkgxM0JMRU5zOTJLcVItQ2dOUEFGRWVadUpFUkZWYXZ4a0pwbUVNTUQ0VUxObFozdGx6RF9JSEE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80aWtadVYtRmhzUGVmRy1YemU1WnBEM2NBVkgxM0JMRU5zOTJLcVItQ2dOUEFGRWVadUpFUkZWYXZ4a0pwbUVNTUQ0VUxObFozdGx6RF9JSEE?oc=5#:~:text=%E4%B8%89%E9%99%B8%E6%B2%96%E3%82%AB%E3%83%84%E3%82%AA%E7%B5%82%E6%BC%81%E3%81%B8%20%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AE%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%AA%E9%82%84%E7%A2%BA%E5%AE%9F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "秋に行きたいと思う「宮城県の道の駅」ランキング！ 2位「大谷海岸（気仙沼市）」を抑えた1位は？【2026年調査】",
+          "source": "TRILL",
+          "publishedAt": "2026-11-13T16:05:00+09:00",
+          "summary": "TRILLが実施した「秋に行きたい宮城県の道の駅」ランキングで、2位の「大谷海岸（気仙沼市）」を抑え、ある道の駅が1位を獲得しました。この調査は2026年に実施されたものです。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBibGlQX2FlelMtVmc1VVhYS2djSWUxZWQybmxZek5lVENmX1J1N3R0WU8wZ0tpTFhrSkM0ME5ubkV4aXJVZEEyVzFMeU5wZGc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBibGlQX2FlelMtVmc1VVhYS2djSWUxZWQybmxZek5lVENmX1J1N3R0WU8wZ0tpTFhrSkM0ME5ubkV4aXJVZEEyVzFMeU5wZGc?oc=5#:~:text=%E7%A7%8B%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%86%E3%80%8C%E5%AE%AE%E5%9F%8E%E7%9C%8C%E3%81%AE%E9%81%93%E3%81%AE%E9%A7%85%E3%80%8D%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%EF%BC%81%202%E4%BD%8D%E3%80%8C%E5%A4%A7%E8%B0%B7%E6%B5%B7%E5%B2%B8%EF%BC%88%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%EF%BC%89%E3%80%8D%E3%82%92%E6%8A%91%E3%81%88%E3%81%9F1%E4%BD%8D%E3%81%AF%EF%BC%9F%E3%80%902026%E5%B9%B4%E8%AA%BF%E6%9F%BB",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【特別インタビュー】渡辺謙、病を経て「恐れなくなった」――気仙沼で消えた“俳優”の肩書き、そしてこれから【後編】",
+          "source": "ハリウッド・リポーター・ジャパン",
+          "publishedAt": "2026-11-13T15:28:08+09:00",
+          "summary": "俳優の渡辺謙は、病気を経験したことで「恐れなくなった」と語っています。彼は気仙沼での活動を通じて「俳優」という肩書きにとらわれなくなり、今後の活動にも新たな視点を持っているようです。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUEwzVmQzZDRkTUcyaWROLVZraGlBa3VMZlV6aUI4cWRQaWVCNHhvN3FhY0JicC0tSDdZOXpoWjEzRndzVTZyOHlJTUJBTlJTUGVaT2J2NlpKVUk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUEwzVmQzZDRkTUcyaWROLVZraGlBa3VMZlV6aUI4cWRQaWVCNHhvN3FhY0JicC0tSDdZOXpoWjEzRndzVTZyOHlJTUJBTlJTUGVaT2J2NlpKVUk?oc=5#:~:text=%E6%B8%A1%E8%BE%BA%E8%AC%99%E3%80%81%E7%97%85%E3%82%92%E7%B5%8C%E3%81%A6%E3%80%8C%E6%81%90%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%80%8D%E2%80%95%E2%80%95%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%A7%E6%B6%88%E3%81%88%E3%81%9F%E2%80%9C%E4%BF%B3%E5%84%AA%E2%80%9D%E3%81%AE%E8%82%A9%E6%9B%B8%E3%81%8D",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "アワビ漁始まる 取引価格10キロ5万4500円、去年並み安値 宮城・気仙沼",
+          "source": "テレ朝NEWS",
+          "publishedAt": "2026-11-13T10:08:00+09:00",
+          "summary": "宮城県気仙沼市でアワビ漁が始まり、初日の取引価格は10キロあたり5万4500円と、昨年並みの安値となりました。漁業関係者は今後の価格動向を注視しています。",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbjFaRVVOX0Zzdkl2bk1KcjhfQ0pCTDd3aXdGRXBmTHlSdVVnUURIckVBSllwRFFqZC1Fb2d2QmJmZU5vaG04OFRrbVBfOTBRQUtPckExaGhmQlhKQ09xRG9vOEdmdzlNaXhkdDViSmFlUQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbjFaRVVOX0Zzdkl2bk1KcjhfQ0pCTDd3aXdGRXBmTHlSdVVnUURIckVBSllwRFFqZC1Fb2d2QmJmZU5vaG04OFRrbVBfOTBRQUtPckExaGhmQlhKQ09xRG9vOEdmdzlNaXhkdDViSmFlUQ?oc=5#:~:text=%E5%8F%96%E5%BC%95%E4%BE%A1%E6%A0%BC10%E3%82%AD%E3%83%AD5%E4%B8%874500%E5%86%86%E3%80%81%E5%8E%BB%E5%B9%B4%E4%B8%A6%E3%81%BF%E5%AE%89%E5%80%A4",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "アワビ漁始まる 取引価格10キロ5万4500円、去年並み安値 宮城・気仙沼（テレビ朝日系（ANN））",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-13T10:08:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRXdRM3REWjZTZy1QQ0FnMHpydkRHTEEyd085ZXVuLXpRZGNxSVNXTzFYNDVydFhDNUNZaWlvTG96RjBfRnFuU1U0M2lEb1hfS3hJbTBWRDBJT1BFeDBSVThjVGlfYWNmNENoUy1Ca0RtNUtncnItQ1dhdzc4bW8?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRXdRM3REWjZTZy1QQ0FnMHpydkRHTEEyd085ZXVuLXpRZGNxSVNXTzFYNDVydFhDNUNZaWlvTG96RjBfRnFuU1U0M2lEb1hfS3hJbTBWRDBJT1BFeDBSVThjVGlfYWNmNENoUy1Ca0RtNUtncnItQ1dhdzc4bW8?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "気仙沼・本吉沿岸でアワビ漁始まる",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-13T09:01:37+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QX3RheUhJNkg5VVVfbzd5UkhTd0hQU0dNMkNNQkpGNENudjhkZzdLNXhIa1dkZ0FfNGFWSHVITDBtZXdJNmw0QXlmRUtDcW5ocXlVNEthblQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QX3RheUhJNkg5VVVfbzd5UkhTd0hQU0dNMkNNQkpGNENudjhkZzdLNXhIa1dkZ0FfNGFWSHVITDBtZXdJNmw0QXlmRUtDcW5ocXlVNEthblQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "５隻連続３千万円超地元近海船 気仙沼",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-13T09:01:37+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtTF9EcnF0OVZzV2lPWUZISmlZWEpOeHhuMjVfRHRMX3VJV09FeEd0SjJ3aV9hSzQ0RjhQSVRIa2hOcDgtQW9NMFN6SkhjRUNlc2tmQWI3bEE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtTF9EcnF0OVZzV2lPWUZISmlZWEpOeHhuMjVfRHRMX3VJV09FeEd0SjJ3aV9hSzQ0RjhQSVRIa2hOcDgtQW9NMFN6SkhjRUNlc2tmQWI3bEE?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "国民健康・栄養調査企画解析検討会の開催について",
+          "source": "厚労省",
+          "publishedAt": "2026-11-12T13:50:00+09:00",
+          "summary": "厚生労働省は、国民健康・栄養調査企画解析検討会を開催します。この会議は、国民健康・栄養調査の企画、解析、評価に関する専門的な検討を行うことを目的としています。",
+          "url": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html#:~:text=%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E3%83%BB%E6%A0%84%E9%A4%8A%E8%AA%BF%E6%9F%BB%E4%BC%81%E7%94%BB%E8%A7%A3%E6%9E%90%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Cluster of vitamin C deficiency in prisoners referred to a tertiary hospital in Northwest Ethiopia: a case report.",
+          "source": "Journal of medical case reports",
+          "publishedAt": "2026-11-12T00:00:00+09:00",
+          "summary": "エチオピア北西部の刑務所で、ビタミンC欠乏症の囚人3人が報告されました。彼らは9ヶ月の投獄後、下肢の硬直、歯肉出血、体重減少、貧血の兆候を示し、果物や野菜を含まない食事を摂取していました。アスコルビン酸補給により症状は改善したと報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43021312/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43021312/#:~:text=Their%20diet%20consisted%20mainly%20of%20bread%20and%20cooked%20legume%20%28kik%20",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Maternal Immune Activation and Neurodevelopmental Disorders: A Cross-Species Perspective.",
+          "source": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+          "publishedAt": "2026-11-11T00:00:00+09:00",
+          "summary": "本レビューでは、母体の免疫活性化（MIA）が神経発達障害（NDDs）のリスクを高めるメカニズムについて、臨床コホートと前臨床モデルを横断して考察されています。MIAは、サイトカインシグナル伝達、酸化的・栄養ストレス、胎盤機能不全、エピジェネティック修飾などを介して胎児の神経発達に影響を及ぼすと報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43015107/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43015107/#:~:text=Prenatal%20exposure%20to%20infection%20increases%20the%20likelihood%20of%20n",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "第８回 医療扶助・健康管理支援等に関する検討会 議事録",
+          "source": "厚労省",
+          "publishedAt": "2026-11-10T19:00:00+09:00",
+          "summary": "医療扶助・健康管理支援等に関する第8回検討会では、医療扶助受給者の健康管理支援のあり方について議論されました。生活保護受給者の健康状態の改善と医療費適正化が主な議題となり、具体的な支援策やその効果的な実施方法について意見交換が行われました。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77344.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_77344.html#:~:text=%E7%AC%AC%EF%BC%98%E5%9B%9E%20%E5%8C%BB%E7%99%82%E6%89%B6%E5%8A%A9%E3%83%BB%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E6%94%AF%E6%8F%B4%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%E4%BC%9A%20%E8%AD%B0%E4%BA%8B%E9%8C%B2",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Engineering pH-Responsive trans-Ferulic Acid/κ-Carrageenan Beads for On-Demand Micronutrient Delivery in Plants.",
+          "source": "ACS omega",
+          "publishedAt": "2026-11-10T00:00:00+09:00",
+          "summary": "酸性土壌環境における微量栄養素の欠乏は農業において深刻な課題であり、従来の補充方法は非効率的で環境に有害であると報告されています。本研究では、酸性条件下で微量栄養素を放出するpH応答性の生分解性マイクロビーズが開発され、持続的な栄養素供給と抗酸化活性を示すことが報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43022987/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43022987/#:~:text=Micronutrient%20deficiencies%20in%20soils%20are%20a%20critical%20challenge",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Computerised cognitive training combined with nutritional counseling in mild cognitive impairment - results of a 2 × 2 factorial randomized controlled trial (BrainFit-nutrition study).",
+          "source": "Alzheimer's research & therapy",
+          "publishedAt": "2026-11-09T00:00:00+09:00",
+          "summary": "軽度認知障害（MCI）の高齢者を対象とした研究で、コンピューター認知トレーニングと栄養カウンセリングの組み合わせが認知機能の改善に寄与する可能性が報告されています。6ヶ月後には、参加者全員のMoCAスコアが約2ポイント有意に改善したとされていますが、介入グループ間に有意な差は認められませんでした。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43015907/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43015907/#:~:text=All%20four%20groups%20achieved%20a%20significant%20improvement%20of%20approx",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Endocrine-Immune Crosstalk in Pediatric Autoimmune Diseases: A Systematic Review of the Role of Micronutrients, with Emphasis on Vitamin D.",
+          "source": "Nutrients",
+          "publishedAt": "2026-09-24T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884601/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884601/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Green-synthesized zinc and iron nanoparticles enhance basil drought tolerance via antioxidant regulation.",
+          "source": "BMC plant biology",
+          "publishedAt": "2026-09-12T00:00:00+09:00",
+          "summary": "Drought is a major abiotic constraint that disrupts growth, physiology, and metabolic balance in medicinal and aromatic ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43021087/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43021087/#:~:text=Drought%20is%20a%20major%20abiotic%20constraint%20that%20disrupts%20growth%2C",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Effect of alpha-lipoic acid on atrial fibrillation and biomarkers of myocardial injury in patients undergoing coronary artery bypass surgery: study protocol of a randomized, double-blind, placebo-controlled clinical trial.",
+          "source": "Trials",
+          "publishedAt": "2026-08-18T00:00:00+09:00",
+          "summary": "Coronary artery bypass grafting (CABG) is associated with several postoperative complications, notably atrial fibrillati",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43021372/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43021372/#:~:text=Coronary%20artery%20bypass%20grafting%20%28CABG%29%20is%20associated%20with%20se",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Gut microbiota heterogeneity is linked to social dysfunction in severe alcohol use disorder.",
+          "source": "Microbiome",
+          "publishedAt": "2026-08-18T00:00:00+09:00",
+          "summary": "Gut microbiota and social functioning are both substantially altered in individuals with severe alcohol use disorder (sA",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43021389/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43021389/#:~:text=Gut%20microbiota%20and%20social%20functioning%20are%20both%20substantially",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "You recognize the title ?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-14T08:09:15+09:00",
+          "summary": "RedditユーザーのFew_Bottle3987さんが、認識できない音楽のタイトルを探しています。投稿には曲を見つけるのが難しいと書かれています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xvmq1f/you_recognize_the_title/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xvmq1f/you_recognize_the_title/#:~:text=Hi%2C%20would%20anyone%20recognize%20the%20title%20of%20this%20music%3F%20Impossib",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Anyone have any experience with MAGinstruments?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-13T23:07:44+09:00",
+          "summary": "RedditユーザーがMAGinstruments製のハンドパン「D kurd 13 (cyclops model)」の購入を検討しており、メーカー自身のYouTubeチャンネル以外で演奏動画が見つからないため、実際に使用した経験のある人からの個人的な推薦や意見を求めている。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xv8t7t/anyone_have_any_experience_with_maginstruments/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xv8t7t/anyone_have_any_experience_with_maginstruments/#:~:text=Ai%20says%20the%20general%20consensus%20is%20MAG%20is%20one%20of%20the%20better%20ma",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "What's the general experience with buying second-hand handpans?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-13T22:07:38+09:00",
+          "summary": "中古のハンドパン購入に関する一般的な経験について、新品購入と比較して費用対効果があるのか、それとも新品に投資すべきだったと後悔するケースがあるのか、という疑問がRedditに投稿されました。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xv7f5o/whats_the_general_experience_with_buying/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xv7f5o/whats_the_general_experience_with_buying/#:~:text=Is%20it%20usually%20worth%20saving%20money%20compared%20to%20buying%20new%2C%20or%20",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "【睡眠・癒しBGM】一日の終わりに、心を休める夜｜幻想的なハンドパンの音色 | Unwind After a Long Day. Relaxing Handpan Music",
+          "source": "YouTube",
+          "publishedAt": "2026-11-08T01:42:45+09:00",
+          "summary": "YouTubeで公開されている「【睡眠・癒しBGM】一日の終わりに、心を休める夜｜幻想的なハンドパンの音色」は、長い一日の終わりに心を落ち着かせ、リラックスできるハンドパンの音楽を提供しています。睡眠や癒しを求める人々に向けたBGMです。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkcC1EblJRcVJFWGM2UHR0S29GWVc4S0RSOEQ0R19XNzlNVzA0YUIySERueEZLX1hJOVA1NmhzVkFHWWJPRV9ubTd4TmVsQnlLdks2Ynh4dzd6Qy13?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkcC1EblJRcVJFWGM2UHR0S29GWVc4S0RSOEQ0R19XNzlNVzA0YUIySERueEZLX1hJOVA1NmhzVkFHWWJPRV9ubTd4TmVsQnlLdks2Ynh4dzd6Qy13?oc=5#:~:text=%E7%9D%A1%E7%9C%A0%E3%83%BB%E7%99%92%E3%81%97BGM%E3%80%91%E4%B8%80%E6%97%A5%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AB%E3%80%81%E5%BF%83%E3%82%92%E4%BC%91%E3%82%81%E3%82%8B%E5%A4%9C%EF%BD%9C%E5%B9%BB%E6%83%B3%E7%9A%84%E3%81%AA%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%AE%E9%9F%B3%E8%89%B2",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ホーチミン市の若者たちが、ユニークな癒しの音響を持つハンドパン楽器を発見",
+          "source": "Laodong.vn",
+          "publishedAt": "2026-11-07T20:00:00+09:00",
+          "summary": "ホーチミン市の若者たちが、ユニークで癒しの音色を持つハンドパン楽器に魅了されています。この楽器は、その独特な響きでストレス軽減やリラクゼーションに役立つと注目されています。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzZvb1lVODdOcnNpZnRYZTkxWGhMUjNoQjBjU1ZlTmx1ck13WUh4MkpKS1ZlWk1feGotdURPUlA1NGVNVkYwdFpLbjhiZjUwQVpEeGoyTFpBeFlaQnQxRmhSdzNBZXV4aXo5eGx6ZktfN21Ib2ZXSlNSSmRnREhSdW1Bc2JSN0dVUzlOZlhuRWFDdzE2N1B5alVqel9BMDM5QXpWaXZLcUZXMEllc3B3?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzZvb1lVODdOcnNpZnRYZTkxWGhMUjNoQjBjU1ZlTmx1ck13WUh4MkpKS1ZlWk1feGotdURPUlA1NGVNVkYwdFpLbjhiZjUwQVpEeGoyTFpBeFlaQnQxRmhSdzNBZXV4aXo5eGx6ZktfN21Ib2ZXSlNSSmRnREhSdW1Bc2JSN0dVUzlOZlhuRWFDdzE2N1B5alVqel9BMDM5QXpWaXZLcUZXMEllc3B3?oc=5#:~:text=%E3%83%9B%E3%83%BC%E3%83%81%E3%83%9F%E3%83%B3%E5%B8%82%E3%81%AE%E8%8B%A5%E8%80%85%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E7%99%92%E3%81%97%E3%81%AE%E9%9F%B3%E9%9F%BF%E3%82%92%E6%8C%81%E3%81%A4%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E6%A5%BD%E5%99%A8%E3%82%92%E7%99%BA%E8%A6%8B",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "C418 - Aria Math(Minecraft)【handpan cover】マインクラフト【ハンドパン】 #handpan",
+          "source": "YouTube",
+          "publishedAt": "2026-11-03T17:00:00+09:00",
+          "summary": "YouTubeで公開された動画「C418 - Aria Math(Minecraft)【handpan cover】マインクラフト【ハンドパン】」は、人気ゲーム「マインクラフト」の楽曲「Aria Math」をハンドパンでカバーしたものです。この動画は、ハンドパンという楽器を通して、ゲーム音楽の新たな魅力を提示しています。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xcDVnSTg3WVo4Yk5tdnoyb0Y4N3NWSENEcnJlWlhGOEtqaFRCM1VtMEItQTM5MlU3R2dmNXJwaDdGS2xNVlFPNmhJT0tBd2g2WFI2d2VLVm5oVkpR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xcDVnSTg3WVo4Yk5tdnoyb0Y4N3NWSENEcnJlWlhGOEtqaFRCM1VtMEItQTM5MlU3R2dmNXJwaDdGS2xNVlFPNmhJT0tBd2g2WFI2d2VLVm5oVkpR?oc=5#:~:text=C418%20-%20Aria%20Math%28Minecraft%29%E3%80%90handpan%20cover%E3%80%91%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%80%90%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【山形】児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校（YTS山形テレビ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "画像・写真 | ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS 2枚目",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "山形新聞",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMGNCSTNLQks0VnV6b1FvSnpTRWhmbURvRXFhY2RteVNfbkhuXzNuZ09NVmJjS0h4S3FiT08ya1FfcWFZdDBpSWJ0TElRSDEtc3ZnXzNYSlY3WGZMcXhHbUN5RDk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMGNCSTNLQks0VnV6b1FvSnpTRWhmbURvRXFhY2RteVNfbkhuXzNuZ09NVmJjS0h4S3FiT08ya1FfcWFZdDBpSWJ0TElRSDEtc3ZnXzNYSlY3WGZMcXhHbUN5RDk?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【募集終了】癒やしの響きハンドパンコンサート",
+          "source": "柏市",
+          "publishedAt": "2026-09-25T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-14T03:00:39+09:00",
+          "summary": "Hugging Faceは、SimReadyアセットを使用してロボットのピックアンドプレースシミュレーションを構築する方法についての記事を公開しました。この記事では、NVIDIAのIsaac SimとOmniverseプラットフォームを活用し、物理的に正確なシミュレーション環境を効率的に作成する手順を解説しています。これにより、開発者はリアルなロボットアプリケーションのテストと開発を加速できます。",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place#:~:text=Build%20a%20Robot%20Pick-and-Place%20Simulation%20with%20SimReady%20Assets",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "XYBench: Helping with the problem behind the question",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-14T02:02:35+09:00",
+          "summary": "Hugging Faceが開発したXYBenchは、大規模言語モデル（LLM）の幻覚（ハルシネーション）問題に対処するための新しいベンチマークです。このツールは、LLMが事実を正確に記憶し、推論する能力を評価し、幻覚の根本原因を特定するのに役立ちます。",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "jumpUrl": "https://huggingface.co/blog/allenai/xybench#:~:text=XYBench%E3%81%AF%E3%80%81LLM%E3%81%8C%E4%BA%8B%E5%AE%9F%E3%82%92%E6%AD%A3%E7%A2%BA%E3%81%AB%E8%A8%98%E6%86%B6%E3%81%97%E3%80%81%E6%8E%A8%E8%AB%96%E3%81%99%E3%82%8B%E8%83%BD%E5%8A%9B%E3%82%92%E8%A9%95%E4%BE%A1%E3%81%97%E3%80%81%E5%B9%BB%E8%A6%9A%E3%81%AE%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E3%82%92%E7%89%B9%E5%AE%9A%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A1%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-14T00:00:00+09:00",
+          "summary": "OpenAIは、ChatGPT Work、Codex、dotsのエージェントがユーザーの承認と既存のカード保護を利用して購入を完了できる安全な方法として、「ChatGPT Wallet」を導入しました。",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "jumpUrl": "https://openai.com/index/introducing-chatgpt-wallet#:~:text=Introducing%20ChatGPT%20Wallet%2C%20a%20secure%20way%20for%20agents%20in%20ChatG",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-13T23:05:22+09:00",
+          "summary": "llama.cppがバージョン1.0.0をリリースしました。このバージョンは、ローカルAIエコシステムを強化するためのより強固な基盤を提供し、今後の開発と安定性の向上を目指しています。",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "jumpUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1#:~:text=llama.cpp%20v1.0.0%20%3A%20A%20stronger%20foundation%20for%20the%20local%20AI%20ec",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-13T17:00:00+09:00",
+          "summary": "ShieldはOpenAIを活用し、IT技術者がレガシーポータルでの作業を引き継ぐのを支援しています。Forgeエージェントがシステムを操作することで、技術者は判断を要する問題に集中できます。",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "jumpUrl": "https://openai.com/business/customer-stories/shield#:~:text=Shield%20uses%20OpenAI%20to%20help%20IT%20technicians%20hand%20off%20work%20in%20l",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-13T05:00:00+09:00",
+          "summary": "AmplitudeはOpenAIモデルを基盤としたプロアクティブな製品エージェント「Wave」を開発しました。これにより、構築すべきものを特定し、コーディングエージェントで変更を迅速に実装し、その影響を測定することで、製品改善を1〜2日で実現しています。",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "jumpUrl": "https://openai.com/business/customer-stories/amplitude#:~:text=Built%20primarily%20on%20OpenAI%20models%2C%20Amplitude%E2%80%99s%20proactive%20prod",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Introducing Gemini 4 Hydrogen",
+          "source": "DeepMind",
+          "publishedAt": "2026-11-13T03:00:50+09:00",
+          "summary": "",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "jumpUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "source": "Google AI",
+          "publishedAt": "2026-11-13T03:00:00+09:00",
+          "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive resp",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/#:~:text=We%20are%20bringing%20Gemini%204%20Hydrogen%20to%20Google%20Search%20globally",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "source": "Google AI",
+          "publishedAt": "2026-11-12T03:00:00+09:00",
+          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal dec",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/#:~:text=Meet%20the%20Gemini%20Decisions%20API%2C%20powered%20by%20our%20state-of-the-a",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "source": "Google AI",
+          "publishedAt": "2026-11-12T01:00:00+09:00",
+          "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets wit",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/#:~:text=Tabletop%20is%20a%20new%20Google%20Labs%20experiment%20for%20group%20collabora",
+          "badge": "Google AI",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
