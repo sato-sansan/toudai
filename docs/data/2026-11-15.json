@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T09:48:58.636723+09:00",
+  "audioUrl": "audio/2026-11-15.mp3",
+  "audioScript": "11月15日、日曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、令和8年度の第3回職員採用試験の最終合格者を発表しました。合格者は市のウェブサイトに掲載されており、今後の採用手続きに関する情報も提供されています。気仙沼市公式。気仙沼市は、令和8年度の市政懇談会について、松岩地区の資料を公開しました。市民が市政に関する情報を得て意見交換を行うためのものです。気仙沼市公式。気仙沼市は、令和8年11月に記者発表資料を更新しました。この更新は、市の公式ウェブサイトを通じて市民に情報提供を行うものです。\n\n■ 分子栄養。厚労省。厚生労働省は、国民健康、栄養調査企画解析検討会を開催します。この会議は、国民健康、栄養調査の企画、実施、解析に関する専門的な検討を行うことを目的としています。厚労省。医療扶助、健康管理支援等に関する第8回検討会では、医療扶助受給者の健康管理支援のあり方について議論されました。具体的な支援策やその効果的な実施方法、関連する課題などが話し合われました。Nutrientsによると、化学療法中の断食が血液学的、代謝的、およびQOLに与える影響について、システマティックレビューとメタアナリシスが行われました。6つの小規模な試験では、断食がこれらのパラメータに統計的に有意な影響を与えないと報告されていますが、断食に有利な傾向が示唆されており、現時点では小さな利益を肯定も否定もできないとされています。と報告されています。\n\n■ ハンドパン。Reddit。Redditユーザーが65ドルを支払い、音楽の絶対的な初心者として、鍵盤や音符の知識がない状態で、何から始めれば良いか助けを求めています。投資に見合う価値があるかどうかも含め、アドバイスを求めています。Reddit。RedditユーザーのFew_Bottle3987さんが、認識できない音楽のタイトルを探しています。投稿には曲を見つけるのが難しいと書かれています。Reddit。RedditユーザーがMAGinstrumentsのハンドパン「D kurd 13 (cyclops model)」の購入を検討しており、メーカー自身のプロモーション以外にユーザーの演奏動画が見つからないため、実際に使用した経験のある人からの推薦を求めている。\n\n■ AI。Hugging Face。Hugging Faceのブログ記事では、NVIDIAのSimReadyアセットを活用して、ロボットのピックアンドプレースシミュレーションを構築する方法が紹介されています。これにより、物理的に正確なシミュレーション環境を効率的に作成し、ロボットの動作検証やアルゴリズム開発を加速できると説明されています。Hugging Face。XYBenchは、大規模言語モデル（LLM）の評価における課題に対処するためにHugging Faceが開発した新しいベンチマークです。このベンチマークは、LLMが質問の背後にある問題を理解し、解決する能力を測定することを目的としています。従来のベンチマークでは捉えきれなかった、より深いレベルの推論能力を評価します。OpenAI。OpenAIは、ChatGPT Work、Codex、dotsのエージェントがユーザーの承認と既存のカード保護を利用して購入を完了できる安全な方法として、「ChatGPT Wallet」を導入しました。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "令和8年度 第3回職員採用試験最終合格者",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-13T12:00:00+09:00",
+          "summary": "気仙沼市は、令和8年度の第3回職員採用試験の最終合格者を発表しました。合格者は市のウェブサイトに掲載されており、今後の採用手続きに関する情報も提供されています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s005/010/010/010/20261111155805.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s005/010/010/010/20261111155805.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E7%AC%AC3%E5%9B%9E%E8%81%B7%E5%93%A1%E6%8E%A1%E7%94%A8%E8%A9%A6%E9%A8%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%90%88%E6%A0%BC%E8%80%85%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "令和8年度市政懇談会について（松岩地区市政懇談会資料をアップしました）",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-11T18:23:00+09:00",
+          "summary": "気仙沼市は、令和8年度の市政懇談会について、松岩地区の資料を公開しました。市民が市政に関する情報を得て意見交換を行うためのものです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/040/057/20260928194404.html#:~:text=%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E6%9D%BE%E5%B2%A9%E5%9C%B0%E5%8C%BA%E5%B8%82%E6%94%BF%E6%87%87%E8%AB%87%E4%BC%9A%E8%B3%87%E6%96%99%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "記者発表資料 令和8年11月更新しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-11T11:15:00+09:00",
+          "summary": "気仙沼市は、令和8年11月に記者発表資料を更新しました。この更新は、市の公式ウェブサイトを通じて市民に情報提供を行うものです。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/08/20261101153916.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/08/20261101153916.html#:~:text=%E8%A8%98%E8%80%85%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%20%E4%BB%A4%E5%92%8C8%E5%B9%B411%E6%9C%88%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "鹿折小児童のアイデアのカツオ使ったサンドイッチ、弁当をセブン―イレブンで販売へ【気仙沼】",
+          "source": "https://www.iwanichi.co.jp/",
+          "publishedAt": "2026-11-15T06:35:17+09:00",
+          "summary": "気仙沼市の鹿折小学校の児童が考案したカツオを使ったサンドイッチと弁当が、セブン-イレブンで販売されることになりました。これは地域と連携した取り組みの一環で、児童のアイデアが商品化されるものです。",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlpDQ0RXcVlQVzc1b3Zya1lVUmZCWjZHZk9hOGhYdldBdnUyWTF3WW5BX2QzUjdTZGVIdEJwYllqaG5Cbm0tY081X3RhdDdnYzF2dF9Ocm5sX3lUbDFlOG9RTFJqUGY2aFRPSEtXQTVlc25QRV9mdW1zblR2ZXRxcVY4LTd5aDViU0NnWmV4ZmpJbnRaOUZ6UEVGTldkX2o2dDUyWVJqRXpmSXlDWGZQN2dmOGczZm1PcDJXc3RxZ3doaVRBeS01dkZn?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlpDQ0RXcVlQVzc1b3Zya1lVUmZCWjZHZk9hOGhYdldBdnUyWTF3WW5BX2QzUjdTZGVIdEJwYllqaG5Cbm0tY081X3RhdDdnYzF2dF9Ocm5sX3lUbDFlOG9RTFJqUGY2aFRPSEtXQTVlc25QRV9mdW1zblR2ZXRxcVY4LTd5aDViU0NnWmV4ZmpJbnRaOUZ6UEVGTldkX2o2dDUyWVJqRXpmSXlDWGZQN2dmOGczZm1PcDJXc3RxZ3doaVRBeS01dkZn?oc=5#:~:text=%E9%B9%BF%E6%8A%98%E5%B0%8F%E5%85%90%E7%AB%A5%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%81%AE%E3%82%AB%E3%83%84%E3%82%AA%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81%E3%80%81%E5%BC%81%E5%BD%93%E3%82%92%E3%82%BB%E3%83%96%E3%83%B3%E2%80%95%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%81%A7%E8%B2%A9%E5%A3%B2%E3%81%B8",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "廻船問屋の厳選コレクションゆっくりと 気仙沼・小野健商店が土蔵サロン 11月毎週日に開催",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-11-15T05:00:00+09:00",
+          "summary": "気仙沼市の小野健商店は、11月の毎週日曜日に土蔵サロンを開催します。廻船問屋の歴史的コレクションを展示し、来場者はゆっくりと鑑賞できます。このイベントは、地域の文化と歴史に触れる機会を提供します。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12a3FCbDFCSjN4eVpHMGZLRk1UMExtOVlTdElvS2hrTUJRWDgyY1RaRG14aXZNWVM2czVHeW0tOXBNeEZwQ3lkbm54NHZ4YTJBYTl4MGZtVlJsSms?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12a3FCbDFCSjN4eVpHMGZLRk1UMExtOVlTdElvS2hrTUJRWDgyY1RaRG14aXZNWVM2czVHeW0tOXBNeEZwQ3lkbm54NHZ4YTJBYTl4MGZtVlJsSms?oc=5#:~:text=%E5%BB%BB%E8%88%B9%E5%95%8F%E5%B1%8B%E3%81%AE%E5%8E%B3%E9%81%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%20%E6%B0%97%E4%BB%99%E6%B2%BC%E3%83%BB%E5%B0%8F%E9%87%8E%E5%81%A5%E5%95%86%E5%BA%97%E3%81%8C%E5%9C%9F%E8%94%B5%E3%82%B5%E3%83%AD%E3%83%B3%2011%E6%9C%88%E6%AF%8E%E9%80%B1%E6%97%A5%E3%81%AB%E9%96%8B%E5%82%AC",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「殴られた」面識ない男性の頬殴り、無職の男(74)逮捕＜宮城・気仙沼市＞",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-11-14T19:43:00+09:00",
+          "summary": "宮城県気仙沼市で、74歳の無職の男が面識のない男性の頬を殴ったとして暴行の疑いで逮捕されました。男は「殴られた」と供述しているとのことです。",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZXFaVlcwMHpkTHUzN09icGprejhjT3hqazBYM0hoNHRBaGtWeHdwQVpsQjVUQlAtT05WeDVNaWhaeE1LRk9yOHRmY0NXWmhRX1hhLTMtX1F2a2tsc3ZYYXNuU0I5S2VHX1hYOHBFVnBEZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZXFaVlcwMHpkTHUzN09icGprejhjT3hqazBYM0hoNHRBaGtWeHdwQVpsQjVUQlAtT05WeDVNaWhaeE1LRk9yOHRmY0NXWmhRX1hhLTMtX1F2a2tsc3ZYYXNuU0I5S2VHX1hYOHBFVnBEZw?oc=5#:~:text=%E6%AE%B4%E3%82%89%E3%82%8C%E3%81%9F%E3%80%8D%E9%9D%A2%E8%AD%98%E3%81%AA%E3%81%84%E7%94%B7%E6%80%A7%E3%81%AE%E9%A0%AC%E6%AE%B4%E3%82%8A%E3%80%81%E7%84%A1%E8%81%B7%E3%81%AE%E7%94%B7%2874%29%E9%80%AE%E6%8D%95",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "「殴られた」面識ない男性の頬殴り、無職の男(74)逮捕＜宮城・気仙沼市＞（2026年11月14日掲載）",
+          "source": "日テレNEWS NNN",
+          "publishedAt": "2026-11-14T19:40:00+09:00",
+          "summary": "宮城県気仙沼市で、面識のない男性の頬を殴ったとして、74歳の無職の男が逮捕されました。男は「殴られた」と供述しているとのことです。",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVNzUUlMNXRxRHZqRHoydklJZkFZUVMtX3hoYnVJajdvZ003dS1tdnV6Q05hR2tiUFhiMTRMWUM4QndmUnJvSnJ3cTNRMWZuT21raXhJajA2RWtfRUJ1dU1YZzJlSXR6SDVrVGVPbkdOUVM5RVBVbnNwS3R1R19mUmgtTlRQOEE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVNzUUlMNXRxRHZqRHoydklJZkFZUVMtX3hoYnVJajdvZ003dS1tdnV6Q05hR2tiUFhiMTRMWUM4QndmUnJvSnJ3cTNRMWZuT21raXhJajA2RWtfRUJ1dU1YZzJlSXR6SDVrVGVPbkdOUVM5RVBVbnNwS3R1R19mUmgtTlRQOEE?oc=5#:~:text=%E6%AE%B4%E3%82%89%E3%82%8C%E3%81%9F%E3%80%8D%E9%9D%A2%E8%AD%98%E3%81%AA%E3%81%84%E7%94%B7%E6%80%A7%E3%81%AE%E9%A0%AC%E6%AE%B4%E3%82%8A%E3%80%81%E7%84%A1%E8%81%B7%E3%81%AE%E7%94%B7%2874%29%E9%80%AE%E6%8D%95",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "高校生が短歌でバトル 宮城・気仙沼高チームが優勝 鳥取市で「全国高校生短歌大会」",
+          "source": "日本海新聞",
+          "publishedAt": "2026-11-14T18:00:00+09:00",
+          "summary": "鳥取市で開催された「全国高校生短歌大会」で、高校生たちが短歌で競い合いました。この大会では、宮城県の気仙沼高校チームが見事優勝を飾りました。",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9udTNOaTBkZ3p4aE1peVFGcHAyTmJFNzJ6cGtmWjRoRHY2RE1maXRET1h2S3duSm54ckFDYktYTzhNZWNydUhJOWJ2bS1iRnNv?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9udTNOaTBkZ3p4aE1peVFGcHAyTmJFNzJ6cGtmWjRoRHY2RE1maXRET1h2S3duSm54ckFDYktYTzhNZWNydUhJOWJ2bS1iRnNv?oc=5#:~:text=%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%8C%E7%9F%AD%E6%AD%8C%E3%81%A7%E3%83%90%E3%83%88%E3%83%AB%20%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E9%AB%98%E3%83%81%E3%83%BC%E3%83%A0%E3%81%8C%E5%84%AA%E5%8B%9D%20%E9%B3%A5%E5%8F%96%E5%B8%82%E3%81%A7%E3%80%8C%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%94%9F%E7%9F%AD%E6%AD%8C%E5%A4%A7%E4%BC%9A",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "三陸沖カツオ終漁へ 気仙沼の日本一奪還確実",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-14T09:03:45+09:00",
+          "summary": "三陸沖でのカツオ漁が終了し、気仙沼漁港が今年のカツオ水揚げ量で日本一を奪還することが確実になりました。これは、気仙沼市にとって重要な経済的成果となります。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80aWtadVYtRmhzUGVmRy1YemU1WnBEM2NBVkgxM0JMRU5zOTJLcVItQ2dOUEFGRWVadUpFUkZWYXZ4a0pwbUVNTUQ0VUxObFozdGx6RF9JSEE?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80aWtadVYtRmhzUGVmRy1YemU1WnBEM2NBVkgxM0JMRU5zOTJLcVItQ2dOUEFGRWVadUpFUkZWYXZ4a0pwbUVNTUQ0VUxObFozdGx6RF9JSEE?oc=5#:~:text=%E4%B8%89%E9%99%B8%E6%B2%96%E3%82%AB%E3%83%84%E3%82%AA%E7%B5%82%E6%BC%81%E3%81%B8%20%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AE%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%AA%E9%82%84%E7%A2%BA%E5%AE%9F",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【特別インタビュー】渡辺謙、病を経て「恐れなくなった」――気仙沼で消えた“俳優”の肩書き、そしてこれから【後編】",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-13T19:35:21+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYVFzanBOVWhoeTBuNkFRYTU0NzEwVnZvY2ppYWpQTXluVnZ4QThvT1I4Q2dfQkRjT0t3VnBsQXl0RUlhck16SlY1VjBQblF6ejJLcEt2Zi1OMGNnSnlRQ2pjdmplV0tKTllUcEl5SHBpWnQ2NHJfQnBLQWJIRzg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYVFzanBOVWhoeTBuNkFRYTU0NzEwVnZvY2ppYWpQTXluVnZ4QThvT1I4Q2dfQkRjT0t3VnBsQXl0RUlhck16SlY1VjBQblF6ejJLcEt2Zi1OMGNnSnlRQ2pjdmplV0tKTllUcEl5SHBpWnQ2NHJfQnBLQWJIRzg?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "国民健康・栄養調査企画解析検討会の開催について",
+          "source": "厚労省",
+          "publishedAt": "2026-11-12T13:50:00+09:00",
+          "summary": "厚生労働省は、国民健康・栄養調査企画解析検討会を開催します。この会議は、国民健康・栄養調査の企画、実施、解析に関する専門的な検討を行うことを目的としています。",
+          "url": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html#:~:text=%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E3%83%BB%E6%A0%84%E9%A4%8A%E8%AA%BF%E6%9F%BB%E3%81%AE%E4%BC%81%E7%94%BB%E3%80%81%E5%AE%9F%E6%96%BD%E3%80%81%E8%A7%A3%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%B0%82%E9%96%80%E7%9A%84%E3%81%AA%E6%A4%9C%E8%A8%8E%E3%82%92%E8%A1%8C%E3%81%86%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "第８回 医療扶助・健康管理支援等に関する検討会 議事録",
+          "source": "厚労省",
+          "publishedAt": "2026-11-10T19:00:00+09:00",
+          "summary": "医療扶助・健康管理支援等に関する第8回検討会では、医療扶助受給者の健康管理支援のあり方について議論されました。具体的な支援策やその効果的な実施方法、関連する課題などが話し合われました。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77344.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_77344.html#:~:text=%E7%AC%AC%EF%BC%98%E5%9B%9E%20%E5%8C%BB%E7%99%82%E6%89%B6%E5%8A%A9%E3%83%BB%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E6%94%AF%E6%8F%B4%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%8E%E4%BC%9A%20%E8%AD%B0%E4%BA%8B%E9%8C%B2",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Fasting During Chemotherapy and Hematologic, Metabolic, and Quality of Life Outcomes: A Systematic Review and Meta-Analysis.",
+          "source": "Nutrients",
+          "publishedAt": "2026-11-06T00:00:00+09:00",
+          "summary": "化学療法中の断食が血液学的、代謝的、およびQOLに与える影響について、システマティックレビューとメタアナリシスが行われました。6つの小規模な試験では、断食がこれらのパラメータに統計的に有意な影響を与えないと報告されていますが、断食に有利な傾向が示唆されており、現時点では小さな利益を肯定も否定もできないとされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030308/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030308/#:~:text=Across%20six%20small%20trials%2C%20fasting%20during%20chemotherapy%20did%20not",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Anti-Inflammatory Dietary Supplements in Pregnancy: A Scoping Review.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-31T00:00:00+09:00",
+          "summary": "妊娠中の抗炎症性栄養補助食品の安全性と有効性に関するレビューが行われ、ビタミンDなど13種類のサプリメントが特定されました。しかし、研究は特定の化合物や生化学的アウトカムに集中しており、有害事象や長期的な乳児への影響に関するデータは不足していると報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030254/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030254/#:~:text=Evidence%20on%20anti-inflammatory%20dietary%20supplements%20in%20pregnan",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Zinc in Inflammatory Bowel Disease: Biological Functions, Clinical Associations and Therapeutic Uncertainty.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-29T00:00:00+09:00",
+          "summary": "Zinc deficiency is reported in up to half of patients with inflammatory bowel disease (IBD), yet interpreting a low seru",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030203/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030203/#:~:text=Zinc%20deficiency%20is%20reported%20in%20up%20to%20half%20of%20patients%20with%20i",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Energy and Micronutrient Intakes Before and After Bariatric Surgery: Nutritional Challenges During the First Postoperative Year.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-28T00:00:00+09:00",
+          "summary": "肥満外科手術（MBS）後の1年間における食事からのエネルギーおよび微量栄養素摂取量の変化を調査した研究です。手術後、エネルギーと全ての微量栄養素の摂取量が大幅に減少したと報告されており、術後の継続的な食事モニタリングと栄養補助食品の摂取が重要であるとされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030178/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030178/#:~:text=Food-derived%20energy%20and%20micronutrient%20intakes%20remained%20subst",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Effects of Oral Vitamin D Supplementation on Physical Performance in Combat-Sport Athletes: A Systematic Review of Randomized Placebo-Controlled Trials.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-28T00:00:00+09:00",
+          "summary": "戦闘スポーツ選手における経口ビタミンD補給が身体能力に与える影響について、ランダム化プラセボ対照試験の系統的レビューが行われました。このレビューでは、ビタミンD補給が特定の身体能力指標を改善する可能性が示唆されていますが、その効果についてはまだ不明確な点が多いと報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030176/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030176/#:~:text=Individual%20trials%20reported%20statistically%20significant%20group-b",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Anxiety Symptoms and Comorbid Anxiety Disorders in Adolescents with Anorexia Nervosa: A Scoping Review and Proposal for a Management Algorithm.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-28T00:00:00+09:00",
+          "summary": "思春期の神経性食欲不振症（AN）患者における不安症状と併存する不安障害の管理は確立されていないと報告されています。栄養状態と不安症状の経過を考慮した上で、精神安定剤の導入や併存疾患の治療を行うことが推奨されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030180/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030180/#:~:text=Anorexia%20nervosa%20%28AN%29%20frequently%20begins%20in%20adolescence%20and%20i",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Nutritional Exposures and Cognitive Impairment in Alcohol Use Disorder: A Structured Narrative Review of Prioritized Human Evidence.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-27T00:00:00+09:00",
+          "summary": "Cognitive impairment in alcohol use disorder (AUD) may reflect alcohol exposure, withdrawal, nutritional disruption, sys",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030175/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030175/#:~:text=Cognitive%20impairment%20in%20alcohol%20use%20disorder%20%28AUD%29%20may%20refle",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Disentangling Fat and Sugar in the Western Diet: Parental Consumption of a High-Fat Diet Alters Offspring Brain Development.",
+          "source": "Nutrients",
+          "publishedAt": "2026-10-27T00:00:00+09:00",
+          "summary": "Maternal consumption of the Western diet is a precursor for metabolic conditions such as obesity and is associated with ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43030168/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43030168/#:~:text=Maternal%20consumption%20of%20the%20Western%20diet%20is%20a%20precursor%20for",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "How do I get started?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-15T04:58:51+09:00",
+          "summary": "Redditユーザーが65ドルを支払い、音楽の絶対的な初心者として、鍵盤や音符の知識がない状態で、何から始めれば良いか助けを求めています。投資に見合う価値があるかどうかも含め、アドバイスを求めています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xwbqnk/how_do_i_get_started/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xwbqnk/how_do_i_get_started/#:~:text=Absolute%20beginner%20no%20idea%20anything%20no%20idea%20key%20no%20idea%20notes",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "You recognize the title ?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-14T08:09:15+09:00",
+          "summary": "RedditユーザーのFew_Bottle3987さんが、認識できない音楽のタイトルを探しています。投稿には曲を見つけるのが難しいと書かれています。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xvmq1f/you_recognize_the_title/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xvmq1f/you_recognize_the_title/#:~:text=Hi%2C%20would%20anyone%20recognize%20the%20title%20of%20this%20music%3F%20Impossib",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "Anyone have any experience with MAGinstruments?",
+          "source": "Reddit",
+          "publishedAt": "2026-11-13T23:07:44+09:00",
+          "summary": "RedditユーザーがMAGinstrumentsのハンドパン「D kurd 13 (cyclops model)」の購入を検討しており、メーカー自身のプロモーション以外にユーザーの演奏動画が見つからないため、実際に使用した経験のある人からの推薦を求めている。",
+          "url": "https://www.reddit.com/r/handpan/comments/1xv8t7t/anyone_have_any_experience_with_maginstruments/",
+          "jumpUrl": "https://www.reddit.com/r/handpan/comments/1xv8t7t/anyone_have_any_experience_with_maginstruments/#:~:text=Ai%20says%20the%20general%20consensus%20is%20MAG%20is%20one%20of%20the%20better%20ma",
+          "badge": "Reddit",
+          "primary": false
+        },
+        {
+          "title": "【睡眠・癒しBGM】一日の終わりに、心を休める夜｜幻想的なハンドパンの音色 | Unwind After a Long Day. Relaxing Handpan Music",
+          "source": "YouTube",
+          "publishedAt": "2026-11-08T01:42:45+09:00",
+          "summary": "YouTubeで公開されている「【睡眠・癒しBGM】一日の終わりに、心を休める夜｜幻想的なハンドパンの音色」は、長い一日の終わりに心を落ち着かせ、リラックスできるハンドパンの音楽を提供しています。このBGMは、睡眠や癒しを求める人々に向けたものです。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkcC1EblJRcVJFWGM2UHR0S29GWVc4S0RSOEQ0R19XNzlNVzA0YUIySERueEZLX1hJOVA1NmhzVkFHWWJPRV9ubTd4TmVsQnlLdks2Ynh4dzd6Qy13?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkcC1EblJRcVJFWGM2UHR0S29GWVc4S0RSOEQ0R19XNzlNVzA0YUIySERueEZLX1hJOVA1NmhzVkFHWWJPRV9ubTd4TmVsQnlLdks2Ynh4dzd6Qy13?oc=5#:~:text=%E7%9D%A1%E7%9C%A0%E3%83%BB%E7%99%92%E3%81%97BGM%E3%80%91%E4%B8%80%E6%97%A5%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AB%E3%80%81%E5%BF%83%E3%82%92%E4%BC%91%E3%82%81%E3%82%8B%E5%A4%9C%EF%BD%9C%E5%B9%BB%E6%83%B3%E7%9A%84%E3%81%AA%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%81%AE%E9%9F%B3%E8%89%B2",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ホーチミン市の若者たちが、ユニークな癒しの音響を持つハンドパン楽器を発見",
+          "source": "Laodong.vn",
+          "publishedAt": "2026-11-07T20:00:00+09:00",
+          "summary": "ホーチミン市の若者たちが、ユニークで癒しの音色を持つハンドパン楽器に魅了されています。この楽器は、その独特な響きでストレス軽減やリラクゼーション効果をもたらすと注目されています。",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzZvb1lVODdOcnNpZnRYZTkxWGhMUjNoQjBjU1ZlTmx1ck13WUh4MkpKS1ZlWk1feGotdURPUlA1NGVNVkYwdFpLbjhiZjUwQVpEeGoyTFpBeFlaQnQxRmhSdzNBZXV4aXo5eGx6ZktfN21Ib2ZXSlNSSmRnREhSdW1Bc2JSN0dVUzlOZlhuRWFDdzE2N1B5alVqel9BMDM5QXpWaXZLcUZXMEllc3B3?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzZvb1lVODdOcnNpZnRYZTkxWGhMUjNoQjBjU1ZlTmx1ck13WUh4MkpKS1ZlWk1feGotdURPUlA1NGVNVkYwdFpLbjhiZjUwQVpEeGoyTFpBeFlaQnQxRmhSdzNBZXV4aXo5eGx6ZktfN21Ib2ZXSlNSSmRnREhSdW1Bc2JSN0dVUzlOZlhuRWFDdzE2N1B5alVqel9BMDM5QXpWaXZLcUZXMEllc3B3?oc=5#:~:text=%E3%83%9B%E3%83%BC%E3%83%81%E3%83%9F%E3%83%B3%E5%B8%82%E3%81%AE%E8%8B%A5%E8%80%85%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E7%99%92%E3%81%97%E3%81%AE%E9%9F%B3%E9%9F%BF%E3%82%92%E6%8C%81%E3%81%A4%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E6%A5%BD%E5%99%A8%E3%82%92%E7%99%BA%E8%A6%8B",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "C418 - Aria Math(Minecraft)【handpan cover】マインクラフト【ハンドパン】 #handpan",
+          "source": "YouTube",
+          "publishedAt": "2026-11-03T17:00:00+09:00",
+          "summary": "YouTubeで公開された動画は、C418の楽曲「Aria Math」をハンドパンでカバーしたものです。人気ゲーム「マインクラフト」のBGMとして知られるこの曲が、ハンドパンによって演奏されています。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xcDVnSTg3WVo4Yk5tdnoyb0Y4N3NWSENEcnJlWlhGOEtqaFRCM1VtMEItQTM5MlU3R2dmNXJwaDdGS2xNVlFPNmhJT0tBd2g2WFI2d2VLVm5oVkpR?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xcDVnSTg3WVo4Yk5tdnoyb0Y4N3NWSENEcnJlWlhGOEtqaFRCM1VtMEItQTM5MlU3R2dmNXJwaDdGS2xNVlFPNmhJT0tBd2g2WFI2d2VLVm5oVkpR?oc=5#:~:text=C418%20-%20Aria%20Math%28Minecraft%29%E3%80%90handpan%20cover%E3%80%91%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%80%90%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【山形】児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校（YTS山形テレビ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "山形県村山市の小学校で、児童たちがスイス発祥の珍しい打楽器「ハンドパン」を体験しました。講師の指導のもと、児童たちはハンドパンの神秘的な音色を楽しみ、音楽に触れる貴重な機会となりました。",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5#:~:text=%E5%85%90%E7%AB%A5%E3%81%8C%E3%82%B9%E3%82%A4%E3%82%B9%E7%99%BA%E7%A5%A5%E3%81%AE%E6%89%93%E6%A5%BD%E5%99%A8%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%80%8D%E4%BD%93%E9%A8%93%20%E6%9D%91%E5%B1%B1%E5%B8%82%E3%81%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "画像・写真 | ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS 2枚目",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "ファーストサマーウイカさんがSNSをきっかけにハンドパンを始めました。彼女はこの楽器の不思議な音色に癒されていると語っています。",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OekdHQTc4RkxPMF9MaEx0MnlvclhMU1luQlpJRG5KUXBWN2NWSDJtWjlDU1pNeE5pNk40aExVRmtBdDA0ZzROOTUxNjJYOEFLV20yalAtbmROZw?oc=5#:~:text=%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%AB%E3%80%81%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%E3%80%8C%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%9F%B3%E8%89%B2%E3%81%A7%E7%99%92%E3%82%84%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%8D%20%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AFSNS",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "山形新聞",
+          "publishedAt": "2026-10-02T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMGNCSTNLQks0VnV6b1FvSnpTRWhmbURvRXFhY2RteVNfbkhuXzNuZ09NVmJjS0h4S3FiT08ya1FfcWFZdDBpSWJ0TElRSDEtc3ZnXzNYSlY3WGZMcXhHbUN5RDk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMGNCSTNLQks0VnV6b1FvSnpTRWhmbURvRXFhY2RteVNfbkhuXzNuZ09NVmJjS0h4S3FiT08ya1FfcWFZdDBpSWJ0TElRSDEtc3ZnXzNYSlY3WGZMcXhHbUN5RDk?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【募集終了】癒やしの響きハンドパンコンサート",
+          "source": "柏市",
+          "publishedAt": "2026-09-25T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yY1NVMG5nV096UW45VTlfYWhqWmpsNGlMNmZVcVVrVmxIRXVDQ1R3aUEyam5WR3FMY2Npc05qenBBVU1EbU5SaU1fS01fVXp2WHozbFZIaXY5VnUya01NalBMSkM0T1lPM2lMNGVqU2Q?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-14T03:00:39+09:00",
+          "summary": "Hugging Faceのブログ記事では、NVIDIAのSimReadyアセットを活用して、ロボットのピックアンドプレースシミュレーションを構築する方法が紹介されています。これにより、物理的に正確なシミュレーション環境を効率的に作成し、ロボットの動作検証やアルゴリズム開発を加速できると説明されています。",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place#:~:text=Build%20a%20Robot%20Pick-and-Place%20Simulation%20with%20SimReady%20Assets",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "XYBench: Helping with the problem behind the question",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-14T02:02:35+09:00",
+          "summary": "XYBenchは、大規模言語モデル（LLM）の評価における課題に対処するためにHugging Faceが開発した新しいベンチマークです。このベンチマークは、LLMが質問の背後にある問題を理解し、解決する能力を測定することを目的としています。従来のベンチマークでは捉えきれなかった、より深いレベルの推論能力を評価します。",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "jumpUrl": "https://huggingface.co/blog/allenai/xybench#:~:text=XYBench%3A%20Helping%20with%20the%20problem%20behind%20the%20question",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-14T00:00:00+09:00",
+          "summary": "OpenAIは、ChatGPT Work、Codex、dotsのエージェントがユーザーの承認と既存のカード保護を利用して購入を完了できる安全な方法として、「ChatGPT Wallet」を導入しました。",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "jumpUrl": "https://openai.com/index/introducing-chatgpt-wallet#:~:text=Introducing%20ChatGPT%20Wallet%2C%20a%20secure%20way%20for%20agents%20in%20ChatG",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-13T23:05:22+09:00",
+          "summary": "llama.cppがバージョン1.0.0をリリースしました。このバージョンは、ローカルAIエコシステムのためのより強固な基盤を築くことを目指しており、今後の開発と安定性の向上に焦点を当てています。",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "jumpUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1#:~:text=llama.cpp%20v1.0.0%20%3A%20A%20stronger%20foundation%20for%20the%20local%20AI%20ec",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-13T17:00:00+09:00",
+          "summary": "ShieldはOpenAIを活用し、IT技術者がレガシーポータルでの作業を引き継ぐのを支援します。Forgeエージェントがシステムを操作することで、技術者は判断を要する問題に集中できます。",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "jumpUrl": "https://openai.com/business/customer-stories/shield#:~:text=Shield%20uses%20OpenAI%20to%20help%20IT%20technicians%20hand%20off%20work%20in%20l",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-13T05:00:00+09:00",
+          "summary": "AmplitudeはOpenAIモデルを基盤としたプロアクティブな製品エージェント「Wave」を活用し、製品改善を1〜2日で実現しています。Waveは開発すべき機能を特定し、コーディングエージェントで変更を実装し、その影響を測定します。",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "jumpUrl": "https://openai.com/business/customer-stories/amplitude#:~:text=Built%20primarily%20on%20OpenAI%20models%2C%20Amplitude%E2%80%99s%20proactive%20prod",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "source": "Google AI",
+          "publishedAt": "2026-11-13T03:00:00+09:00",
+          "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive resp",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/#:~:text=We%20are%20bringing%20Gemini%204%20Hydrogen%20to%20Google%20Search%20globally",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "source": "Google AI",
+          "publishedAt": "2026-11-12T03:00:00+09:00",
+          "summary": "Google AIは、最先端のGemini Decisionモデルを搭載したGemini Decisions APIを発表しました。このAPIは、迅速かつ調整されたマルチモーダルな意思決定を可能にします。",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/#:~:text=Meet%20the%20Gemini%20Decisions%20API%2C%20powered%20by%20our%20state-of-the-a",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "source": "Google AI",
+          "publishedAt": "2026-11-12T01:00:00+09:00",
+          "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets wit",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+          "jumpUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/#:~:text=Tabletop%20is%20a%20new%20Google%20Labs%20experiment%20for%20group%20collabora",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Craif、尿中バイオマーカーを用いた非侵襲的MCI・認知症リスク検査の構築についての成果を発表",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-15T09:40:33+09:00",
+          "summary": "バイオAIスタートアップのCraif株式会社（所在地：東京都新宿区、CEO：小野瀬 隆一、以下Craif）は、第45回日本認知症学会学術集会・第41回日本老年精神医学会 合同大会において、非侵襲的な尿検査による軽度認...",
+          "url": "https://prtimes.jp/main/html/rd/p/000000485.000041883.html",
+          "jumpUrl": "https://prtimes.jp/main/html/rd/p/000000485.000041883.html#:~:text=%E3%83%90%E3%82%A4%E3%82%AAAI%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AECraif%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BC%88%E6%89%80%E5%9C%A8%E5%9C%B0%EF%BC%9A%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E3%80%81CEO%EF%BC%9A%E5%B0%8F%E9%87%8E%E7%80%AC%20%E9%9A%86%E4%B8%80%E3%80%81%E4%BB%A5%E4%B8%8BCraif%EF%BC%89%E3%81%AF%E3%80%81%E7%AC%AC45%E5%9B%9E%E6%97%A5",
+          "badge": "PR TIMES",
+          "primary": false
+        }
+      ]
+    }
+  ]
+}
