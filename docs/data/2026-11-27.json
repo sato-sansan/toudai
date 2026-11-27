@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:30:26.333338+09:00",
+  "audioUrl": "audio/2026-11-27.mp3",
+  "audioScript": "11月27日、金曜日。灯台です。今日の4テーマ、気仙沼、分子栄養、ハンドパン、AIのハイライトをお届けします。\n\n■ 気仙沼。気仙沼市公式。気仙沼市は、広報誌「広報けせんぬま」の令和8年12月1日号を掲載しました。この号では、市内の最新情報やイベント、市民生活に役立つ情報などが紹介されています。気仙沼市公式。気仙沼市は、新しい中学校の標準服と共通運動着の巡回展示会を開催し、市民からのアンケート投票を実施します。この取り組みは、市内の中学校が統合されることに伴い、新設される中学校の制服と運動着を決定するためです。気仙沼市公式。気仙沼市は広報紙の表紙を飾るお子さんの笑顔の写真を募集しています。市内に住む0歳から小学校6年生までが対象で、応募された写真は広報紙や市のウェブサイトなどで使用される可能性があります。\n\n■ 分子栄養。Behavioural pharmacologyによると、オピオイドと覚醒剤を併用する患者において、オピオイド離脱症状、渇望、薬物需要のメカニズムを調査した研究が報告されています。N-アセチルシステインの効果を評価しましたが、有意な効果は観察されませんでした。この結果は、サンプルサイズが小さかったことに起因する可能性が指摘されています。と報告されています。厚労省。厚生労働省、農林水産省、経済産業省、スポーツ庁の4省庁が合同で「日経健康経営、ロンジェビティEXPO 2026」に出展、登壇します。これは、健康経営やウェルビーイングの推進を目的とした取り組みの一環です。厚労省。「第15回 健康寿命をのばそう！アワード」は、健康増進や生活習慣病予防に貢献した優れた取り組みを表彰する厚生労働省主催のイベントです。このアワードは、国民の健康寿命延伸を目的としています。\n\n■ ハンドパン。YouTube。クリスタル工房が製造した21音のハンドパン「Pygmy」のチューニングチェック動画がYouTubeで公開されました。このハンドパンは440Hzに調整されており、ゴールドの色合いで癒しの音を奏でます。Yahoo!ニュース。山形県村山市の小学校で、児童たちがスイス発祥の打楽器「ハンドパン」を体験しました。珍しい楽器の音色に触れ、豊かな感性を育む機会となりました。にいがた速報。10月11日に『ビュー福島潟』で『ガタベリング2026 in 福島潟』が開催されます。このイベントでは、星空の天体観測やハンドパンの演奏が楽しめます。\n\n■ AI。Hugging Face。Hugging Faceは、AMD RyzenおよびRadeonユーザー向けにllama.cppベンチマークダッシュボードを導入しました。このダッシュボードは、様々なAMDハードウェア構成におけるllama.cppのパフォーマンスデータを集約し、ユーザーが自身のシステムでモデルを効率的に実行するための情報を提供します。Hugging Face。NVIDIAは、オープンモデルのNemotron 3.5 Parseをリリースしました。このモデルは、データセットの透明性、微調整の容易さ、および高速な推論を特徴としており、開発者がカスタムAIアプリケーションを構築する際の柔軟性を高めることを目指しています。Hugging Face。マルチエージェントシステム（MAS）は、複数のエージェントが相互作用して複雑な問題を解決するシステムです。本記事では、MASの構築、トレーニング、評価に関する実践的なアプローチと課題について解説します。\n\n\n詳しくはアプリの記事カードからどうぞ。今日も良い一日を。",
+  "keywords": [
+    {
+      "keyword": "気仙沼",
+      "articles": [
+        {
+          "title": "「広報けせんぬま」令和8年12月1日号を掲載しました",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-27T08:30:00+09:00",
+          "summary": "気仙沼市は、広報誌「広報けせんぬま」の令和8年12月1日号を掲載しました。この号では、市内の最新情報やイベント、市民生活に役立つ情報などが紹介されています。",
+          "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/010/108/081201/20261124092638.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/sec/s002/020/010/010/108/081201/20261124092638.html#:~:text=%E5%BA%83%E5%A0%B1%E3%81%91%E3%81%9B%E3%82%93%E3%81%AC%E3%81%BE%E3%80%8D%E4%BB%A4%E5%92%8C8%E5%B9%B412%E6%9C%881%E6%97%A5%E5%8F%B7%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "新しい中学校の標準服（制服）・共通運動着の巡回展示会とアンケート投票を実施します",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-27T08:00:00+09:00",
+          "summary": "気仙沼市は、新しい中学校の標準服と共通運動着の巡回展示会を開催し、市民からのアンケート投票を実施します。この取り組みは、市内の中学校が統合されることに伴い、新設される中学校の制服と運動着を決定するためです。",
+          "url": "https://www.kesennuma.miyagi.jp/edu/s162/010/010/010/080/120/20261119115134.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/edu/s162/010/010/010/080/120/20261119115134.html#:~:text=%E6%96%B0%E3%81%97%E3%81%84%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%81%AE%E6%A8%99%E6%BA%96%E6%9C%8D%EF%BC%88%E5%88%B6%E6%9C%8D%EF%BC%89%E3%83%BB%E5%85%B1%E9%80%9A%E9%81%8B%E5%8B%95%E7%9D%80%E3%81%AE%E5%B7%A1%E5%9B%9E%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%A8%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E6%8A%95%E7%A5%A8%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%99",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "お子さんの笑顔の写真を広報紙の表紙に掲載します",
+          "source": "気仙沼市公式",
+          "publishedAt": "2026-11-26T10:30:00+09:00",
+          "summary": "気仙沼市は広報紙の表紙を飾るお子さんの笑顔の写真を募集しています。市内に住む0歳から小学校6年生までが対象で、応募された写真は広報紙や市のウェブサイトなどで使用される可能性があります。",
+          "url": "https://www.kesennuma.miyagi.jp/kosodate/010/202701.html",
+          "jumpUrl": "https://www.kesennuma.miyagi.jp/kosodate/010/202701.html#:~:text=%E5%B8%82%E5%86%85%E3%81%AB%E4%BD%8F%E3%82%800%E6%AD%B3%E3%81%8B%E3%82%89%E5%B0%8F%E5%AD%A6%E6%A0%A16%E5%B9%B4%E7%94%9F%E3%81%BE%E3%81%A7%E3%81%AE%E3%81%8A%E5%AD%90%E3%81%95%E3%82%93%E3%81%8C%E5%AF%BE%E8%B1%A1%E3%81%A7%E3%81%99%E3%80%82",
+          "badge": "市公式",
+          "primary": true
+        },
+        {
+          "title": "気仙沼西地区カボチャがゆ会",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-27T09:02:11+09:00",
+          "summary": "気仙沼西地区で「カボチャがゆ会」が開催されました。このイベントは株式会社三陸新報社が報じています。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyYWdnSExhWXR2dUxPdHdRRlhvVXBObTN1akJ4WTVsdjRUNjY3X2lTQmJ4Q05EM2gyZm9pOXFKZFhGaWdRSm5WS1Y4Zy1uTTZEU25zd3RMOEc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyYWdnSExhWXR2dUxPdHdRRlhvVXBObTN1akJ4WTVsdjRUNjY3X2lTQmJ4Q05EM2gyZm9pOXFKZFhGaWdRSm5WS1Y4Zy1uTTZEU25zd3RMOEc?oc=5#:~:text=%E6%B0%97%E4%BB%99%E6%B2%BC%E8%A5%BF%E5%9C%B0%E5%8C%BA%E3%82%AB%E3%83%9C%E3%83%81%E3%83%A3%E3%81%8C%E3%82%86%E4%BC%9A%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%20%E4%B8%89%E9%99%B8%E6%96%B0%E5%A0%B1%E7%A4%BE",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "１日から気仙沼市商街連大漁くじ大売り出し",
+          "source": "株式会社 三陸新報社",
+          "publishedAt": "2026-11-27T09:02:11+09:00",
+          "summary": "気仙沼市商街連は1日から大漁くじの大売り出しを開始します。このイベントは、地域の商業活性化を目的としています。",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ta2oyQjVDcWlVLUt5Ml9aalhObEhWcUE3SkVHTXRQRnQxZEhlV0tlV2ZobTJDZFZiTm9SVWI2My1sTmxPNkNHWm84d1pVTjZsYXdrVDB5T3Y?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ta2oyQjVDcWlVLUt5Ml9aalhObEhWcUE3SkVHTXRQRnQxZEhlV0tlV2ZobTJDZFZiTm9SVWI2My1sTmxPNkNHWm84d1pVTjZsYXdrVDB5T3Y?oc=5#:~:text=%EF%BC%91%E6%97%A5%E3%81%8B%E3%82%89%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E5%95%86%E8%A1%97%E9%80%A3%E5%A4%A7%E6%BC%81%E3%81%8F%E3%81%98%E5%A4%A7%E5%A3%B2%E3%82%8A%E5%87%BA%E3%81%97",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ホヤぼーやと一緒にイルミネーション 宮城・気仙沼のないわん広場で12月1日スタート",
+          "source": "47NEWS",
+          "publishedAt": "2026-11-27T08:57:30+09:00",
+          "summary": "宮城県気仙沼市のないわん広場で、12月1日から「ホヤぼーやと一緒にイルミネーション」が開催されます。このイベントは、気仙沼の冬の風物詩として親しまれています。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcHQ4aEppVWdnZlNxejkwbWxKdzI3RXI2dnhCS3hnNV9ydW1WMXRIR3lONVZSY0lCZWNQMXRKSnRxSEQ4MWxkS1FjRQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcHQ4aEppVWdnZlNxejkwbWxKdzI3RXI2dnhCS3hnNV9ydW1WMXRIR3lONVZSY0lCZWNQMXRKSnRxSEQ4MWxkS1FjRQ?oc=5#:~:text=%E3%83%9B%E3%83%A4%E3%81%BC%E3%83%BC%E3%82%84%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%AE%AE%E5%9F%8E%E3%83%BB%E6%B0%97%E4%BB%99%E6%B2%BC%E3%81%AE%E3%81%AA%E3%81%84%E3%82%8F%E3%82%93%E5%BA%83%E5%A0%B4%E3%81%A712%E6%9C%881%E6%97%A5%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "＜高校写真部＞「嫌な予感」鈴木公太（気仙沼向洋3年）",
+          "source": "河北新報オンライン",
+          "publishedAt": "2026-11-27T05:00:00+09:00",
+          "summary": "この記事は、気仙沼向洋高校3年の鈴木公太さんの写真作品「嫌な予感」について紹介しています。鈴木さんは高校写真部に所属しており、この作品は彼の視点から捉えられたものです。",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CV1N2eVB5TlRLQ3lzdTJaRnBuakZhdVhPMDNmMXV5MkoyN0NKSkd4bWdFM0diMnVaVWMyd2w3ZnExUUpqXzlXQUlRUnhQX01mMFYtWS0ydVRkRzg?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CV1N2eVB5TlRLQ3lzdTJaRnBuakZhdVhPMDNmMXV5MkoyN0NKSkd4bWdFM0diMnVaVWMyd2w3ZnExUUpqXzlXQUlRUnhQX01mMFYtWS0ydVRkRzg?oc=5#:~:text=%EF%BC%9C%E9%AB%98%E6%A0%A1%E5%86%99%E7%9C%9F%E9%83%A8%EF%BC%9E%E3%80%8C%E5%AB%8C%E3%81%AA%E4%BA%88%E6%84%9F%E3%80%8D%E9%88%B4%E6%9C%A8%E5%85%AC%E5%A4%AA%EF%BC%88%E6%B0%97%E4%BB%99%E6%B2%BC%E5%90%91%E6%B4%8B3%E5%B9%B4",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【ウィーメックス】口腔外科領域で「Teladoc HEALTH」を初活用‐東北大病院と気仙沼市立病院で試験運用開始",
+          "source": "薬事日報",
+          "publishedAt": "2026-11-26T17:37:32+09:00",
+          "summary": "ウィーメックスは、東北大学病院と気仙沼市立病院で、口腔外科領域における「Teladoc HEALTH」の試験運用を開始しました。これは、遠隔医療技術を活用し、専門医の少ない地域での医療アクセス向上を目指すものです。",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rX0dOUjJCRTdsaDBtQURKVkwyMEhENGlCSVdaTUlUdGFndEItdXFxZlI2bnAxR2kzOWQ2N001bU5yMFE4TUQxaDFnQnRyYjRKSUtr?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rX0dOUjJCRTdsaDBtQURKVkwyMEhENGlCSVdaTUlUdGFndEItdXFxZlI2bnAxR2kzOWQ2N001bU5yMFE4TUQxaDFnQnRyYjRKSUtr?oc=5#:~:text=%E5%8F%A3%E8%85%94%E5%A4%96%E7%A7%91%E9%A0%98%E5%9F%9F%E3%81%A7%E3%80%8CTeladoc%20HEALTH%E3%80%8D%E3%82%92%E5%88%9D%E6%B4%BB%E7%94%A8%E2%80%90%E6%9D%B1%E5%8C%97%E5%A4%A7%E7%97%85%E9%99%A2%E3%81%A8%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E7%AB%8B%E7%97%85%E9%99%A2%E3%81%A7%E8%A9%A6%E9%A8%93%E9%81%8B%E7%94%A8%E9%96%8B%E5%A7%8B",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "宮城 気仙沼 中学校再編で生徒が新たな校章を考案",
+          "source": "NHKニュース",
+          "publishedAt": "2026-11-26T17:09:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XQjF1YkRJTUQzSU9idi1BX3R2ODJEOU1PTlJDdTR1MTBTQW4zcEd3WFJabEU2R002LWpMTnhFYURKaUxIaF9PUHJBSGJfVW5vQjZmbzIxS0UtZGc1Vi1z?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XQjF1YkRJTUQzSU9idi1BX3R2ODJEOU1PTlJDdTR1MTBTQW4zcEd3WFJabEU2R002LWpMTnhFYURKaUxIaF9PUHJBSGJfVW5vQjZmbzIxS0UtZGc1Vi1z?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "560万円の特別背任の疑いで男逮捕 宮城・気仙沼署（河北新報）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-26T15:28:11+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aU2dtY3lxQ1ozUnNwRVM4R3p1QTVSQTh3aVMwX0QxaEZLM21WNmUwMDJteklMUllmVE55Nm81Rl9zOVIzR2NnT0lRTkZwdWMyMnRDdlg1ZTJ5RC1HVk9VdjcyMWNoRHJRQnktamx6ZzRWMmVpNnQ5d2hwR1lBdTQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aU2dtY3lxQ1ozUnNwRVM4R3p1QTVSQTh3aVMwX0QxaEZLM21WNmUwMDJteklMUllmVE55Nm81Rl9zOVIzR2NnT0lRTkZwdWMyMnRDdlg1ZTJ5RC1HVk9VdjcyMWNoRHJRQnktamx6ZzRWMmVpNnQ5d2hwR1lBdTQ?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "分子栄養",
+      "articles": [
+        {
+          "title": "Opioid withdrawal, craving and drug demand in individuals with comorbid opioid and stimulant use disorder: investigating glutamatergic mechanisms.",
+          "source": "Behavioural pharmacology",
+          "publishedAt": "2026-12-01T00:00:00+09:00",
+          "summary": "オピオイドと覚醒剤を併用する患者において、オピオイド離脱症状、渇望、薬物需要のメカニズムを調査した研究が報告されています。N-アセチルシステインの効果を評価しましたが、有意な効果は観察されませんでした。この結果は、サンプルサイズが小さかったことに起因する可能性が指摘されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43096958/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43096958/#:~:text=No%20effects%20of%20n-acetylcysteine%20treatment%20were%20observed%2C%20nor%20",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "厚生労働省、農林水産省、経済産業省及びスポーツ庁が合同で日経健康経営・ロンジェビティEXPO 2026に出展・登壇します",
+          "source": "厚労省",
+          "publishedAt": "2026-11-26T14:00:00+09:00",
+          "summary": "厚生労働省、農林水産省、経済産業省、スポーツ庁の4省庁が合同で「日経健康経営・ロンジェビティEXPO 2026」に出展・登壇します。これは、健康経営やウェルビーイングの推進を目的とした取り組みの一環です。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77684.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_77684.html#:~:text=%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%80%81%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81%E3%80%81%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E5%8F%8A%E3%81%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%BA%81%E3%81%8C%E5%90%88%E5%90%8C%E3%81%A7%E6%97%A5%E7%B5%8C%E5%81%A5%E5%BA%B7%E7%B5%8C%E5%96%B6%E3%83%BB%E3%83%AD%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%93%E3%83%86%E3%82%A3EXPO%202026%E3%81%AB%E5%87%BA%E5%B1%95%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%97%E3%81%BE%E3%81%99",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "「第15回 健康寿命をのばそう！アワード」",
+          "source": "厚労省",
+          "publishedAt": "2026-11-26T14:00:00+09:00",
+          "summary": "「第15回 健康寿命をのばそう！アワード」は、健康増進や生活習慣病予防に貢献した優れた取り組みを表彰する厚生労働省主催のイベントです。このアワードは、国民の健康寿命延伸を目的としています。",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77503.html",
+          "jumpUrl": "https://www.mhlw.go.jp/stf/newpage_77503.html#:~:text=%E5%81%A5%E5%BA%B7%E5%AF%BF%E5%91%BD%E3%82%92%E3%81%AE%E3%81%B0%E3%81%9D%E3%81%86%EF%BC%81%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E3%80%8D%E3%81%AF%E3%80%81%E5%81%A5%E5%BA%B7%E5%A2%97%E9%80%B2%E3%83%BB%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85%E4%BA%88%E9%98%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%84%AA%E3%82%8C%E3%81%9F%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%82%92%E8%A1%A8%E5%BD%B0%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE%E3%81%A7%E3%81%99%E3%80%82",
+          "badge": "厚労省",
+          "primary": true
+        },
+        {
+          "title": "Demographic, Lifestyle, and Metabolic Correlates of Vitamin D Status in Young Bahraini Adults: A Cross-Sectional Study.",
+          "source": "Nutrients",
+          "publishedAt": "2026-11-20T00:00:00+09:00",
+          "summary": "バーレーンの若年成人を対象とした横断研究により、ビタミンD欠乏症が広く見られ、女性で最も頻繁に報告されています。ビタミンD濃度は、サンプリング期間、BMI、インスリン抵抗性に関連しているものの、自己申告による日光曝露とは関連がないと報告されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43092993/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43092993/#:~:text=In%20this%20volunteer%20sample%2C%20hypovitaminosis%20D%20was%20common%2C%20defi",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Prognostic Nutritional Index and Long-Term Mortality After Acute Myocardial Infarction: A Large Retrospective Cohort Study.",
+          "source": "Journal of cardiovascular development and disease",
+          "publishedAt": "2026-11-20T00:00:00+09:00",
+          "summary": "急性心筋梗塞後の患者において、予後栄養指数（PNI）が低いほど10年間の全死因死亡率が高いことが報告されています。PNIは栄養状態、炎症、免疫状態を統合的に示す指標であり、急性心筋梗塞後の長期的なリスク評価に役立つ可能性があるとされています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43083118/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43083118/#:~:text=Lower%20admission%20PNI%20was%20independently%20and%20progressively%20asso",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Urolithin A Attenuates MPP+-Induced Cellular Injury in SH-SY5Y Cells and Modulates Autophagy- and Mitophagy-Associated Markers.",
+          "source": "Life (Basel, Switzerland)",
+          "publishedAt": "2026-11-19T00:00:00+09:00",
+          "summary": "ウロリチンA（UA）は、神経変性疾患に関連する細胞損傷に対し、神経保護作用を持つ可能性が報告されています。本研究では、UAがMPP+によって誘発されるSH-SY5Y細胞の損傷を軽減し、オートファジーおよびマイトファジー関連マーカーを調節することが示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43090783/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43090783/#:~:text=Urolithin%20A%20%28UA%29%2C%20a%20gut%20microbiota-derived%20metabolite%2C%20has%20d",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Association of Sarcopenia Risk with Depressive and Anxiety Symptoms in Patients on Maintenance Hemodialysis: A Cross-Sectional Study.",
+          "source": "Medicina (Kaunas, Lithuania)",
+          "publishedAt": "2026-11-13T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43091620/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43091620/",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Vanillyl Butyl Ether Patch Application Enhances Thermosensory Perception and Alters Microcirculatory Dynamics in the Forearm: A Randomized Double-Blind Crossover Trial.",
+          "source": "Skin pharmacology and physiology",
+          "publishedAt": "2026-10-07T00:00:00+09:00",
+          "summary": "バニリルブチルエーテル（VBE）パッチの貼付が、健常成人において皮膚の微小循環を増加させ、温感などの熱感覚を変化させることが報告されています。これは、皮膚温や筋肉酸素飽和度を変化させることなく、局所的な表層微小血管に影響を与える可能性が示唆されています。",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43081846/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43081846/#:~:text=The%20VBE%20patch%20condition%20showed%20an%20increase%20in%20cutaneous%20bloo",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Isolated Proximal Muscle Myopathy and Generalized Fatigability Associated with Severe Zinc Deficiency Following Sleeve Gastrectomy: A Case Report.",
+          "source": "Cureus",
+          "publishedAt": "2026-10-01T00:00:00+09:00",
+          "summary": "Zinc is a vital micronutrient that plays a role in many bodily functions, such as controlling the immune system, making ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43095439/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/43095439/#:~:text=Zinc%20is%20a%20vital%20micronutrient%20that%20plays%20a%20role%20in%20many%20bodi",
+          "badge": "PubMed",
+          "primary": true
+        },
+        {
+          "title": "Endocrine-Immune Crosstalk in Pediatric Autoimmune Diseases: A Systematic Review of the Role of Micronutrients, with Emphasis on Vitamin D.",
+          "source": "Nutrients",
+          "publishedAt": "2026-09-24T00:00:00+09:00",
+          "summary": "",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42884601/",
+          "jumpUrl": "https://pubmed.ncbi.nlm.nih.gov/42884601/",
+          "badge": "PubMed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "keyword": "ハンドパン",
+      "articles": [
+        {
+          "title": "クリスタル工房 ハンドパン Pygmy 21音 チューニングチェック handpan 440Hz ゴールド 癒しの音 Pm2100",
+          "source": "YouTube",
+          "publishedAt": "2026-10-23T16:00:00+09:00",
+          "summary": "クリスタル工房が製造した21音のハンドパン「Pygmy」のチューニングチェック動画がYouTubeで公開されました。このハンドパンは440Hzに調整されており、ゴールドの色合いで癒しの音を奏でます。",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lZ1NVUGJvaDM2WDVrd3RRNWpLeUxFLVZvUXN1MXM0ZXh3MGNCSlhDbW55bVpRUEJYYU1Pdm5TOTM3elktSEFRZ0dLb1JNbGhnRUtxNExObEV0MmFK?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lZ1NVUGJvaDM2WDVrd3RRNWpLeUxFLVZvUXN1MXM0ZXh3MGNCSlhDbW55bVpRUEJYYU1Pdm5TOTM3elktSEFRZ0dLb1JNbGhnRUtxNExObEV0MmFK?oc=5#:~:text=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E5%B7%A5%E6%88%BF%20%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%20Pygmy%2021%E9%9F%B3%20%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%20handpan%20440Hz%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%20%E7%99%92%E3%81%97%E3%81%AE%E9%9F%B3%20P",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "【山形】児童がスイス発祥の打楽器「ハンドパン」体験 村山市の小学校（YTS山形テレビ）",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "山形県村山市の小学校で、児童たちがスイス発祥の打楽器「ハンドパン」を体験しました。珍しい楽器の音色に触れ、豊かな感性を育む機会となりました。",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ajB5WTdWcURQSmtiMHBXX1R3dnJZWFdTczZZN2xkb18ybGUtczc4T0F2dUpZQXdvRlBwZld2Zmp0cGVQOFhNeG1zbnBLSnJzQ3p1cXd2NEE0T1Y2N1RnQXBYTjUxenJRTC1nY0NiX0VFeFhjSHZKblJzUWpSbUk?oc=5#:~:text=%E5%85%90%E7%AB%A5%E3%81%8C%E3%82%B9%E3%82%A4%E3%82%B9%E7%99%BA%E7%A5%A5%E3%81%AE%E6%89%93%E6%A5%BD%E5%99%A8%E3%80%8C%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%80%8D%E4%BD%93%E9%A8%93%20%E6%9D%91%E5%B1%B1%E5%B8%82%E3%81%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "星空の天体観測やハンドパン！『ビュー福島潟』で『ガタベリング2026 in 福島潟』開催！10月11日。",
+          "source": "にいがた速報",
+          "publishedAt": "2026-10-09T16:00:00+09:00",
+          "summary": "10月11日に『ビュー福島潟』で『ガタベリング2026 in 福島潟』が開催されます。このイベントでは、星空の天体観測やハンドパンの演奏が楽しめます。",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZlBBa1JrekU4dkR0cHB3a2ZoR0tSYzVHNGhOUFJWODhUUGZOZHktaThFYy0zOWZucm5PXzAycnNkRjkzS2RrWGVZMVBObjRZUnc?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZlBBa1JrekU4dkR0cHB3a2ZoR0tSYzVHNGhOUFJWODhUUGZOZHktaThFYy0zOWZucm5PXzAycnNkRjkzS2RrWGVZMVBObjRZUnc?oc=5#:~:text=%E6%98%9F%E7%A9%BA%E3%81%AE%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%E3%82%84%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%EF%BC%81%E3%80%8E%E3%83%93%E3%83%A5%E3%83%BC%E7%A6%8F%E5%B3%B6%E6%BD%9F%E3%80%8F%E3%81%A7%E3%80%8E%E3%82%AC%E3%82%BF%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B02026%20in%20%E7%A6%8F%E5%B3%B6%E6%BD%9F%E3%80%8F%E9%96%8B%E5%82%AC%EF%BC%8110%E6%9C%8811%E6%97%A5%E3%80%82",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "燕市初のシティプロモーション地域おこし協力隊に東京の23歳デザイナー ハンドパンに魅了される",
+          "source": "ケンオー・ドットコム",
+          "publishedAt": "2026-10-08T16:00:00+09:00",
+          "summary": "燕市は初のシティプロモーション地域おこし協力隊として、東京出身の23歳デザイナーを迎えました。彼女はハンドパンという楽器に魅了されており、その経験を活かして市の魅力発信に貢献します。",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yMUEyZmtNcVZvUW9YaEpUN2w4R3FWMTJFRG82UHpDOUZGSl9ZNzNYZnByYWlxQmctZkQ5YVJvbkoyZWotQmdsNQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yMUEyZmtNcVZvUW9YaEpUN2w4R3FWMTJFRG82UHpDOUZGSl9ZNzNYZnByYWlxQmctZkQ5YVJvbkoyZWotQmdsNQ?oc=5#:~:text=%E7%87%95%E5%B8%82%E5%88%9D%E3%81%AE%E3%82%B7%E3%83%86%E3%82%A3%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%9C%B0%E5%9F%9F%E3%81%8A%E3%81%93%E3%81%97%E5%8D%94%E5%8A%9B%E9%9A%8A%E3%81%AB%E6%9D%B1%E4%BA%AC%E3%81%AE23%E6%AD%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T17:52:00+09:00",
+          "summary": "ファーストサマーウイカさんがSNSをきっかけにハンドパンを始めました。その不思議な音色に癒やされていると語っています。",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2xNbXR4Wm5ORlM5aXNuTXRJOVJVVTVLNGpqdWxKYTItbHdIQXRxS2VVNWVyWGF5ZVlZR2JBQzF0dU5ZWE1TLWtSdUNpZ0k3VTMydDBMdDg3YngwYlhxUHFTV3RDVmdMMFdRTmw5UXVZcDNZNXhXUGFsM0V0YTFiRVZ3?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2xNbXR4Wm5ORlM5aXNuTXRJOVJVVTVLNGpqdWxKYTItbHdIQXRxS2VVNWVyWGF5ZVlZR2JBQzF0dU5ZWE1TLWtSdUNpZ0k3VTMydDBMdDg3YngwYlhxUHFTV3RDVmdMMFdRTmw5UXVZcDNZNXhXUGFsM0V0YTFiRVZ3?oc=5#:~:text=%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%AB%E3%80%81%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%E3%80%8C%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%9F%B3%E8%89%B2%E3%81%A7%E7%99%92%E3%82%84%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%8D%20%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AFSNS",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "コメント | ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T17:06:24+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UTmUwZFBYNmliaTRoYWxxbUlEWGVVTnhVSE13RmlVME96OVhqVHNsZ0R3MTdHNXdSQU5KMzVndVRUZF9jVGQwdVp4NVJmVUh2OF9sYjBDMUNtQQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UTmUwZFBYNmliaTRoYWxxbUlEWGVVTnhVSE13RmlVME96OVhqVHNsZ0R3MTdHNXdSQU5KMzVndVRUZF9jVGQwdVp4NVJmVUh2OF9sYjBDMUNtQQ?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "画像・写真 | ファーストサマーウイカ、ハンドパンを始める「不思議な音色で癒やされます」 きっかけはSNS 1枚目",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T17:05:44+09:00",
+          "summary": "ファーストサマーウイカさんがSNSをきっかけにハンドパンを始めました。その不思議な音色に癒やされていると語っています。",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43b0NXcnl5RXc5bU84WTlFYzBralhFRnEyd3BPWWFTbGdJQ1JMLWdPdzVVeWJUandjcnJqamY4VExBaG5aYWZCQ29EcUJpNFlIMzJ1MXVCckZxQQ?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43b0NXcnl5RXc5bU84WTlFYzBralhFRnEyd3BPWWFTbGdJQ1JMLWdPdzVVeWJUandjcnJqamY4VExBaG5aYWZCQ29EcUJpNFlIMzJ1MXVCckZxQQ?oc=5#:~:text=%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%AB%E3%80%81%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%B3%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%E3%80%8C%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%9F%B3%E8%89%B2%E3%81%A7%E7%99%92%E3%82%84%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "ガンバレルーヤよしこ、驚きの“きのこ飼育”「新幹線に乗せて…」 まひるはハンドパンに熱中「10万円で買い取って」",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-02T00:20:01+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOME5DVzJRd2tqWVRCWjE5ZENHZTlYbjlQX3pPYjBYRTRSOUpZNXNnV1ZnNUZQdkVsTUxmdW9aeXU0eXFWTjFwRUstZ0lKV2ctSTNvQ0ViR2ZwODRZbXBmOTc0emowLThTc0s5VUk4MlVaUGJLcHVEU21VcXQzdS13Y2RB?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOME5DVzJRd2tqWVRCWjE5ZENHZTlYbjlQX3pPYjBYRTRSOUpZNXNnV1ZnNUZQdkVsTUxmdW9aeXU0eXFWTjFwRUstZ0lKV2ctSTNvQ0ViR2ZwODRZbXBmOTc0emowLThTc0s5VUk4MlVaUGJLcHVEU21VcXQzdS13Y2RB?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "コメント | ガンバレルーヤよしこ、驚きの“きのこ飼育”「新幹線に乗せて…」 まひるはハンドパンに熱中「10万円で買い取って」",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-01T21:22:24+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dUo3TXU1Z09pN0tCY2w5YVVwZzRqVlRWY2RtZkNod19KTmQ4Yk9rY05CTmU4U25mdXVOTVBiNkxKRm1rV2djc0gtMHJkVmFuN2VGU05GUXkyZw?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dUo3TXU1Z09pN0tCY2w5YVVwZzRqVlRWY2RtZkNod19KTmQ4Yk9rY05CTmU4U25mdXVOTVBiNkxKRm1rV2djc0gtMHJkVmFuN2VGU05GUXkyZw?oc=5",
+          "badge": "",
+          "primary": false
+        },
+        {
+          "title": "特別企画・展覧会「シルクロードの商人」× ハンドパン演奏",
+          "source": "アットエス",
+          "publishedAt": "2026-09-25T16:00:00+09:00",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeTVQZTJ5SldPSWlZd0FaZVByallsLS1ZNnJoTWZMbXlHZUgtMnRNN0tWaFFtRkxxNXYwYUpFb1VzYktmVG85TngzeWpaal9MVkgxRA?oc=5",
+          "jumpUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeTVQZTJ5SldPSWlZd0FaZVByallsLS1ZNnJoTWZMbXlHZUgtMnRNN0tWaFFtRkxxNXYwYUpFb1VzYktmVG85TngzeWpaal9MVkgxRA?oc=5",
+          "badge": "",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "keyword": "AI",
+      "articles": [
+        {
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-26T20:37:17+09:00",
+          "summary": "Hugging Faceは、AMD RyzenおよびRadeonユーザー向けにllama.cppベンチマークダッシュボードを導入しました。このダッシュボードは、様々なAMDハードウェア構成におけるllama.cppのパフォーマンスデータを集約し、ユーザーが自身のシステムでモデルを効率的に実行するための情報を提供します。",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "jumpUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench#:~:text=Introducing%20the%20llama.cpp%20benchmark%20dashboard%20for%20AMD%20Ryzen%20",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-26T14:05:36+09:00",
+          "summary": "NVIDIAは、オープンモデルのNemotron 3.5 Parseをリリースしました。このモデルは、データセットの透明性、微調整の容易さ、および高速な推論を特徴としており、開発者がカスタムAIアプリケーションを構築する際の柔軟性を高めることを目指しています。",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "jumpUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin#:~:text=NVIDIA%20is%20releasing%20Nemotron%203.5%20Parse%2C%20an%20open%20model%20that%20p",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "source": "Hugging Face",
+          "publishedAt": "2026-11-26T09:00:00+09:00",
+          "summary": "マルチエージェントシステム（MAS）は、複数のエージェントが相互作用して複雑な問題を解決するシステムです。本記事では、MASの構築、トレーニング、評価に関する実践的なアプローチと課題について解説します。",
+          "url": "https://huggingface.co/blog/training-swarms",
+          "jumpUrl": "https://huggingface.co/blog/training-swarms#:~:text=%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%EF%BC%88MAS%EF%BC%89%E3%81%AF%E3%80%81%E8%A4%87%E6%95%B0%E3%81%AE%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%8C%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E3%81%97%E3%81%A6%E8%A4%87%E9%9B%91%E3%81%AA%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A7%E3%81%99%E3%80%82",
+          "badge": "Hugging Face",
+          "primary": true
+        },
+        {
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "source": "Google AI",
+          "publishedAt": "2026-11-25T01:00:00+09:00",
+          "summary": "Google Geminiは、ゴールデンステートと提携し、ウォリアーズ、ヴァルキリーズ、チェイスセンターのファン体験とビジネス運営を強化しています。このパートナーシップにより、組織とファンの双方に新たな価値が提供されます。",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/#:~:text=Google%20Gemini%20partners%20with%20Golden%20State%20to%20power%20fan%20experi",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "source": "DeepMind",
+          "publishedAt": "2026-11-24T22:07:53+09:00",
+          "summary": "Google Antigravityを使用する科学者は、Mass Spec Skillsを活用してタンデム質量スペクトルを解釈できるようになります。これにより、分子の特定と構造解析が効率的に行えるようになります。",
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+          "jumpUrl": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/#:~:text=Mass%20Spec%20Skills%20empowers%20scientists%20using%20Google%20Antigravit",
+          "badge": "DeepMind",
+          "primary": true
+        },
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-24T22:00:00+09:00",
+          "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding acros",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "jumpUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities#:~:text=GPT-6%20models%20design%20protein%20structures%20and%20sequences%20using%20r",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "Searching for distant planets with Astra",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-24T20:00:00+09:00",
+          "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and ",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "jumpUrl": "https://openai.com/index/searching-for-distant-planets-with-astra#:~:text=See%20how%20two%20amateur%20astronomers%20used%20Codex%20and%20Astra%20to%20find",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "How Intentful uses dots to make more time for growth",
+          "source": "OpenAI",
+          "publishedAt": "2026-11-24T09:00:00+09:00",
+          "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving",
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "jumpUrl": "https://openai.com/business/customer-stories/intentful-dots#:~:text=Marina%20Petrova%E2%80%99s%20dot%20Aria%20helps%20research%20websites%20and%20build",
+          "badge": "OpenAI",
+          "primary": true
+        },
+        {
+          "title": "A more tailored Google Search that’s uniquely yours",
+          "source": "Google AI",
+          "publishedAt": "2026-11-24T02:00:00+09:00",
+          "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal ",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "jumpUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/#:~:text=Get%20more%20helpful%20Search%20responses%20by%20securely%20opting%20in%20to%20c",
+          "badge": "Google AI",
+          "primary": true
+        },
+        {
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "source": "DeepMind",
+          "publishedAt": "2026-11-24T01:59:40+09:00",
+          "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "jumpUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/#:~:text=Using%20agent%20teams%20and%20formal%20verification%20to%20improve%20quantum",
+          "badge": "DeepMind",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
